@@ -172,7 +172,7 @@ def lecturaCodere():
                 subinfo = []
             i=i+1
         superInfo.append(info)
-    return superinfo, dep
+    return superInfo, dep
 def lecturaRushBet():
     r = requests.get('https://us1-api.aws.kambicdn.com/offering/v2018/rsico/event/live/open.json?lang=es_ES&market=CO&client_id=2&channel_id=1&ncid=1575773160193')
     text = r.text

@@ -1,0 +1,1 @@
+'https://us1-api.aws.kambicdn.com/offering/v2018/bp/betoffer/event/'+ID_EVENTO+'.json?lang=es_ES&market=CO&client_id=2&channel_id=1&ncid=1575928857658&includeParticipants=true&type='+MIRARA(1-...)
