@@ -1,7 +1,7 @@
 import requests
 import numpy as np
-def lecturaBetPlay(urlBetPlay):
-    r = requests.get(urlBetPlay)
+def lecturaBetPlay():
+    r = requests.get('https://us1-api.aws.kambicdn.com/offering/v2018/bp/event/live/open.json?lang=es_ES&market=CO&client_id=2&channel_id=1&ncid=1575721582313')
     text = r.text
     n = len(text)
     subinfo = []
@@ -57,11 +57,67 @@ def lecturaBetPlay(urlBetPlay):
             subinfo = []
         i=i+1
     return info
-def lecturaWPlay(urlWPlay):
-    return info
+def lecturaWPlay():
+    # Futbol, baloncesto, hockey, tennis, futbol americano
+    dep = ['1','12','16','4','20']
+    superInfo = []
+    for j in dep:
+        urlWPlay = 'https://sb1capi-altenar.biahosted.com/Sportsbook/GetLiveEvents?timezoneOffset=300&langId=4&skinName=wplay&configId=1&culture=es&countryCode=CO&deviceType=Desktop&sportids='+j+'&categoryids=0&champids=0&group=Championship&outrightsDisplay=none&couponType=0&filterSingleNodes=2'
+        r = requests.get(urlWPlay)
+        text = r.text
+        n = len(text)
+        subinfo = []
+        info = []
+        i=0
+        inicio = 0
+        Name = False
+        Price = False
+        Items1 = False
+        Items2 = False
+        Items3 = False
+        bandera = False
+        actualizar = False
+        subinfo = []
+        info = []
+        while i<n:
+            if text[i:i+8]=="\"Items\":" or Items1:
+                if (text[i:i+8]=="\"Items\":" or Items2) and Items1:
+                    if text[i:i+17]=="\"LiveCurrentTime\"":
+                        Items3 = False
+                        bandera = False
+                        actualizar = True
+                        i = i+17
+                    if (text[i:i+8]=="\"Items\":" or Items3) and Items2:
+                        if text[i:i+8]=="\"Name\":\"":
+                            inicio = i+8
+                            Name = True
+                            i=i+8
+                        if text[i:i+8]=="\"Price\":":
+                            inicio = i+8
+                            Price = True
+                            i=i+8
+                        if text[i]=="," and Price:
+                            subinfo.append(text[inicio:i])
+                            Price = False
+                        if text[i]=="\"" and Name:
+                            if bandera:
+                                subinfo.append(text[inicio:i])
+                            bandera = True
+                            Name = False
+                        Items3 = True
+                    Items2 = True
+                Items1 = True
+            if actualizar:
+                actualizar = False
+                info.append(subinfo)
+                subinfo = []
+            i=i+1
+        superInfo.append(info)
+    return superInfo, dep
 def lecturaCodere():
-    const = ['soccer','american_football','basketball']
-    for j in const:
+    dep = ['soccer','basketball','ice_hockey','tennis','baseball','volleyball','american_football']
+    superInfo = []
+    for j in dep:
         urlCodere = 'https://m.codere.com.co/csbgonline/home/GetLiveEventsBySportHandle?sporthandle='+j+'&languageCode=es-co'
         r = requests.get(urlCodere)
         text = r.text
@@ -115,9 +171,10 @@ def lecturaCodere():
                 info.append(subinfo)
                 subinfo = []
             i=i+1
-    return info
-def lecturaRushBet(urlRushBet):
-    r = requests.get(urlRushBet)
+        superInfo.append(info)
+    return superinfo, dep
+def lecturaRushBet():
+    r = requests.get('https://us1-api.aws.kambicdn.com/offering/v2018/rsico/event/live/open.json?lang=es_ES&market=CO&client_id=2&channel_id=1&ncid=1575773160193')
     text = r.text
     n = len(text)
     subinfo = []
