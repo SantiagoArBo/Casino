@@ -1,9 +1,10 @@
 from lecturas import *
-Betplay = lecturaBetPlay()
-RushBer = lecturaRushBet()
-[Codere, deportes] = lecturaCodere()
-[WPlay, dep] = lecturaWPlay()
-print(Betplay)
-print(RushBer)
-print(Codere)
-print(WPlay)
+def main():
+    BetPlay = lecturaBetPlay()
+    RushBet = lecturaRushBet()
+    Codere = lecturaCodere()
+    print(Codere)
+    print(BetPlay)
+    print(RushBet)
+if __name__ == '__main__':
+    main()
