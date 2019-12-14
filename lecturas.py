@@ -17,7 +17,7 @@ def lecturaBetPlay():
     r = requests.get('https://us1-api.aws.kambicdn.com/offering/v2018/bp/event/live/open.json?lang=es_ES&market=CO&client_id=2&channel_id=1&ncid=1575721582313')
     a = r.json()
     for id in a["liveEvents"]:
-        tipo = id["event"]["path"][0]["Name"]
+        tipo = id["event"]["path"][0]["name"]
         r = requests.get('https://us1-api.aws.kambicdn.com/offering/v2018/bp/betoffer/event/'+str(id["event"]["id"])+'.json?lang=es_ES&market=CO&client_id=2&channel_id=1&ncid=1575928857658&includeParticipants=true&type=6')
         data = r.json()
         contador = 0
@@ -81,9 +81,10 @@ def lecturaCodere():
                 try:
                     nombre = data["Name"]
                     for k in data["Games"]:
-                        for w in k["Results"]:
-                            odds.append(w["Odd"])
-                            apuestas.append(w["Name"])
+                        if len(k["Results"])==2:
+                            for w in k["Results"]:
+                                odds.append(w["Odd"])
+                                apuestas.append(w["Name"])
                     match = partido(deporte, nombre, apuestas, odds)
                     info.append(match)
                 except:
@@ -97,7 +98,7 @@ def lecturaRushBet():
     r = requests.get('https://us1-api.aws.kambicdn.com/offering/v2018/rsico/event/live/open.json?lang=es_ES&market=CO&client_id=2&channel_id=1&ncid=1575773160193')
     a = r.json()
     for id in a["liveEvents"]:
-        tipo = id["event"]["path"][0]["Name"]
+        tipo = id["event"]["path"][0]["name"]
         r = requests.get('https://us1-api.aws.kambicdn.com/offering/v2018/rsico/betoffer/event/'+str(id["event"]["id"])+'.json?lang=es_ES&market=CO&client_id=2&channel_id=1&ncid=1575928857658&includeParticipants=true&type=6')
         data = r.json()
         contador = 0
