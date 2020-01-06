@@ -74,7 +74,7 @@ def lecturaCodere():
         for j in a[i]["Events"]:
             apuestas = []
             odds = []
-            deporte = j["SportHandle"]
+            deporte = a[i]["Name"]
             r = requests.get('https://m.codere.com.co/csbgonline/home/GetGamesLive?parentid='+str(j["NodeId"])+'&languageCode=es-co')
             try:
                 data = r.json()

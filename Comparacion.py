@@ -10,6 +10,7 @@ def prepros(partidosPorPaginas,debug):
             n = n.replace('team','')
             n = n.replace('club','')
             n = n.replace('sub-20','')
+            n = n.replace('-sp','')
             n1 = n.split("-")
             if len(n1) == 1:
                 n1 = n.split("vs.")
@@ -31,25 +32,32 @@ def ordenar(partidosPorPaginas,debug):
     for i in partidosPorPaginas:
         m.append(len(i))
     val = m.index(max(m))
-    i = 0
-    while i<m[val]:
-        number = [-1,-1,-1,-1]
-        number[val] = i
-        j = 0
-        while j<4:
-            if j is not val:
-                sen = 0.4
-                w = 0
-                while w<m[j]:
-                    a = comparar(partidosPorPaginas[val][i],partidosPorPaginas[j][w])
-                    if a > sen:
-                        number[j] = w
-                        #w = 9999999999
-                        sen = a
-                    w = w+1
-            j = j+1
-        respuesta.append(number)
-        i = i+1
+    q=0
+    while q<4:
+        i = 0
+        while i<m[q]:
+            actualizar = True
+            for buscar in respuesta:
+                if buscar[q] == i:
+                    actualizar = False
+            if actualizar:
+                number = [-1,-1,-1,-1]
+                number[q] = i
+                j = 0
+                while j<4:
+                    if j is not q:
+                        sen = 0.4
+                        w = 0
+                        while w<m[j]:
+                            a = comparar(partidosPorPaginas[q][i],partidosPorPaginas[j][w])
+                            if a > sen:
+                                number[j] = w
+                                sen = a
+                            w = w+1
+                    j = j+1
+                respuesta.append(number)
+            i = i+1
+        q=q+1
     return respuesta
 def comparar(a1,a2):
     n1 = len(a1)
