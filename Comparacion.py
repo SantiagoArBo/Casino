@@ -4,9 +4,12 @@ def prepros(partidosPorPaginas,debug):
     for pagina in partidosPorPaginas:
         respuesta1 = []
         for partidos in pagina:
+            if not debug:
+                partidos = partidos.partido
             n = partidos.lower()
             n = n.replace('team','')
             n = n.replace('club','')
+            n = n.replace('sub-20','')
             n1 = n.split("-")
             if len(n1) == 1:
                 n1 = n.split("vs.")
@@ -23,6 +26,7 @@ def prepros(partidosPorPaginas,debug):
         respuesta.append(respuesta1)
     return respuesta
 def ordenar(partidosPorPaginas,debug):
+    sen = 0.4
     respuesta = []
     m = []
     for i in partidosPorPaginas:
@@ -38,7 +42,7 @@ def ordenar(partidosPorPaginas,debug):
                 w = 0
                 while w<m[j]:
                     a = comparar(partidosPorPaginas[val][i],partidosPorPaginas[j][w])
-                    if a > 0.8:
+                    if a > sen:
                         number[j] = w
                         w = 9999999999
                     w = w+1
@@ -83,6 +87,8 @@ def comparacion(partidosPorPaginas,debug):
                   ["BaYeR del Munchen - chalke 04","Barcelona FC - Real Mádrid","Real Popayan - America s54","Millonarios TEAM - Olympia Real",],\
                   ["Real Popayan vs. America s54","Olympia Real vs. Millonarios","chalke 04 vs. Munchen"]]
     nombres = prepros(partidosPorPaginas,debug)
-    print(nombres)
+    if debug:
+        print(nombres)
+        print(respuesta)
     respuesta = ordenar(nombres,debug)
-    print(respuesta)
+    return respuesta

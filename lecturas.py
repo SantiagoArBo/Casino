@@ -100,21 +100,24 @@ def lecturaRushBet():
     for id in a["liveEvents"]:
         tipo = id["event"]["path"][0]["name"]
         r = requests.get('https://us1-api.aws.kambicdn.com/offering/v2018/rsico/betoffer/event/'+str(id["event"]["id"])+'.json?lang=es_ES&market=CO&client_id=2&channel_id=1&ncid=1575928857658&includeParticipants=true&type=6')
-        data = r.json()
-        contador = 0
-        str1 = 'a'
-        str2 = 'b'
-        apuestas = []
-        odds = []
         try:
-            for i in data["betOffers"]:
-                str1 = i["criterion"]["label"]
-                for j in i["outcomes"]:
-                    str2 = j["label"]
-                    odds.append(j["odds"]*0.001)
-                    apuestas.append(str1+" "+str2+ " "+str(j["line"]*0.001))
-            match = partido(tipo, data["events"][0]["name"], apuestas, odds)
-            info.append(match)
+            data = r.json()
+            contador = 0
+            str1 = 'a'
+            str2 = 'b'
+            apuestas = []
+            odds = []
+            try:
+                for i in data["betOffers"]:
+                    str1 = i["criterion"]["label"]
+                    for j in i["outcomes"]:
+                        str2 = j["label"]
+                        odds.append(j["odds"]*0.001)
+                        apuestas.append(str1+" "+str2+ " "+str(j["line"]*0.001))
+                match = partido(tipo, data["events"][0]["name"], apuestas, odds)
+                info.append(match)
+            except:
+                print("error en algo en el id: "+str(id["event"]["id"])+" en el deporte: "+tipo+", RushBet")
         except:
             print("error en algo en el id: "+str(id["event"]["id"])+" en el deporte: "+tipo+", RushBet")
     return info
