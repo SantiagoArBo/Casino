@@ -35,7 +35,7 @@ def lecturaBetPlay():
             match = partido(tipo, data["events"][0]["name"], apuestas, odds)
             info.append(match)
         except:
-            info.append("error en algo en el id: "+str(id["event"]["id"])+" en el deporte: "+tipo)
+            print("error en algo en el id: "+str(id["event"]["id"])+" en el deporte: "+tipo+", BetPlay")
     return info
 def lecturaWPlay():
     dep = list(range(1,21))
@@ -62,7 +62,7 @@ def lecturaWPlay():
                         match = partido(deporte, nombre, apuesta, valor)
                         info.append(match)
                     except:
-                        info.append("error")
+                        print("error en algo en WPlay")
     return info
 def lecturaCodere():
     info = []
@@ -88,9 +88,9 @@ def lecturaCodere():
                     match = partido(deporte, nombre, apuestas, odds)
                     info.append(match)
                 except:
-                    info.append("error en algo en el id: "+str(j["NodeId"])+" en el deporte: "+deporte)
+                    print("error en algo en el id: "+str(j["NodeId"])+" en el deporte: "+deporte+", Codere")
             except:
-                info.append("error total")
+                print("error total en Codere")
         i=i+1
     return info
 def lecturaRushBet():
@@ -116,5 +116,5 @@ def lecturaRushBet():
             match = partido(tipo, data["events"][0]["name"], apuestas, odds)
             info.append(match)
         except:
-            info.append("error en algo en el id: "+str(id["event"]["id"])+" en el deporte: "+tipo)
+            print("error en algo en el id: "+str(id["event"]["id"])+" en el deporte: "+tipo+", RushBet")
     return info
