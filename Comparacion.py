@@ -26,7 +26,6 @@ def prepros(partidosPorPaginas,debug):
         respuesta.append(respuesta1)
     return respuesta
 def ordenar(partidosPorPaginas,debug):
-    sen = 0.4
     respuesta = []
     m = []
     for i in partidosPorPaginas:
@@ -39,12 +38,14 @@ def ordenar(partidosPorPaginas,debug):
         j = 0
         while j<4:
             if j is not val:
+                sen = 0.4
                 w = 0
                 while w<m[j]:
                     a = comparar(partidosPorPaginas[val][i],partidosPorPaginas[j][w])
                     if a > sen:
                         number[j] = w
-                        w = 9999999999
+                        #w = 9999999999
+                        sen = a
                     w = w+1
             j = j+1
         respuesta.append(number)
