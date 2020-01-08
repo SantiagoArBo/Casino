@@ -11,17 +11,22 @@ def prepros(partidosPorPaginas,debug):
             n = n.replace('club','')
             n = n.replace('sub-20','')
             n = n.replace('-sp','')
+            n = n.replace('femenino','')
+            n = n.replace('u20','')
             n1 = n.split("-")
             if len(n1) == 1:
                 n1 = n.split("vs.")
             i = 0
             while i<len(n1):
+                b = n1[i]
                 a = n1[i].split(" ")
                 for j in a:
                     if len(j)<4:
                         n1[i] = n1[i].replace(j,'')
                 n1[i] = n1[i].replace('  ',' ')
                 n1[i] = n1[i].strip()
+                if n1[i] == '':
+                    n1[i] = b
                 i = i+1
             respuesta1.append(n1)
         respuesta.append(respuesta1)
@@ -46,7 +51,7 @@ def ordenar(partidosPorPaginas,debug):
                 j = 0
                 while j<4:
                     if j is not q:
-                        sen = 0.4
+                        sen = 0.5
                         w = 0
                         while w<m[j]:
                             a = comparar(partidosPorPaginas[q][i],partidosPorPaginas[j][w])

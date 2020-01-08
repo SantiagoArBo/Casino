@@ -1,33 +1,47 @@
 from lecturas import *
-from calculadora import *
 from Comparacion import *
+from Apuestas import *
+from ListaDeportes import *
+import time
 def main():
+    s = time.time()
     BetPlay = lecturaBetPlay()
     RushBet = lecturaRushBet()
     Codere = lecturaCodere()
     WPlay = lecturaWPlay()
+    e = time.time()
+    print(e-s)
     v = [len(BetPlay),len(RushBet),len(Codere),len(WPlay)]
     partidosPorPagina = [BetPlay,RushBet,Codere,WPlay]
-    res = comparacion(partidosPorPagina,False)
-    cont = [0,0,0,0]
+    partidosPorDeporte = separarDeportes(partidosPorPagina)
+    res = []
+    for i in partidosPorDeporte:
+        temp = comparacion(i,False)
+        res.append(temp)
+    nuevos_res = []
     for i in res:
-        if i[0] is not -1:
-            cont[0] = cont[0]+1
-        if i[1] is not -1:
-            cont[1] = cont[1]+1
-        if i[2] is not -1:
-            cont[2] = cont[2]+1
-        if i[3] is not -1:
-            cont[3] = cont[3]+1
-    for i in res:
-        j = 0
-        while j<4:
-            if i[j] is not -1:
-                print(partidosPorPagina[j][i[j]].partido)
-            j=j+1
-        print("-------------------------------------------------------------------------------")
-    print(cont)
+        temp = Apuestas(i,partidosPorDeporte)
+        nuevos_res.append(temp)
+    a = len(res)
+    b = 0
+    contador1 = 0
+    contador2 = 0
+    while b<a:
+        contador1 = contador1 + len(res[b])
+        contador2 = contador2 + len(nuevos_res[b])
+        for i in res[b]:
+            j = 0
+            while j<4:
+                if i[j] is not -1:
+                    try:
+                        print(partidosPorDeporte[b][j][i[j]].partido)
+                    except:
+                        pass
+                j=j+1
+            print("-------------------------------------------------------------------------------")
+        b = b+1
+    print(contador1)
+    print(contador2)
     print(v)
-    print(res)
 if __name__ == '__main__':
     main()
