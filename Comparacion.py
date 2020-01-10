@@ -13,6 +13,8 @@ def prepros(partidosPorPaginas,debug):
             n = n.replace('-sp','')
             n = n.replace('femenino','')
             n = n.replace('u20','')
+            n = n.replace(',','')
+            n = n.replace('/','')
             n1 = n.split("-")
             if len(n1) == 1:
                 n1 = n.split("vs.")
