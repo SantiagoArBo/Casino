@@ -1,231 +1,652 @@
-BetPlay:
--Total de goles marcados por el equipo local M�s de
--Total de goles marcados por el equipo local Menos
--Total de goles M�s de
--Total de goles Menos
--Total de goles marcados por el equipo visitante M�s de
--Total de goles marcados por el equipo visitante Menos
--Total de goles - 1.� parte M�s de
--Total de goles - 1.� parte Menos
--Total de goles - 2.� parte M�s de
--Total de goles - 2.� parte Menos
--Total de c�rners M�s de
--Total de c�rners Menos
--Total de tarjetas - Equipo visitante M�s de
--Total de tarjetas - Equipo visitante Menos
--Total de tarjetas - Equipo local M�s de
--Total de tarjetas - Equipo local Menos
--Total de tarjetas M�s de
--Total de tarjetas Menos
--Total de goles - 0: 00 - 9: 59 M�s de
--Total de goles - 0: 00 - 9: 59 Menos
--Total de goles del Equipo local - 2.� parte M�s de
--Total de goles del Equipo local - 2.� parte Menos
--Total de goles - 0: 00 - 29: 59 M�s de
--Total de goles - 0: 00 - 29: 59 Menos
--Total de goles del equipo visitante - 2.� parte M�s de
--Total de goles del equipo visitante - 2.� parte Menos
--Total de goles del Equipo local - 1.� parte M�s de
--Total de goles del Equipo local - 1.� parte Menos
--Total de goles del equipo visitante - 1.� parte M�s de
--Total de goles del equipo visitante - 1.� parte Menos
--Total de c�rners - 0:00-9:59 M�s de
--Total de c�rners - 0:00-9:59 Menos
--Total de c�rners - 1.� parte M�s de
--Total de c�rners - 1.� parte Menos
--Total de c�rners - 20:00-29:59 M�s de
--Total de c�rners - 20:00-29:59 Menos
--Total de goles - 10: 00 - 19: 59 M�s de
--Total de goles - 10: 00 - 19: 59 Menos
--Total de c�rners lanzados por el equipo local M�s de
--Total de c�rners lanzados por el equipo local Menos
--Total de c�rners lanzados por el equipo visitante M�s de
--Total de c�rners lanzados por el equipo visitante Menos
--Total de goles marcados por el equipo local - 0:00-9:59 M�s de
--Total de goles marcados por el equipo local - 0:00-9:59 Menos
--Total de goles marcados por el equipo local - 0:00-29:59 M�s de
--Total de goles marcados por el equipo local - 0:00-29:59 Menos
--Total de goles marcados por el equipo visitante - 0:00-9:59 M�s de
--Total de goles marcados por el equipo visitante - 0:00-9:59 Menos
--Total de goles marcados por el equipo visitante - 0:00-29:59 M�s de
--Total de goles marcados por el equipo visitante - 0:00-29:59 Menos
--Total de goles - 20: 00 - 29: 59 M�s de
--Total de goles - 20: 00 - 29: 59 Menos
--Total de goles - 60: 00 - 89: 59 M�s de
--Total de goles - 60: 00 - 89: 59 Menos
--Total de goles - 80: 00 - 89: 59 M�s de
--Total de goles - 80: 00 - 89: 59 Menos
--Total de goles - 30: 00 - 59: 59 M�s de
--Total de goles - 30: 00 - 59: 59 Menos
--Total de juegos M�s de
--Total de juegos Menos
--Total de juegos - Set 2 M�s de
--Total de juegos - Set 2 Menos
--Total de sets M�s de
--Total de sets Menos
--Total de juegos - Set 3 M�s de
--Total de juegos - Set 3 Menos
--Total de puntos - Set 2, Juego 7 M�s de
--Total de puntos - Set 2, Juego 7 Menos
--Total de puntos - Set 2, Juego 8 M�s de
--Total de puntos - Set 2, Juego 8 Menos
--Total de puntos - Cuarto 2 M�s de
--Total de puntos - Cuarto 2 Menos
--Total de puntos - Incluyendo pr�rroga M�s de
--Total de puntos - Incluyendo pr�rroga Menos
--Total de puntos - 1.� parte M�s de
--Total de puntos - 1.� parte Menos
--Total de puntos del equipo local - Incluyendo pr�rroga M�s de
--Total de puntos del equipo local - Incluyendo pr�rroga Menos
--Total de puntos del equipo visitante - Incluyendo pr�rroga M�s de
--Total de puntos del equipo visitante - Incluyendo pr�rroga Menos
--Total de puntos - Cuarto 3 M�s de
--Total de puntos - Cuarto 3 Menos
--Total de carreras - Equipo visitante M�s de
--Total de carreras - Equipo visitante Menos
--Runs totales - Equipo visitante, Over 37 M�s de
--Runs totales - Equipo visitante, Over 37 Menos
--Runs totales - Equipo visitante, Over 36,  Delivery 2 M�s de
--Runs totales - Equipo visitante, Over 36,  Delivery 2 Menos
--Total de 180 M�s de
--Total de 180 Menos
--Total Puntos del Checkout - Ronda 1, Set 4 M�s de
--Total Puntos del Checkout - Ronda 1, Set 4 Menos
--Total Puntos del Checkout - Ronda 2, Set 4 M�s de
--Total Puntos del Checkout - Ronda 2, Set 4 Menos
--Total de puntos - Cuarto 4 M�s de
--Total de puntos - Cuarto 4 Menos
--Total de goles - Tiempo reglamentario M�s de
--Total de goles - Tiempo reglamentario Menos
--Total de goles marcados por el equipo local - Tiempo Regular M�s de
--Total de goles marcados por el equipo local - Tiempo Regular Menos
--Total de goles marcados por el equipo visitante - Tiempo Regular M�s de
--Total de goles marcados por el equipo visitante - Tiempo Regular Menos
--Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida M�s de
--Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida Menos
--N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de
--N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos
--Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida M�s de
--Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida Menos
--Total de goles - Periodo 2 M�s de
--Total de goles - Periodo 2 Menos
--Total de goles - Periodo 1 M�s de
--Total de goles - Periodo 1 Menos
--Total de goles - Periodo 3 M�s de
--Total de goles - Periodo 3 Menos
--Puntos totales - Resultado al final del Set 2 M�s de
--Puntos totales - Resultado al final del Set 2 Menos
--Total de puntos - Set 3 M�s de
--Total de puntos - Set 3 Menos
--Total de puntos M�s de
--Total de puntos Menos
------------------------------------------------------------------------------------------
+BetPlay
+Swansea City Reservas - Middlesbrough Reservas
+['Total de goles M�s de 2.5', 'Total de goles Menos 2.5', 'Total de goles marcados por el equipo visitante M�s de 1.5', 'Total de goles marcados por el equipo visitante Menos 1.5', 'Total de goles M�s de 4.5', 'Total de goles Menos 4.5', 'Total de goles M�s de 3.5', 'Total de goles Menos 3.5', 'Total de goles M�s de 5.5', 'Total de goles Menos 5.5', 'Total de goles marcados por el equipo local M�s de 2.5', 'Total de goles marcados por el equipo local Menos 2.5', 'Total de goles marcados por el equipo local M�s de 4.5', 'Total de goles marcados por el equipo local Menos 4.5', 'Total de goles M�s de 6.5', 'Total de goles Menos 6.5', 'Total de goles marcados por el equipo visitante M�s de 2.5', 'Total de goles marcados por el equipo visitante Menos 2.5', 'Total de goles marcados por el equipo local M�s de 3.5', 'Total de goles marcados por el equipo local Menos 3.5', 'Total de goles marcados por el equipo visitante M�s de 0.5', 'Total de goles marcados por el equipo visitante Menos 0.5', 'Total de goles del equipo visitante - 2.� parte M�s de 0.5', 'Total de goles del equipo visitante - 2.� parte Menos 0.5', 'Total de goles - 1.� parte M�s de 2.5', 'Total de goles - 1.� parte Menos 2.5', 'Total de goles del Equipo local - 2.� parte M�s de 0.5', 'Total de goles del Equipo local - 2.� parte Menos 0.5', 'Total de goles - 30: 00 - 59: 59 M�s de 2.5', 'Total de goles - 30: 00 - 59: 59 Menos 2.5', 'Total de goles - 30: 00 - 59: 59 M�s de 1.5', 'Total de goles - 30: 00 - 59: 59 Menos 1.5', 'Total de goles del Equipo local - 1.� parte M�s de 2.5', 'Total de goles del Equipo local - 1.� parte Menos 2.5']
 RushBet
--Total de puntos del equipo local - Incluyendo pr�rroga M�s de
--Total de puntos del equipo local - Incluyendo pr�rroga Menos
--Total de puntos - Incluyendo pr�rroga M�s de
--Total de puntos - Incluyendo pr�rroga Menos
--Total de puntos - Cuarto 4 M�s de
--Total de puntos - Cuarto 4 Menos
--Total de puntos del equipo visitante - Incluyendo pr�rroga M�s de
--Total de puntos del equipo visitante - Incluyendo pr�rroga Menos
--Total de goles - Tiempo reglamentario M�s de
--Total de goles - Tiempo reglamentario Menos
--Total de goles - Periodo 2 M�s de
--Total de goles - Periodo 2 Menos
--'Total de goles - Periodo 3 M�s de
--Total de goles - Periodo 3 Menos
--Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida M�s de
--Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida Menos
--Total de goles marcados por el equipo local - Periodo 3 M�s de
--Total de goles marcados por el equipo local - Periodo 3 Menos
--Total de goles marcados por el equipo local - Tiempo Regular M�s de
--Total de goles marcados por el equipo local - Tiempo Regular Menos
--Total de goles marcados por el equipo visitante - Periodo 3 M�s de
--Total de goles marcados por el equipo visitante - Periodo 3 Menos
--N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de
--N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos
--Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida M�s de
--Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida Menos
--Total de goles marcados por el equipo visitante - Tiempo Regular M�s de
--Total de goles marcados por el equipo visitante - Tiempo Regular Menos
--Total de goles marcados por el equipo local - Periodo 2 M�s de
--Total de goles marcados por el equipo local - Periodo 2 Menos
--Total de goles marcados por el equipo visitante - Periodo 2 M�s de
--Total de goles marcados por el equipo visitante - Periodo 2 Menos
--Total de goles - 40:00-49:59 M�s de
--Total de goles - 40:00-49:59 Menos
--Total de goles - 20:00-29:59 M�s de
--Total de goles - 20:00-29:59 Menos
--Total de puntos - 2.� parte M�s de
--Total de puntos - 2.� parte Menos
--Total de puntos - 1.� parte M�s de
--Total de puntos - 1.� parte Menos
--Total de sets M�s de
--Total de sets Menos
--Total de juegos M�s de
--Total de juegos Menos
--Total de juegos - Set 2 M�s de
--Total de juegos - Set 2 Menos
--Total de juegos - Set 3 M�s de
--Total de juegos - Set 3 Menos
--Total de puntos - Set 2, Juego 3 M�s de
--Total de puntos - Set 2, Juego 3 Menos
--Total de puntos - Set 2, Juego 4 M�s de 
--Total de puntos - Set 2, Juego 4 Menos
--Total de puntos - Set 1, Juego 12 M�s de
--Total de puntos - Set 1, Juego 12 Menos
--Tiebreak - Puntos totales, set 1 M�s de
--Tiebreak - Puntos totales, set 1 Menos
--Total de juegos - Set 1 M�s de
--Total de juegos - Set 1 Menos
--Total de puntos - Set 1, Juego 7 M�s de
--Total de puntos - Set 1, Juego 7 Menos
--Total de puntos - Set 1, Juego 8 M�s de
--Total de puntos - Set 1, Juego 8 Menos
--Total de puntos - Set 1, Juego 9 M�s de
--Total de puntos - Set 1, Juego 9 Menos
-------------------------------------------------------------------------------------------
-WPlay
--Ganador "team"*
--Ganador (incl. OT) "team"*
--Ganador (incl. OT y penaltis) "team"*
--H�ndicap de juego "team" (+)
--H�ndicap de juego "team" (-)
--Total juegos M�s de
--Total juegos Menos de
--Segundo set - ganador "team"*
--Segundo set - total juegos M�s de
--Segundo set - total juegos Menos de
--Primero set - total juegos M�s de
--Primero set - total juegos Menos de
--Primero set - ganador "team"*
--Total (incl. OT) M�s de
--Total (incl. OT) Menos de
--H�ndicap (incl. OT) "team" (+)
--H�ndicap (incl. OT) "team" (-)
--1ra Mitad - total M�s de
--1ra Mitad - total Menos de
--1ra Mitad - h�ndicap "team" (+)
--1ra Mitad - h�ndicap "team" (-)
--1� Mitad - Apuesta sin empate "team"*
--Total (incl. OT y penaltis) M�s de
--Total (incl. OT y penaltis) Menos de
--H�ndicap (incl. OT y penaltis) "team" (+)
--H�ndicap (incl. OT y penaltis) "team" (-)
-------------------------------------------------------------------------------
+Swansea City Reservas - Middlesbrough Reservas
+['Total de goles marcados por el equipo visitante M�s de 1.5', 'Total de goles marcados por el equipo visitante Menos 1.5', 'Total de goles M�s de 4.5', 'Total de goles Menos 4.5', 'Total de goles M�s de 3.5', 'Total de goles Menos 3.5', 'Total de goles M�s de 5.5', 'Total de goles Menos 5.5', 'Total de goles marcados por el equipo local M�s de 4.5', 'Total de goles marcados por el equipo local Menos 4.5', 'Total de goles M�s de 6.5', 'Total de goles Menos 6.5', 'Total de goles marcados por el equipo visitante M�s de 2.5', 'Total de goles marcados por el equipo visitante Menos 2.5', 'Total de goles - 1.� parte M�s de 3.5', 'Total de goles - 1.� parte Menos 3.5', 'Total de goles M�s de 7.5', 'Total de goles Menos 7.5', 'Total de goles marcados por el equipo local M�s de 3.5', 'Total de goles marcados por el equipo local Menos 3.5', 'Total de goles marcados por el equipo visitante M�s de 0.5', 'Total de goles marcados por el equipo visitante Menos 0.5', 'Total de goles del equipo visitante - 2.� parte M�s de 0.5', 'Total de goles del equipo visitante - 2.� parte Menos 0.5', 'Total de goles del Equipo local - 2.� parte M�s de 0.5', 'Total de goles del Equipo local - 2.� parte Menos 0.5', 'Total de goles - 30: 00 - 59: 59 M�s de 2.5', 'Total de goles - 30: 00 - 59: 59 Menos 2.5', 'Total de goles - 30: 00 - 59: 59 M�s de 3.5', 'Total de goles - 30: 00 - 59: 59 Menos 3.5', 'Total de goles marcados por el equipo local M�s de 5.5', 'Total de goles marcados por el equipo local Menos 5.5']
 Codere
--M�s
--Menos
--S�*
--No*
--"team" +
--"team" -
--Ambos Equipos*
--Solo "team"*
--Si*
--Impar*
--Par*
--"team"*
--menos
--m�s
+WPlay
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BetPlay
+Reading Reservas - West Ham Reservas
+['Total de goles M�s de 2.5', 'Total de goles Menos 2.5', 'Total de goles M�s de 5.5', 'Total de goles Menos 5.5', 'Total de goles marcados por el equipo visitante M�s de 1.5', 'Total de goles marcados por el equipo visitante Menos 1.5', 'Total de goles M�s de 3.5', 'Total de goles Menos 3.5', 'Total de goles M�s de 4.5', 'Total de goles Menos 4.5', 'Total de goles marcados por el equipo local M�s de 1.5', 'Total de goles marcados por el equipo local Menos 1.5', 'Total de goles marcados por el equipo visitante M�s de 2.5', 'Total de goles marcados por el equipo visitante Menos 2.5', 'Total de goles marcados por el equipo visitante M�s de 3.5', 'Total de goles marcados por el equipo visitante Menos 3.5', 'Total de goles M�s de 6.5', 'Total de goles Menos 6.5', 'Total de goles marcados por el equipo local M�s de 2.5', 'Total de goles marcados por el equipo local Menos 2.5', 'Total de goles del Equipo local - 2.� parte M�s de 0.5', 'Total de goles del Equipo local - 2.� parte Menos 0.5', 'Total de goles del equipo visitante - 2.� parte M�s de 1.5', 'Total de goles del equipo visitante - 2.� parte Menos 1.5', 'Total de goles - 1.� parte M�s de 2.5', 'Total de goles - 1.� parte Menos 2.5', 'Total de goles del equipo visitante - 1.� parte M�s de 1.5', 'Total de goles del equipo visitante - 1.� parte Menos 1.5', 'Total de goles del Equipo local - 1.� parte M�s de 1.5', 'Total de goles del Equipo local - 1.� parte Menos 1.5', 'Total de goles - 30: 00 - 59: 59 M�s de 0.5', 'Total de goles - 30: 00 - 59: 59 Menos 0.5', 'Total de goles - 30: 00 - 59: 59 M�s de 1.5', 'Total de goles - 30: 00 - 59: 59 Menos 1.5']
+RushBet
+Reading Reservas - West Ham Reservas
+['Total de goles M�s de 2.5', 'Total de goles Menos 2.5', 'Total de goles M�s de 5.5', 'Total de goles Menos 5.5', 'Total de goles marcados por el equipo visitante M�s de 1.5', 'Total de goles marcados por el equipo visitante Menos 1.5', 'Total de goles M�s de 3.5', 'Total de goles Menos 3.5', 'Total de goles M�s de 4.5', 'Total de goles Menos 4.5', 'Total de goles marcados por el equipo local M�s de 1.5', 'Total de goles marcados por el equipo local Menos 1.5', 'Total de goles marcados por el equipo visitante M�s de 2.5', 'Total de goles marcados por el equipo visitante Menos 2.5', 'Total de goles marcados por el equipo visitante M�s de 3.5', 'Total de goles marcados por el equipo visitante Menos 3.5', 'Total de goles M�s de 6.5', 'Total de goles Menos 6.5', 'Total de goles marcados por el equipo local M�s de 2.5', 'Total de goles marcados por el equipo local Menos 2.5', 'Total de goles del Equipo local - 2.� parte M�s de 0.5', 'Total de goles del Equipo local - 2.� parte Menos 0.5', 'Total de goles del equipo visitante - 2.� parte M�s de 1.5', 'Total de goles del equipo visitante - 2.� parte Menos 1.5', 'Total de goles - 1.� parte M�s de 2.5', 'Total de goles - 1.� parte Menos 2.5', 'Total de goles del equipo visitante - 1.� parte M�s de 1.5', 'Total de goles del equipo visitante - 1.� parte Menos 1.5', 'Total de goles del Equipo local - 1.� parte M�s de 1.5', 'Total de goles del Equipo local - 1.� parte Menos 1.5', 'Total de goles - 30: 00 - 59: 59 M�s de 0.5', 'Total de goles - 30: 00 - 59: 59 Menos 0.5', 'Total de goles - 30: 00 - 59: 59 M�s de 1.5', 'Total de goles - 30: 00 - 59: 59 Menos 1.5']
+Codere
+WPlay
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BetPlay
+Charlton Athletic Reserves - Millwall Reserves
+['Total de goles del Equipo local - 2.� parte M�s de 0.5', 'Total de goles del Equipo local - 2.� parte Menos 0.5', 'Total de goles M�s de 2.5', 'Total de goles Menos 2.5', 'Total de goles marcados por el equipo local M�s de 1.5', 'Total de goles marcados por el equipo local Menos 1.5', 'Total de goles M�s de 3.5', 'Total de goles Menos 3.5', 'Total de goles M�s de 1.5', 'Total de goles Menos 1.5', 'Total de goles del equipo visitante - 2.� parte M�s de 0.5', 'Total de goles del equipo visitante - 2.� parte Menos 0.5', 'Total de goles marcados por el equipo local M�s de 0.5', 'Total de goles marcados por el equipo local Menos 0.5', 'Total de goles marcados por el equipo visitante M�s de 0.5', 'Total de goles marcados por el equipo visitante Menos 0.5', 'Total de goles M�s de 0.5', 'Total de goles Menos 0.5', 'Total de goles marcados por el equipo visitante M�s de 1.5', 'Total de goles marcados por el equipo visitante Menos 1.5', 'Total de goles marcados por el equipo visitante M�s de 2.5', 'Total de goles marcados por el equipo visitante Menos 2.5', 'Total de goles - 30: 00 - 59: 59 M�s de 1.5', 'Total de goles - 30: 00 - 59: 59 Menos 1.5', 'Total de goles - 30: 00 - 59: 59 M�s de 0.5', 'Total de goles - 30: 00 - 59: 59 Menos 0.5']
+RushBet
+Charlton Athletic Reserves - Millwall Reserves
+['Total de goles del Equipo local - 2.� parte M�s de 0.5', 'Total de goles del Equipo local - 2.� parte Menos 0.5', 'Total de goles M�s de 2.5', 'Total de goles Menos 2.5', 'Total de goles marcados por el equipo local M�s de 1.5', 'Total de goles marcados por el equipo local Menos 1.5', 'Total de goles M�s de 3.5', 'Total de goles Menos 3.5', 'Total de goles M�s de 1.5', 'Total de goles Menos 1.5', 'Total de goles del equipo visitante - 2.� parte M�s de 0.5', 'Total de goles del equipo visitante - 2.� parte Menos 0.5', 'Total de goles marcados por el equipo local M�s de 0.5', 'Total de goles marcados por el equipo local Menos 0.5', 'Total de goles marcados por el equipo visitante M�s de 0.5', 'Total de goles marcados por el equipo visitante Menos 0.5', 'Total de goles M�s de 0.5', 'Total de goles Menos 0.5', 'Total de goles marcados por el equipo visitante M�s de 1.5', 'Total de goles marcados por el equipo visitante Menos 1.5', 'Total de goles marcados por el equipo visitante M�s de 2.5', 'Total de goles marcados por el equipo visitante Menos 2.5', 'Total de goles - 30: 00 - 59: 59 M�s de 1.5', 'Total de goles - 30: 00 - 59: 59 Menos 1.5', 'Total de goles - 30: 00 - 59: 59 M�s de 0.5', 'Total de goles - 30: 00 - 59: 59 Menos 0.5']
+Codere
+Charlton Athletic S23 - Millwall S23
+['M�s 2.5', 'Menos 2.5', 'M�s 1.5', 'Menos 1.5', 'M�s 0.5', 'Menos 0.5', 'S�', 'No', 'Charlton Athletic S23', 'Millwall S23', 'Charlton Athletic S23 +0.5', 'Millwall S23 -0.5', 'M�s 0.5', 'Menos 0.5', 'M�s 0.5', 'Menos 0.5', 'Par', 'Impar']
+WPlay
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BetPlay
+Cardiff City Reserves - Colchester United FC Reserves
+['Total de goles marcados por el equipo visitante M�s de 0.5', 'Total de goles marcados por el equipo visitante Menos 0.5', 'Total de goles M�s de 3.5', 'Total de goles Menos 3.5', 'Total de goles M�s de 4.5', 'Total de goles Menos 4.5', 'Total de goles M�s de 2.5', 'Total de goles Menos 2.5', 'Total de goles marcados por el equipo visitante M�s de 1.5', 'Total de goles marcados por el equipo visitante Menos 1.5', 'Total de goles del Equipo local - 2.� parte M�s de 0.5', 'Total de goles del Equipo local - 2.� parte Menos 0.5', 'Total de goles del equipo visitante - 2.� parte M�s de 0.5', 'Total de goles del equipo visitante - 2.� parte Menos 0.5', 'Total de goles M�s de 6.5', 'Total de goles Menos 6.5', 'Total de goles M�s de 5.5', 'Total de goles Menos 5.5', 'Total de goles marcados por el equipo local M�s de 3.5', 'Total de goles marcados por el equipo local Menos 3.5', 'Total de goles del equipo visitante - 1.� parte M�s de 0.5', 'Total de goles del equipo visitante - 1.� parte Menos 0.5', 'Total de goles - 1.� parte M�s de 2.5', 'Total de goles - 1.� parte Menos 2.5', 'Total de goles marcados por el equipo visitante M�s de 2.5', 'Total de goles marcados por el equipo visitante Menos 2.5', 'Total de goles marcados por el equipo local M�s de 2.5', 'Total de goles marcados por el equipo local Menos 2.5', 'Total de goles marcados por el equipo local M�s de 4.5', 'Total de goles marcados por el equipo local Menos 4.5', 'Total de goles - 30: 00 - 59: 59 M�s de 1.5', 'Total de goles - 30: 00 - 59: 59 Menos 1.5', 'Total de goles - 30: 00 - 59: 59 M�s de 0.5', 'Total de goles - 30: 00 - 59: 59 Menos 0.5', 'Total de goles del Equipo local - 1.� parte M�s de 2.5', 'Total de goles del Equipo local - 1.� parte Menos 2.5']
+RushBet
+Cardiff City Reserves - Colchester United FC Reserves
+['Total de goles marcados por el equipo visitante M�s de 0.5', 'Total de goles marcados por el equipo visitante Menos 0.5', 'Total de goles M�s de 3.5', 'Total de goles Menos 3.5', 'Total de goles M�s de 4.5', 'Total de goles Menos 4.5', 'Total de goles M�s de 2.5', 'Total de goles Menos 2.5', 'Total de goles marcados por el equipo visitante M�s de 1.5', 'Total de goles marcados por el equipo visitante Menos 1.5', 'Total de goles del Equipo local - 2.� parte M�s de 0.5', 'Total de goles del Equipo local - 2.� parte Menos 0.5', 'Total de goles del equipo visitante - 2.� parte M�s de 0.5', 'Total de goles del equipo visitante - 2.� parte Menos 0.5', 'Total de goles M�s de 6.5', 'Total de goles Menos 6.5', 'Total de goles M�s de 5.5', 'Total de goles Menos 5.5', 'Total de goles marcados por el equipo local M�s de 3.5', 'Total de goles marcados por el equipo local Menos 3.5', 'Total de goles del equipo visitante - 1.� parte M�s de 0.5', 'Total de goles del equipo visitante - 1.� parte Menos 0.5', 'Total de goles - 1.� parte M�s de 2.5', 'Total de goles - 1.� parte Menos 2.5', 'Total de goles marcados por el equipo visitante M�s de 2.5', 'Total de goles marcados por el equipo visitante Menos 2.5', 'Total de goles marcados por el equipo local M�s de 2.5', 'Total de goles marcados por el equipo local Menos 2.5', 'Total de goles marcados por el equipo local M�s de 4.5', 'Total de goles marcados por el equipo local Menos 4.5', 'Total de goles - 30: 00 - 59: 59 M�s de 1.5', 'Total de goles - 30: 00 - 59: 59 Menos 1.5', 'Total de goles - 30: 00 - 59: 59 M�s de 0.5', 'Total de goles - 30: 00 - 59: 59 Menos 0.5', 'Total de goles del Equipo local - 1.� parte M�s de 2.5', 'Total de goles del Equipo local - 1.� parte Menos 2.5']
+Codere
+WPlay
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BetPlay
+Crewe Alexandra Reserves - Leeds United Reserves
+['Total de goles M�s de 4.5', 'Total de goles Menos 4.5', 'Total de goles marcados por el equipo local M�s de 1.5', 'Total de goles marcados por el equipo local Menos 1.5', 'Total de goles M�s de 3.5', 'Total de goles Menos 3.5', 'Total de goles M�s de 2.5', 'Total de goles Menos 2.5', 'Total de goles marcados por el equipo visitante M�s de 1.5', 'Total de goles marcados por el equipo visitante Menos 1.5', 'Total de goles M�s de 1.5', 'Total de goles Menos 1.5', 'Total de goles M�s de 5.5', 'Total de goles Menos 5.5', 'Total de goles M�s de 0.5', 'Total de goles Menos 0.5', 'Total de goles - 1.� parte M�s de 1.5', 'Total de goles - 1.� parte Menos 1.5', 'Total de goles marcados por el equipo visitante M�s de 0.5', 'Total de goles marcados por el equipo visitante Menos 0.5', 'Total de goles del Equipo local - 1.� parte M�s de 0.5', 'Total de goles del Equipo local - 1.� parte Menos 0.5', 'Total de goles marcados por el equipo visitante M�s de 2.5', 'Total de goles marcados por el equipo visitante Menos 2.5', 'Total de goles marcados por el equipo local M�s de 2.5', 'Total de goles marcados por el equipo local Menos 2.5', 'Total de goles del equipo visitante - 1.� parte M�s de 0.5', 'Total de goles del equipo visitante - 1.� parte Menos 0.5', 'Total de goles - 0: 00 - 29: 59 M�s de 0.5', 'Total de goles - 0: 00 - 29: 59 Menos 0.5', 'Total de goles marcados por el equipo visitante M�s de 3.5', 'Total de goles marcados por el equipo visitante Menos 3.5', 'Total de goles del Equipo local - 2.� parte M�s de 0.5', 'Total de goles del Equipo local - 2.� parte Menos 0.5', 'Total de goles - 1.� parte M�s de 0.5', 'Total de goles - 1.� parte Menos 0.5', 'Total de goles marcados por el equipo local M�s de 0.5', 'Total de goles marcados por el equipo local Menos 0.5', 'Total de goles del equipo visitante - 2.� parte M�s de 1.5', 'Total de goles del equipo visitante - 2.� parte Menos 1.5', 'Total de goles - 20: 00 - 29: 59 M�s de 0.5', 'Total de goles - 20: 00 - 29: 59 Menos 0.5']
+RushBet
+Crewe Alexandra Reserves - Leeds United Reserves
+['Total de goles M�s de 4.5', 'Total de goles Menos 4.5', 'Total de goles marcados por el equipo local M�s de 1.5', 'Total de goles marcados por el equipo local Menos 1.5', 'Total de goles M�s de 3.5', 'Total de goles Menos 3.5', 'Total de goles M�s de 2.5', 'Total de goles Menos 2.5', 'Total de goles marcados por el equipo visitante M�s de 1.5', 'Total de goles marcados por el equipo visitante Menos 1.5', 'Total de goles M�s de 1.5', 'Total de goles Menos 1.5', 'Total de goles M�s de 5.5', 'Total de goles Menos 5.5', 'Total de goles M�s de 0.5', 'Total de goles Menos 0.5', 'Total de goles - 1.� parte M�s de 1.5', 'Total de goles - 1.� parte Menos 1.5', 'Total de goles marcados por el equipo visitante M�s de 0.5', 'Total de goles marcados por el equipo visitante Menos 0.5', 'Total de goles del Equipo local - 1.� parte M�s de 0.5', 'Total de goles del Equipo local - 1.� parte Menos 0.5', 'Total de goles marcados por el equipo visitante M�s de 2.5', 'Total de goles marcados por el equipo visitante Menos 2.5', 'Total de goles marcados por el equipo local M�s de 2.5', 'Total de goles marcados por el equipo local Menos 2.5', 'Total de goles del equipo visitante - 1.� parte M�s de 0.5', 'Total de goles del equipo visitante - 1.� parte Menos 0.5', 'Total de goles - 0: 00 - 29: 59 M�s de 0.5', 'Total de goles - 0: 00 - 29: 59 Menos 0.5', 'Total de goles marcados por el equipo visitante M�s de 3.5', 'Total de goles marcados por el equipo visitante Menos 3.5', 'Total de goles del Equipo local - 2.� parte M�s de 0.5', 'Total de goles del Equipo local - 2.� parte Menos 0.5', 'Total de goles - 1.� parte M�s de 0.5', 'Total de goles - 1.� parte Menos 0.5', 'Total de goles marcados por el equipo local M�s de 0.5', 'Total de goles marcados por el equipo local Menos 0.5', 'Total de goles del equipo visitante - 2.� parte M�s de 1.5', 'Total de goles del equipo visitante - 2.� parte Menos 1.5', 'Total de goles - 20: 00 - 29: 59 M�s de 0.5', 'Total de goles - 20: 00 - 29: 59 Menos 0.5']
+Codere
+Crewe Alexandra S23 - Leeds United S23
+['M�s 2.5', 'Menos 2.5', 'M�s 3.5', 'Menos 3.5', 'M�s 1.5', 'Menos 1.5', 'S�', 'No', 'Leeds United S23 -1.5', 'Crewe Alexandra S23 +1.5', 'M�s 1.5', 'Menos 1.5', 'M�s 0.5', 'Menos 0.5', 'Si', 'No', 'Par', 'Impar', 'M�s 0.5', 'Menos 0.5', 'M�s 1.5', 'Menos 1.5', 'Par', 'Impar']
+WPlay
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BetPlay
+Shabab Al Ordon - Al Ramtha
+['Total de goles M�s de 2.5', 'Total de goles Menos 2.5', 'Total de goles marcados por el equipo local M�s de 2.5', 'Total de goles marcados por el equipo local Menos 2.5', 'Total de goles - 1.� parte M�s de 0.5', 'Total de goles - 1.� parte Menos 0.5', 'Total de goles marcados por el equipo visitante M�s de 1.5', 'Total de goles marcados por el equipo visitante Menos 1.5', 'Total de goles del equipo visitante - 1.� parte M�s de 0.5', 'Total de goles del equipo visitante - 1.� parte Menos 0.5', 'Total de goles del Equipo local - 1.� parte M�s de 0.5', 'Total de goles del Equipo local - 1.� parte Menos 0.5', 'Total de goles marcados por el equipo local M�s de 1.5', 'Total de goles marcados por el equipo local Menos 1.5', 'Total de goles M�s de 1.5', 'Total de goles Menos 1.5', 'Total de goles marcados por el equipo visitante M�s de 0.5', 'Total de goles marcados por el equipo visitante Menos 0.5', 'Total de goles del Equipo local - 2.� parte M�s de 1.5', 'Total de goles del Equipo local - 2.� parte Menos 1.5', 'Total de goles M�s de 4.5', 'Total de goles Menos 4.5', 'Total de goles del equipo visitante - 2.� parte M�s de 0.5', 'Total de goles del equipo visitante - 2.� parte Menos 0.5', 'Total de goles marcados por el equipo local M�s de 0.5', 'Total de goles marcados por el equipo local Menos 0.5', 'Total de goles M�s de 3.5', 'Total de goles Menos 3.5', 'Total de goles M�s de 0.5', 'Total de goles Menos 0.5', 'Total de goles - 30: 00 - 59: 59 M�s de 2.5', 'Total de goles - 30: 00 - 59: 59 Menos 2.5', 'Total de goles - 30: 00 - 59: 59 M�s de 0.5', 'Total de goles - 30: 00 - 59: 59 Menos 0.5', 'Total de goles - 30: 00 - 59: 59 M�s de 1.5', 'Total de goles - 30: 00 - 59: 59 Menos 1.5']
+RushBet
+Shabab Al Ordon - Al Ramtha
+['Total de goles M�s de 2.5', 'Total de goles Menos 2.5', 'Total de goles marcados por el equipo local M�s de 2.5', 'Total de goles marcados por el equipo local Menos 2.5', 'Total de goles - 1.� parte M�s de 0.5', 'Total de goles - 1.� parte Menos 0.5', 'Total de goles marcados por el equipo visitante M�s de 1.5', 'Total de goles marcados por el equipo visitante Menos 1.5', 'Total de goles del equipo visitante - 1.� parte M�s de 0.5', 'Total de goles del equipo visitante - 1.� parte Menos 0.5', 'Total de goles del Equipo local - 1.� parte M�s de 0.5', 'Total de goles del Equipo local - 1.� parte Menos 0.5', 'Total de goles marcados por el equipo local M�s de 1.5', 'Total de goles marcados por el equipo local Menos 1.5', 'Total de goles M�s de 1.5', 'Total de goles Menos 1.5', 'Total de goles marcados por el equipo visitante M�s de 0.5', 'Total de goles marcados por el equipo visitante Menos 0.5', 'Total de goles del Equipo local - 2.� parte M�s de 1.5', 'Total de goles del Equipo local - 2.� parte Menos 1.5', 'Total de goles del equipo visitante - 2.� parte M�s de 0.5', 'Total de goles del equipo visitante - 2.� parte Menos 0.5', 'Total de goles marcados por el equipo local M�s de 0.5', 'Total de goles marcados por el equipo local Menos 0.5', 'Total de goles M�s de 3.5', 'Total de goles Menos 3.5', 'Total de goles M�s de 0.5', 'Total de goles Menos 0.5', 'Total de goles - 30: 00 - 59: 59 M�s de 2.5', 'Total de goles - 30: 00 - 59: 59 Menos 2.5', 'Total de goles - 30: 00 - 59: 59 M�s de 0.5', 'Total de goles - 30: 00 - 59: 59 Menos 0.5', 'Total de goles - 30: 00 - 59: 59 M�s de 1.5', 'Total de goles - 30: 00 - 59: 59 Menos 1.5']
+Codere
+WPlay
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BetPlay
+FC Viktoria K�ln 1904 - Astra Giurgiu
+['Total de goles marcados por el equipo visitante M�s de 2.5', 'Total de goles marcados por el equipo visitante Menos 2.5', 'Total de goles M�s de 3.5', 'Total de goles Menos 3.5', 'Total de goles M�s de 5.5', 'Total de goles Menos 5.5', 'Total de goles marcados por el equipo local M�s de 2.5', 'Total de goles marcados por el equipo local Menos 2.5', 'Total de goles marcados por el equipo visitante M�s de 1.5', 'Total de goles marcados por el equipo visitante Menos 1.5', 'Total de goles M�s de 4.5', 'Total de goles Menos 4.5', 'Total de goles del Equipo local - 2.� parte M�s de 0.5', 'Total de goles del Equipo local - 2.� parte Menos 0.5', 'Total de goles del equipo visitante - 2.� parte M�s de 0.5', 'Total de goles del equipo visitante - 2.� parte Menos 0.5', 'Total de goles - 30: 00 - 59: 59 M�s de 2.5', 'Total de goles - 30: 00 - 59: 59 Menos 2.5', 'Total de goles del equipo visitante - 1.� parte M�s de 1.5', 'Total de goles del equipo visitante - 1.� parte Menos 1.5', 'Total de goles - 1.� parte M�s de 3.5', 'Total de goles - 1.� parte Menos 3.5', 'Total de goles del Equipo local - 1.� parte M�s de 2.5', 'Total de goles del Equipo local - 1.� parte Menos 2.5', 'Total de goles M�s de 6.5', 'Total de goles Menos 6.5']
+RushBet
+FC Viktoria K�ln 1904 - Astra Giurgiu
+['Total de goles marcados por el equipo visitante M�s de 2.5', 'Total de goles marcados por el equipo visitante Menos 2.5', 'Total de goles M�s de 3.5', 'Total de goles Menos 3.5', 'Total de goles M�s de 5.5', 'Total de goles Menos 5.5', 'Total de goles marcados por el equipo local M�s de 2.5', 'Total de goles marcados por el equipo local Menos 2.5', 'Total de goles marcados por el equipo visitante M�s de 1.5', 'Total de goles marcados por el equipo visitante Menos 1.5', 'Total de goles M�s de 4.5', 'Total de goles Menos 4.5', 'Total de goles del Equipo local - 2.� parte M�s de 0.5', 'Total de goles del Equipo local - 2.� parte Menos 0.5', 'Total de goles marcados por el equipo local M�s de 3.5', 'Total de goles marcados por el equipo local Menos 3.5', 'Total de goles del equipo visitante - 2.� parte M�s de 0.5', 'Total de goles del equipo visitante - 2.� parte Menos 0.5', 'Total de goles - 30: 00 - 59: 59 M�s de 2.5', 'Total de goles - 30: 00 - 59: 59 Menos 2.5', 'Total de goles - 30: 00 - 59: 59 M�s de 3.5', 'Total de goles - 30: 00 - 59: 59 Menos 3.5', 'Total de goles del equipo visitante - 1.� parte M�s de 1.5', 'Total de goles del equipo visitante - 1.� parte Menos 1.5', 'Total de goles - 1.� parte M�s de 3.5', 'Total de goles - 1.� parte Menos 3.5', 'Total de goles del Equipo local - 1.� parte M�s de 2.5', 'Total de goles del Equipo local - 1.� parte Menos 2.5', 'Total de goles M�s de 6.5', 'Total de goles Menos 6.5']
+Codere
+WPlay
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BetPlay
+Ironi Tiberias - Maccabi Ironi Kiryat Ata
+[]
+RushBet
+Ironi Tiberias - Maccabi Ironi Kiryat Ata
+[]
+Codere
+WPlay
+Ironi Tiberias vs. Maccabi Ironi Qiryat Ata
+[]
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BetPlay
+Hapoel Bikat Hayarden - Maccabi Kiryat Gat
+['Total de goles M�s de 2.5', 'Total de goles Menos 2.5', 'Total de goles M�s de 3.5', 'Total de goles Menos 3.5', 'Total de goles M�s de 1.5', 'Total de goles Menos 1.5', 'Total de goles M�s de 4.5', 'Total de goles Menos 4.5', 'Total de goles - 30: 00 - 59: 59 M�s de 0.5', 'Total de goles - 30: 00 - 59: 59 Menos 0.5', 'Total de goles - 50: 00 - 59: 59 M�s de 0.5', 'Total de goles - 50: 00 - 59: 59 Menos 0.5']
+RushBet
+Hapoel Bikat Hayarden - Maccabi Kiryat Gat
+['Total de goles M�s de 2.5', 'Total de goles Menos 2.5', 'Total de goles M�s de 3.5', 'Total de goles Menos 3.5', 'Total de goles M�s de 1.5', 'Total de goles Menos 1.5', 'Total de goles M�s de 4.5', 'Total de goles Menos 4.5', 'Total de goles - 30: 00 - 59: 59 M�s de 0.5', 'Total de goles - 30: 00 - 59: 59 Menos 0.5', 'Total de goles - 50: 00 - 59: 59 M�s de 0.5', 'Total de goles - 50: 00 - 59: 59 Menos 0.5']
+Codere
+Hapoel Bikat Hayarden - Ironi Kiryat Gat
+['Menos 3.5', 'M�s 3.5', 'Menos 2.5', 'M�s 2.5', 'M�s 1.5', 'Menos 1.5', 'No', 'S�', 'Hapoel Bikat Hayarden', 'Ironi Kiryat Gat', 'Hapoel Bikat Hayarden -0.5', 'Ironi Kiryat Gat +0.5', 'Ambos Equipos', 'Solo Ironi Kiryat Gat', 'M�s 1.5', 'Menos 1.5', 'M�s 1.5', 'Menos 1.5', 'Impar', 'Par']
+WPlay
+Hapoel Bikat Hayarden vs. Maccabi Ironi Kiryat Gat
+['Ambos equipos marcan S�', 'Ambos equipos marcan No', 'Total M�s de 2.5', 'Total Menos de 2.5', 'H�ndicap Hapoel Bikat Hayarden (-0.5)', 'H�ndicap Maccabi Ironi Kiryat Gat (+0.5)', 'Apuesta sin empate Hapoel Bikat Hayarden', 'Apuesta sin empate Maccabi Ironi Kiryat Gat']
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BetPlay
+Maccabi Tzur Shalom - Hapoel Bnei Zalfa
+['Total de goles M�s de 2.5', 'Total de goles Menos 2.5', 'Total de goles marcados por el equipo visitante M�s de 1.5', 'Total de goles marcados por el equipo visitante Menos 1.5', 'Total de goles marcados por el equipo visitante M�s de 2.5', 'Total de goles marcados por el equipo visitante Menos 2.5', 'Total de goles marcados por el equipo local M�s de 2.5', 'Total de goles marcados por el equipo local Menos 2.5', 'Total de goles M�s de 4.5', 'Total de goles Menos 4.5', 'Total de goles M�s de 3.5', 'Total de goles Menos 3.5', 'Total de goles marcados por el equipo local M�s de 1.5', 'Total de goles marcados por el equipo local Menos 1.5', 'Total de goles del equipo visitante - 2.� parte M�s de 0.5', 'Total de goles del equipo visitante - 2.� parte Menos 0.5', 'Total de goles - 30: 00 - 59: 59 M�s de 1.5', 'Total de goles - 30: 00 - 59: 59 Menos 1.5', 'Total de goles - 50: 00 - 59: 59 M�s de 1.5', 'Total de goles - 50: 00 - 59: 59 Menos 1.5']
+RushBet
+Maccabi Tzur Shalom - Hapoel Bnei Zalfa
+['Total de goles M�s de 2.5', 'Total de goles Menos 2.5', 'Total de goles marcados por el equipo visitante M�s de 1.5', 'Total de goles marcados por el equipo visitante Menos 1.5', 'Total de goles marcados por el equipo visitante M�s de 2.5', 'Total de goles marcados por el equipo visitante Menos 2.5', 'Total de goles marcados por el equipo local M�s de 2.5', 'Total de goles marcados por el equipo local Menos 2.5', 'Total de goles M�s de 4.5', 'Total de goles Menos 4.5', 'Total de goles M�s de 3.5', 'Total de goles Menos 3.5', 'Total de goles marcados por el equipo local M�s de 1.5', 'Total de goles marcados por el equipo local Menos 1.5', 'Total de goles del equipo visitante - 2.� parte M�s de 0.5', 'Total de goles del equipo visitante - 2.� parte Menos 0.5', 'Total de goles - 30: 00 - 59: 59 M�s de 1.5', 'Total de goles - 30: 00 - 59: 59 Menos 1.5', 'Total de goles - 50: 00 - 59: 59 M�s de 1.5', 'Total de goles - 50: 00 - 59: 59 Menos 1.5']
+Codere
+Maccabi Tzur Shalom - Hapoel Bnei Zalafa
+['Menos 3.5', 'M�s 3.5', 'Menos 2.5', 'M�s 2.5', 'Menos 4.5', 'M�s 4.5', 'Hapoel Bnei Zalafa', 'Maccabi Tzur Shalom', 'Hapoel Bnei Zalafa +0.5', 'Maccabi Tzur Shalom -0.5', 'Menos 1.5', 'M�s 1.5', 'Menos 1.5', 'M�s 1.5', 'Impar', 'Par']
+WPlay
+Maccabi Tzur Shalom vs. Hapoel Bnei Zalfa
+['Total M�s de 2.5', 'Total Menos de 2.5', 'Apuesta sin empate Maccabi Tzur Shalom', 'Apuesta sin empate Hapoel Bnei Zalfa']
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BetPlay
+Hapoel Tirat HaCarmel - Ironi Nesher
+['Total de goles marcados por el equipo visitante M�s de 1.5', 'Total de goles marcados por el equipo visitante Menos 1.5', 'Total de goles marcados por el equipo visitante M�s de 2.5', 'Total de goles marcados por el equipo visitante Menos 2.5', 'Total de goles M�s de 3.5', 'Total de goles Menos 3.5', 'Total de goles marcados por el equipo local M�s de 1.5', 'Total de goles marcados por el equipo local Menos 1.5', 'Total de goles del Equipo local - 2.� parte M�s de 0.5', 'Total de goles del Equipo local - 2.� parte Menos 0.5', 'Total de goles M�s de 2.5', 'Total de goles Menos 2.5', 'Total de goles del equipo visitante - 2.� parte M�s de 0.5', 'Total de goles del equipo visitante - 2.� parte Menos 0.5', 'Total de goles - 60: 00 - 89: 59 M�s de 0.5', 'Total de goles - 60: 00 - 89: 59 Menos 0.5', 'Total de goles - 60: 00 - 89: 59 M�s de 1.5', 'Total de goles - 60: 00 - 89: 59 Menos 1.5', 'Total de goles - 70: 00 - 79: 59 M�s de 0.5', 'Total de goles - 70: 00 - 79: 59 Menos 0.5']
+RushBet
+Hapoel Tirat HaCarmel - Ironi Nesher
+['Total de goles marcados por el equipo visitante M�s de 1.5', 'Total de goles marcados por el equipo visitante Menos 1.5', 'Total de goles marcados por el equipo visitante M�s de 2.5', 'Total de goles marcados por el equipo visitante Menos 2.5', 'Total de goles M�s de 3.5', 'Total de goles Menos 3.5', 'Total de goles marcados por el equipo local M�s de 1.5', 'Total de goles marcados por el equipo local Menos 1.5', 'Total de goles del Equipo local - 2.� parte M�s de 0.5', 'Total de goles del Equipo local - 2.� parte Menos 0.5', 'Total de goles M�s de 2.5', 'Total de goles Menos 2.5', 'Total de goles del equipo visitante - 2.� parte M�s de 0.5', 'Total de goles del equipo visitante - 2.� parte Menos 0.5', 'Total de goles - 60: 00 - 89: 59 M�s de 0.5', 'Total de goles - 60: 00 - 89: 59 Menos 0.5', 'Total de goles - 60: 00 - 89: 59 M�s de 1.5', 'Total de goles - 60: 00 - 89: 59 Menos 1.5', 'Total de goles - 70: 00 - 79: 59 M�s de 0.5', 'Total de goles - 70: 00 - 79: 59 Menos 0.5']
+Codere
+WPlay
+Hapoel Tirat Hacarmel vs. Ironi Nesher
+['Total M�s de 2.5', 'Total Menos de 2.5', 'Apuesta sin empate Hapoel Tirat Hacarmel', 'Apuesta sin empate Ironi Nesher']
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BetPlay
+Jordania Sub-23 - Vietnam Sub-23
+['Total de goles M�s de 2.5', 'Total de goles Menos 2.5', 'Total de goles M�s de 3.5', 'Total de goles Menos 3.5', 'Total de goles marcados por el equipo local M�s de 0.5', 'Total de goles marcados por el equipo local Menos 0.5', 'Total de goles M�s de 0.5', 'Total de goles Menos 0.5', 'Total de goles marcados por el equipo visitante M�s de 1.5', 'Total de goles marcados por el equipo visitante Menos 1.5', 'Total de goles M�s de 1.5', 'Total de goles Menos 1.5', 'Total de goles - 1.� parte M�s de 0.5', 'Total de goles - 1.� parte Menos 0.5', 'Total de goles marcados por el equipo local M�s de 1.5', 'Total de goles marcados por el equipo local Menos 1.5', 'Total de goles marcados por el equipo visitante M�s de 0.5', 'Total de goles marcados por el equipo visitante Menos 0.5', 'Total de goles del Equipo local - 2.� parte M�s de 0.5', 'Total de goles del Equipo local - 2.� parte Menos 0.5', 'Total de goles del Equipo local - 1.� parte M�s de 0.5', 'Total de goles del Equipo local - 1.� parte Menos 0.5', 'Total de goles del equipo visitante - 1.� parte M�s de 0.5', 'Total de goles del equipo visitante - 1.� parte Menos 0.5', 'Total de goles del equipo visitante - 2.� parte M�s de 0.5', 'Total de goles del equipo visitante - 2.� parte Menos 0.5', 'Total de goles - 30: 00 - 59: 59 M�s de 2.5', 'Total de goles - 30: 00 - 59: 59 Menos 2.5', 'Total de goles - 30: 00 - 39: 59 M�s de 0.5', 'Total de goles - 30: 00 - 39: 59 Menos 0.5', 'Total de goles - 30: 00 - 59: 59 M�s de 0.5', 'Total de goles - 30: 00 - 59: 59 Menos 0.5', 'Total de goles - 30: 00 - 59: 59 M�s de 1.5', 'Total de goles - 30: 00 - 59: 59 Menos 1.5']
+RushBet
+Jordania Sub-23 - Vietnam Sub-23
+['Total de goles M�s de 2.5', 'Total de goles Menos 2.5', 'Total de goles M�s de 3.5', 'Total de goles Menos 3.5', 'Total de goles marcados por el equipo local M�s de 0.5', 'Total de goles marcados por el equipo local Menos 0.5', 'Total de goles M�s de 0.5', 'Total de goles Menos 0.5', 'Total de goles marcados por el equipo visitante M�s de 1.5', 'Total de goles marcados por el equipo visitante Menos 1.5', 'Total de goles M�s de 1.5', 'Total de goles Menos 1.5', 'Total de goles - 1.� parte M�s de 0.5', 'Total de goles - 1.� parte Menos 0.5', 'Total de goles marcados por el equipo local M�s de 1.5', 'Total de goles marcados por el equipo local Menos 1.5', 'Total de goles marcados por el equipo visitante M�s de 0.5', 'Total de goles marcados por el equipo visitante Menos 0.5', 'Total de goles del Equipo local - 2.� parte M�s de 0.5', 'Total de goles del Equipo local - 2.� parte Menos 0.5', 'Total de goles del Equipo local - 1.� parte M�s de 0.5', 'Total de goles del Equipo local - 1.� parte Menos 0.5', 'Total de goles del equipo visitante - 1.� parte M�s de 0.5', 'Total de goles del equipo visitante - 1.� parte Menos 0.5', 'Total de goles del equipo visitante - 2.� parte M�s de 0.5', 'Total de goles del equipo visitante - 2.� parte Menos 0.5', 'Total de goles - 30: 00 - 59: 59 M�s de 2.5', 'Total de goles - 30: 00 - 59: 59 Menos 2.5', 'Total de goles - 30: 00 - 39: 59 M�s de 0.5', 'Total de goles - 30: 00 - 39: 59 Menos 0.5', 'Total de goles - 30: 00 - 59: 59 M�s de 0.5', 'Total de goles - 30: 00 - 59: 59 Menos 0.5', 'Total de goles - 30: 00 - 59: 59 M�s de 1.5', 'Total de goles - 30: 00 - 59: 59 Menos 1.5']
+Codere
+WPlay
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BetPlay
+Cardiff City Reserves - Colchester United FC Reserves
+['Total de goles marcados por el equipo visitante M�s de 0.5', 'Total de goles marcados por el equipo visitante Menos 0.5', 'Total de goles M�s de 3.5', 'Total de goles Menos 3.5', 'Total de goles M�s de 4.5', 'Total de goles Menos 4.5', 'Total de goles M�s de 2.5', 'Total de goles Menos 2.5', 'Total de goles marcados por el equipo visitante M�s de 1.5', 'Total de goles marcados por el equipo visitante Menos 1.5', 'Total de goles del Equipo local - 2.� parte M�s de 0.5', 'Total de goles del Equipo local - 2.� parte Menos 0.5', 'Total de goles del equipo visitante - 2.� parte M�s de 0.5', 'Total de goles del equipo visitante - 2.� parte Menos 0.5', 'Total de goles M�s de 6.5', 'Total de goles Menos 6.5', 'Total de goles M�s de 5.5', 'Total de goles Menos 5.5', 'Total de goles marcados por el equipo local M�s de 3.5', 'Total de goles marcados por el equipo local Menos 3.5', 'Total de goles del equipo visitante - 1.� parte M�s de 0.5', 'Total de goles del equipo visitante - 1.� parte Menos 0.5', 'Total de goles - 1.� parte M�s de 2.5', 'Total de goles - 1.� parte Menos 2.5', 'Total de goles marcados por el equipo visitante M�s de 2.5', 'Total de goles marcados por el equipo visitante Menos 2.5', 'Total de goles marcados por el equipo local M�s de 2.5', 'Total de goles marcados por el equipo local Menos 2.5', 'Total de goles marcados por el equipo local M�s de 4.5', 'Total de goles marcados por el equipo local Menos 4.5', 'Total de goles - 30: 00 - 59: 59 M�s de 1.5', 'Total de goles - 30: 00 - 59: 59 Menos 1.5', 'Total de goles - 30: 00 - 59: 59 M�s de 0.5', 'Total de goles - 30: 00 - 59: 59 Menos 0.5', 'Total de goles del Equipo local - 1.� parte M�s de 2.5', 'Total de goles del Equipo local - 1.� parte Menos 2.5']
+RushBet
+Cardiff City Reserves - Colchester United FC Reserves
+['Total de goles marcados por el equipo visitante M�s de 0.5', 'Total de goles marcados por el equipo visitante Menos 0.5', 'Total de goles M�s de 3.5', 'Total de goles Menos 3.5', 'Total de goles M�s de 4.5', 'Total de goles Menos 4.5', 'Total de goles M�s de 2.5', 'Total de goles Menos 2.5', 'Total de goles marcados por el equipo visitante M�s de 1.5', 'Total de goles marcados por el equipo visitante Menos 1.5', 'Total de goles del Equipo local - 2.� parte M�s de 0.5', 'Total de goles del Equipo local - 2.� parte Menos 0.5', 'Total de goles del equipo visitante - 2.� parte M�s de 0.5', 'Total de goles del equipo visitante - 2.� parte Menos 0.5', 'Total de goles M�s de 6.5', 'Total de goles Menos 6.5', 'Total de goles M�s de 5.5', 'Total de goles Menos 5.5', 'Total de goles marcados por el equipo local M�s de 3.5', 'Total de goles marcados por el equipo local Menos 3.5', 'Total de goles del equipo visitante - 1.� parte M�s de 0.5', 'Total de goles del equipo visitante - 1.� parte Menos 0.5', 'Total de goles - 1.� parte M�s de 2.5', 'Total de goles - 1.� parte Menos 2.5', 'Total de goles marcados por el equipo visitante M�s de 2.5', 'Total de goles marcados por el equipo visitante Menos 2.5', 'Total de goles marcados por el equipo local M�s de 2.5', 'Total de goles marcados por el equipo local Menos 2.5', 'Total de goles marcados por el equipo local M�s de 4.5', 'Total de goles marcados por el equipo local Menos 4.5', 'Total de goles - 30: 00 - 59: 59 M�s de 1.5', 'Total de goles - 30: 00 - 59: 59 Menos 1.5', 'Total de goles - 30: 00 - 59: 59 M�s de 0.5', 'Total de goles - 30: 00 - 59: 59 Menos 0.5', 'Total de goles del Equipo local - 1.� parte M�s de 2.5', 'Total de goles del Equipo local - 1.� parte Menos 2.5']
+Codere
+Cardiff City S23 - Colchester United S23
+['M�s 2.5', 'Menos 2.5', 'M�s 3.5', 'Menos 3.5', 'M�s 4.5', 'Menos 4.5', 'S�', 'No', 'Colchester United S23 +2.5', 'Cardiff City S23 -2.5', 'Solo Cardiff City S23', 'Ambos Equipos', 'M�s 2.5', 'Menos 2.5', 'M�s 0.5', 'Menos 0.5', 'Par', 'Impar']
+WPlay
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-----------------------------------------------------------------
+BetPlay
+Londero, Juan Ignacio - Evans, Daniel
+['Total de sets M�s de 2.5', 'Total de sets Menos 2.5', 'Total de juegos M�s de 18.5', 'Total de juegos Menos 18.5', 'Total de juegos - Set 2 M�s de 10.5', 'Total de juegos - Set 2 Menos 10.5', 'Total de juegos M�s de 20.5', 'Total de juegos Menos 20.5', 'Total de juegos - Set 2 M�s de 9.5', 'Total de juegos - Set 2 Menos 9.5', 'Total de juegos - Set 3 M�s de 9.5', 'Total de juegos - Set 3 Menos 9.5', 'Total de juegos - Set 3 M�s de 10.5', 'Total de juegos - Set 3 Menos 10.5', 'Total de puntos - Set 2, Juego 2 M�s de 5.5', 'Total de puntos - Set 2, Juego 2 Menos 5.5', 'Total de puntos - Set 2, Juego 3 M�s de 5.5', 'Total de puntos - Set 2, Juego 3 Menos 5.5']
+RushBet
+Londero, Juan Ignacio - Evans, Daniel
+['Total de sets M�s de 2.5', 'Total de sets Menos 2.5', 'Total de juegos M�s de 18.5', 'Total de juegos Menos 18.5', 'Total de juegos - Set 2 M�s de 10.5', 'Total de juegos - Set 2 Menos 10.5', 'Total de juegos M�s de 20.5', 'Total de juegos Menos 20.5', 'Total de juegos - Set 2 M�s de 9.5', 'Total de juegos - Set 2 Menos 9.5', 'Total de juegos - Set 3 M�s de 9.5', 'Total de juegos - Set 3 Menos 9.5', 'Total de juegos - Set 3 M�s de 10.5', 'Total de juegos - Set 3 Menos 10.5', 'Total de puntos - Set 2, Juego 2 M�s de 5.5', 'Total de puntos - Set 2, Juego 2 Menos 5.5', 'Total de puntos - Set 2, Juego 3 M�s de 5.5', 'Total de puntos - Set 2, Juego 3 Menos 5.5']
+Codere
+Juan Ignacio Londero - Daniel Evans
+['Daniel Evans', 'Juan Ignacio Londero', 'Daniel Evans', 'Juan Ignacio Londero', 'Daniel Evans', 'Juan Ignacio Londero', 'Daniel Evans', 'Juan Ignacio Londero', 'Daniel Evans', 'Juan Ignacio Londero', 'Menos 5.5', 'M�s 5.5', 'Juan Ignacio Londero', 'Daniel Evans', 'Daniel Evans -5.5', 'Juan Ignacio Londero +5.5', 'M�s 18.5', 'Menos 18.5', 'Juan Ignacio Londero +1.5', 'Daniel Evans -1.5', 'Menos 9.5', 'M�s 9.5', 'Si', 'No']
+WPlay
+Londero, Juan Ignacio vs. Evans, Daniel
+['Segundo set - total juegos M�s de 9.5', 'Segundo set - total juegos Menos de 9.5', 'Segundo set - ganador Londero, Juan Ignacio', 'Segundo set - ganador Evans, Daniel', 'Total juegos M�s de 18.5', 'Total juegos Menos de 18.5', 'H�ndicap de juego Londero, Juan Ignacio (+5.5)', 'H�ndicap de juego Evans, Daniel (-5.5)', 'Ganador Londero, Juan Ignacio', 'Ganador Evans, Daniel']
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BetPlay
+Norrie, Cameron - Monteiro, Thiago
+['Total de sets M�s de 2.5', 'Total de sets Menos 2.5', 'Total de juegos M�s de 28.5', 'Total de juegos Menos 28.5', 'Total de juegos M�s de 25.5', 'Total de juegos Menos 25.5', 'Total de juegos M�s de 23.5', 'Total de juegos Menos 23.5', 'Total de juegos M�s de 26.5', 'Total de juegos Menos 26.5', 'Total de juegos M�s de 27.5', 'Total de juegos Menos 27.5', 'Total de juegos - Set 2 M�s de 7.5', 'Total de juegos - Set 2 Menos 7.5', 'Total de juegos - Set 2 M�s de 8.5', 'Total de juegos - Set 2 Menos 8.5', 'Total de juegos - Set 2 M�s de 10.5', 'Total de juegos - Set 2 Menos 10.5', 'Total de juegos - Set 2 M�s de 9.5', 'Total de juegos - Set 2 Menos 9.5', 'Total de juegos M�s de 29.5', 'Total de juegos Menos 29.5', 'Total de juegos M�s de 30.5', 'Total de juegos Menos 30.5', 'Total de juegos M�s de 31.5', 'Total de juegos Menos 31.5', 'Total de puntos - Set 2, Juego 1 M�s de 5.5', 'Total de puntos - Set 2, Juego 1 Menos 5.5', 'Total de juegos M�s de 32.5', 'Total de juegos Menos 32.5', 'Total de juegos - Set 3 M�s de 7.5', 'Total de juegos - Set 3 Menos 7.5', 'Total de puntos - Set 2, Juego 2 M�s de 5.5', 'Total de puntos - Set 2, Juego 2 Menos 5.5', 'Total de juegos - Set 3 M�s de 9.5', 'Total de juegos - Set 3 Menos 9.5', 'Total de juegos - Set 3 M�s de 10.5', 'Total de juegos - Set 3 Menos 10.5', 'Total de juegos - Set 3 M�s de 8.5', 'Total de juegos - Set 3 Menos 8.5']
+RushBet
+Norrie, Cameron - Monteiro, Thiago
+['Total de sets M�s de 2.5', 'Total de sets Menos 2.5', 'Total de juegos M�s de 28.5', 'Total de juegos Menos 28.5', 'Total de juegos M�s de 25.5', 'Total de juegos Menos 25.5', 'Total de juegos M�s de 23.5', 'Total de juegos Menos 23.5', 'Total de juegos M�s de 26.5', 'Total de juegos Menos 26.5', 'Total de juegos M�s de 27.5', 'Total de juegos Menos 27.5', 'Total de juegos - Set 2 M�s de 7.5', 'Total de juegos - Set 2 Menos 7.5', 'Total de juegos - Set 2 M�s de 8.5', 'Total de juegos - Set 2 Menos 8.5', 'Total de juegos - Set 2 M�s de 10.5', 'Total de juegos - Set 2 Menos 10.5', 'Total de juegos - Set 2 M�s de 9.5', 'Total de juegos - Set 2 Menos 9.5', 'Total de juegos M�s de 29.5', 'Total de juegos Menos 29.5', 'Total de juegos M�s de 30.5', 'Total de juegos Menos 30.5', 'Total de juegos M�s de 31.5', 'Total de juegos Menos 31.5', 'Total de puntos - Set 2, Juego 1 M�s de 5.5', 'Total de puntos - Set 2, Juego 1 Menos 5.5', 'Total de juegos M�s de 32.5', 'Total de juegos Menos 32.5', 'Total de juegos - Set 3 M�s de 7.5', 'Total de juegos - Set 3 Menos 7.5', 'Total de puntos - Set 2, Juego 2 M�s de 5.5', 'Total de puntos - Set 2, Juego 2 Menos 5.5', 'Total de juegos - Set 3 M�s de 9.5', 'Total de juegos - Set 3 Menos 9.5', 'Total de juegos - Set 3 M�s de 10.5', 'Total de juegos - Set 3 Menos 10.5', 'Total de juegos - Set 3 M�s de 8.5', 'Total de juegos - Set 3 Menos 8.5']
+Codere
+Cameron Norrie - Thiago Monteiro
+['Cameron Norrie', 'Thiago Monteiro', 'Thiago Monteiro', 'Cameron Norrie', 'Cameron Norrie', 'Thiago Monteiro', 'Cameron Norrie', 'Thiago Monteiro', 'Thiago Monteiro', 'Cameron Norrie', 'Menos 5.5', 'M�s 5.5', 'Cameron Norrie', 'Thiago Monteiro', 'Thiago Monteiro -2.5', 'Cameron Norrie +2.5', 'M�s 26.5', 'Menos 26.5', 'Cameron Norrie +1.5', 'Thiago Monteiro -1.5', 'M�s 9.5', 'Menos 9.5', 'Si', 'No']
+WPlay
+Norrie, Cameron vs. Monteiro, Thiago Moura
+['Segundo set - total juegos M�s de 9.5', 'Segundo set - total juegos Menos de 9.5', 'Segundo set - ganador Norrie, Cameron', 'Segundo set - ganador Monteiro, Thiago Moura', 'Total juegos M�s de 27.5', 'Total juegos Menos de 27.5', 'H�ndicap de juego Norrie, Cameron (+1.5)', 'H�ndicap de juego Monteiro, Thiago Moura (-1.5)', 'Ganador Norrie, Cameron', 'Ganador Monteiro, Thiago Moura']
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BetPlay
+Humbert, Ugo - Ruud, Casper
+['Total de juegos - Set 1 M�s de 9.5', 'Total de juegos - Set 1 Menos 9.5', 'Total de juegos M�s de 22.5', 'Total de juegos Menos 22.5', 'Total de sets M�s de 2.5', 'Total de sets Menos 2.5', 'Total de juegos M�s de 28.5', 'Total de juegos Menos 28.5', 'Total de juegos M�s de 26.5', 'Total de juegos Menos 26.5', 'Total de juegos M�s de 23.5', 'Total de juegos Menos 23.5', 'Total de juegos M�s de 24.5', 'Total de juegos Menos 24.5', 'Total de juegos M�s de 25.5', 'Total de juegos Menos 25.5', 'Total de juegos - Set 1 M�s de 10.5', 'Total de juegos - Set 1 Menos 10.5', 'Total de juegos - Set 2 M�s de 10.5', 'Total de juegos - Set 2 Menos 10.5', 'Total de juegos - Set 2 M�s de 7.5', 'Total de juegos - Set 2 Menos 7.5', 'Total de juegos - Set 2 M�s de 8.5', 'Total de juegos - Set 2 Menos 8.5', 'Total de juegos M�s de 27.5', 'Total de juegos Menos 27.5', 'Total de juegos - Set 2 M�s de 9.5', 'Total de juegos - Set 2 Menos 9.5', 'Total de juegos M�s de 29.5', 'Total de juegos Menos 29.5', 'Total de juegos M�s de 30.5', 'Total de juegos Menos 30.5', 'Total de puntos - Set 1, Juego 9 M�s de 5.5', 'Total de puntos - Set 1, Juego 9 Menos 5.5']
+RushBet
+Humbert, Ugo - Ruud, Casper
+['Total de juegos - Set 1 M�s de 9.5', 'Total de juegos - Set 1 Menos 9.5', 'Total de juegos M�s de 22.5', 'Total de juegos Menos 22.5', 'Total de sets M�s de 2.5', 'Total de sets Menos 2.5', 'Total de juegos M�s de 28.5', 'Total de juegos Menos 28.5', 'Total de juegos M�s de 26.5', 'Total de juegos Menos 26.5', 'Total de juegos M�s de 23.5', 'Total de juegos Menos 23.5', 'Total de juegos M�s de 24.5', 'Total de juegos Menos 24.5', 'Total de juegos M�s de 25.5', 'Total de juegos Menos 25.5', 'Total de juegos - Set 1 M�s de 10.5', 'Total de juegos - Set 1 Menos 10.5', 'Total de juegos - Set 2 M�s de 10.5', 'Total de juegos - Set 2 Menos 10.5', 'Total de juegos - Set 2 M�s de 7.5', 'Total de juegos - Set 2 Menos 7.5', 'Total de juegos - Set 2 M�s de 8.5', 'Total de juegos - Set 2 Menos 8.5', 'Total de juegos M�s de 27.5', 'Total de juegos Menos 27.5', 'Total de juegos - Set 2 M�s de 9.5', 'Total de juegos - Set 2 Menos 9.5', 'Total de juegos M�s de 29.5', 'Total de juegos Menos 29.5', 'Total de juegos M�s de 30.5', 'Total de juegos Menos 30.5', 'Total de puntos - Set 1, Juego 9 M�s de 5.5', 'Total de puntos - Set 1, Juego 9 Menos 5.5']
+Codere
+Ugo Humbert - Casper Ruud
+['Ugo Humbert', 'Casper Ruud', 'Casper Ruud', 'Ugo Humbert', 'Menos 5.5', 'M�s 5.5', 'Ugo Humbert', 'Casper Ruud', 'Casper Ruud +0.5', 'Ugo Humbert -0.5', 'Menos 25.5', 'M�s 25.5', 'M�s 12.5', 'Menos 12.5', 'Si', 'No']
+WPlay
+Humbert, Ugo vs. Ruud, Casper
+['Primero set - total juegos M�s de 12.5', 'Primero set - total juegos Menos de 12.5', 'Primero set - ganador Humbert, Ugo', 'Primero set - ganador Ruud, Casper', 'Total juegos M�s de 25.5', 'Total juegos Menos de 25.5', 'H�ndicap de juego Humbert, Ugo (-0.5)', 'H�ndicap de juego Ruud, Casper (+0.5)', 'Ganador Humbert, Ugo', 'Ganador Ruud, Casper']
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BetPlay
+Bencic, Belinda - Kasatkina, Daria
+['Total de juegos M�s de 20.5', 'Total de juegos Menos 20.5', 'Total de sets M�s de 2.5', 'Total de sets Menos 2.5', 'Total de juegos M�s de 26.5', 'Total de juegos Menos 26.5', 'Total de juegos M�s de 23.5', 'Total de juegos Menos 23.5', 'Total de juegos M�s de 22.5', 'Total de juegos Menos 22.5', 'Total de juegos - Set 2 M�s de 8.5', 'Total de juegos - Set 2 Menos 8.5', 'Total de juegos - Set 2 M�s de 9.5', 'Total de juegos - Set 2 Menos 9.5', 'Total de juegos M�s de 24.5', 'Total de juegos Menos 24.5', 'Total de juegos - Set 2 M�s de 10.5', 'Total de juegos - Set 2 Menos 10.5', 'Total de juegos M�s de 25.5', 'Total de juegos Menos 25.5', 'Total de juegos M�s de 27.5', 'Total de juegos Menos 27.5', 'Total de juegos M�s de 28.5', 'Total de juegos Menos 28.5', 'Total de juegos M�s de 29.5', 'Total de juegos Menos 29.5', 'Total de juegos - Set 3 M�s de 8.5', 'Total de juegos - Set 3 Menos 8.5', 'Total de juegos - Set 3 M�s de 10.5', 'Total de juegos - Set 3 Menos 10.5', 'Total de juegos - Set 3 M�s de 9.5', 'Total de juegos - Set 3 Menos 9.5', 'Total de juegos - Set 3 M�s de 7.5', 'Total de juegos - Set 3 Menos 7.5', 'Total de puntos - Set 2, Juego 6 M�s de 5.5', 'Total de puntos - Set 2, Juego 6 Menos 5.5', 'Total de puntos - Set 2, Juego 7 M�s de 5.5', 'Total de puntos - Set 2, Juego 7 Menos 5.5']
+RushBet
+Bencic, Belinda - Kasatkina, Daria
+['Total de juegos M�s de 20.5', 'Total de juegos Menos 20.5', 'Total de sets M�s de 2.5', 'Total de sets Menos 2.5', 'Total de juegos M�s de 26.5', 'Total de juegos Menos 26.5', 'Total de juegos M�s de 23.5', 'Total de juegos Menos 23.5', 'Total de juegos M�s de 22.5', 'Total de juegos Menos 22.5', 'Total de juegos - Set 2 M�s de 8.5', 'Total de juegos - Set 2 Menos 8.5', 'Total de juegos - Set 2 M�s de 9.5', 'Total de juegos - Set 2 Menos 9.5', 'Total de juegos M�s de 24.5', 'Total de juegos Menos 24.5', 'Total de juegos - Set 2 M�s de 10.5', 'Total de juegos - Set 2 Menos 10.5', 'Total de juegos M�s de 25.5', 'Total de juegos Menos 25.5', 'Total de juegos M�s de 27.5', 'Total de juegos Menos 27.5', 'Total de juegos M�s de 28.5', 'Total de juegos Menos 28.5', 'Total de juegos M�s de 29.5', 'Total de juegos Menos 29.5', 'Total de juegos - Set 3 M�s de 8.5', 'Total de juegos - Set 3 Menos 8.5', 'Total de juegos - Set 3 M�s de 10.5', 'Total de juegos - Set 3 Menos 10.5', 'Total de juegos - Set 3 M�s de 9.5', 'Total de juegos - Set 3 Menos 9.5', 'Total de juegos - Set 3 M�s de 7.5', 'Total de juegos - Set 3 Menos 7.5', 'Total de puntos - Set 2, Juego 6 M�s de 5.5', 'Total de puntos - Set 2, Juego 6 Menos 5.5', 'Total de puntos - Set 2, Juego 7 M�s de 5.5', 'Total de puntos - Set 2, Juego 7 Menos 5.5']
+Codere
+Belinda Bencic - Daria Kasatkina
+['Belinda Bencic', 'Daria Kasatkina', 'Daria Kasatkina', 'Belinda Bencic', 'Belinda Bencic', 'Daria Kasatkina', 'M�s 5.5', 'Menos 5.5', 'Daria Kasatkina', 'Belinda Bencic', 'Daria Kasatkina +3.5', 'Belinda Bencic -3.5', 'Menos 23.5', 'M�s 23.5', 'Daria Kasatkina +1.5', 'Belinda Bencic -1.5', 'Menos 10.5', 'M�s 10.5', 'Si', 'No']
+WPlay
+Bencic, Belinda vs. Kasatkina, Darya
+['Segundo set - total juegos M�s de 9.5', 'Segundo set - total juegos Menos de 9.5', 'Segundo set - ganador Bencic, Belinda', 'Segundo set - ganador Kasatkina, Darya', 'Total juegos M�s de 25.5', 'Total juegos Menos de 25.5', 'H�ndicap de juego Bencic, Belinda (-3.5)', 'H�ndicap de juego Kasatkina, Darya (+3.5)', 'Ganador Bencic, Belinda', 'Ganador Kasatkina, Darya']
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BetPlay
+Collins, Danielle Rose - Sasnovich, Aliaksandra
+['Total de juegos M�s de 21.5', 'Total de juegos Menos 21.5', 'Total de sets M�s de 2.5', 'Total de sets Menos 2.5', 'Total de juegos M�s de 26.5', 'Total de juegos Menos 26.5', 'Total de juegos M�s de 18.5', 'Total de juegos Menos 18.5', 'Total de juegos M�s de 24.5', 'Total de juegos Menos 24.5', 'Total de juegos M�s de 19.5', 'Total de juegos Menos 19.5', 'Total de juegos M�s de 23.5', 'Total de juegos Menos 23.5', 'Total de juegos M�s de 20.5', 'Total de juegos Menos 20.5', 'Total de juegos M�s de 22.5', 'Total de juegos Menos 22.5', 'Total de juegos - Set 2 M�s de 6.5', 'Total de juegos - Set 2 Menos 6.5', 'Total de juegos - Set 2 M�s de 8.5', 'Total de juegos - Set 2 Menos 8.5', 'Total de juegos - Set 2 M�s de 10.5', 'Total de juegos - Set 2 Menos 10.5', 'Total de juegos M�s de 25.5', 'Total de juegos Menos 25.5', 'Total de juegos - Set 2 M�s de 9.5', 'Total de juegos - Set 2 Menos 9.5', 'Total de juegos - Set 2 M�s de 7.5', 'Total de juegos - Set 2 Menos 7.5', 'Total de juegos M�s de 27.5', 'Total de juegos Menos 27.5']
+RushBet
+Collins, Danielle Rose - Sasnovich, Aliaksandra
+['Total de juegos M�s de 21.5', 'Total de juegos Menos 21.5', 'Total de sets M�s de 2.5', 'Total de sets Menos 2.5', 'Total de juegos M�s de 26.5', 'Total de juegos Menos 26.5', 'Total de juegos M�s de 18.5', 'Total de juegos Menos 18.5', 'Total de juegos M�s de 24.5', 'Total de juegos Menos 24.5', 'Total de juegos M�s de 19.5', 'Total de juegos Menos 19.5', 'Total de juegos M�s de 23.5', 'Total de juegos Menos 23.5', 'Total de juegos M�s de 20.5', 'Total de juegos Menos 20.5', 'Total de juegos M�s de 22.5', 'Total de juegos Menos 22.5', 'Total de juegos - Set 2 M�s de 6.5', 'Total de juegos - Set 2 Menos 6.5', 'Total de juegos - Set 2 M�s de 8.5', 'Total de juegos - Set 2 Menos 8.5', 'Total de juegos - Set 2 M�s de 10.5', 'Total de juegos - Set 2 Menos 10.5', 'Total de juegos M�s de 25.5', 'Total de juegos Menos 25.5', 'Total de juegos - Set 2 M�s de 9.5', 'Total de juegos - Set 2 Menos 9.5', 'Total de juegos - Set 2 M�s de 7.5', 'Total de juegos - Set 2 Menos 7.5', 'Total de juegos M�s de 27.5', 'Total de juegos Menos 27.5']
+Codere
+Danielle Rose Collins - Aliaksandra Sasnovich
+['Danielle Rose Collins', 'Aliaksandra Sasnovich', 'Aliaksandra Sasnovich', 'Danielle Rose Collins', 'Aliaksandra Sasnovich', 'Danielle Rose Collins', 'Menos 5.5', 'M�s 5.5', 'Aliaksandra Sasnovich +5.5', 'Danielle Rose Collins -5.5', 'Menos 21.5', 'M�s 21.5', 'Aliaksandra Sasnovich +3.5', 'Danielle Rose Collins -3.5', 'Menos 8.5', 'M�s 8.5', 'Si', 'No']
+WPlay
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BetPlay
+Sharma, Astra - Davis, Lauren
+['Tiebreak - Puntos totales, set 3 M�s de 11.5', 'Tiebreak - Puntos totales, set 3 Menos 11.5', 'Tiebreak - Puntos totales, set 3 M�s de 12.5', 'Tiebreak - Puntos totales, set 3 Menos 12.5', 'Tiebreak - Puntos totales, set 3 M�s de 14.5', 'Tiebreak - Puntos totales, set 3 Menos 14.5', 'Tiebreak - Puntos totales, set 3 M�s de 10.5', 'Tiebreak - Puntos totales, set 3 Menos 10.5', 'Tiebreak - Puntos totales, set 3 M�s de 9.5', 'Tiebreak - Puntos totales, set 3 Menos 9.5', 'Tiebreak - Puntos totales, set 3 M�s de 16.5', 'Tiebreak - Puntos totales, set 3 Menos 16.5']
+RushBet
+Sharma, Astra - Davis, Lauren
+['Tiebreak - Puntos totales, set 3 M�s de 11.5', 'Tiebreak - Puntos totales, set 3 Menos 11.5', 'Tiebreak - Puntos totales, set 3 M�s de 12.5', 'Tiebreak - Puntos totales, set 3 Menos 12.5', 'Tiebreak - Puntos totales, set 3 M�s de 14.5', 'Tiebreak - Puntos totales, set 3 Menos 14.5', 'Tiebreak - Puntos totales, set 3 M�s de 10.5', 'Tiebreak - Puntos totales, set 3 Menos 10.5', 'Tiebreak - Puntos totales, set 3 M�s de 9.5', 'Tiebreak - Puntos totales, set 3 Menos 9.5', 'Tiebreak - Puntos totales, set 3 M�s de 16.5', 'Tiebreak - Puntos totales, set 3 Menos 16.5']
+Codere
+WPlay
+Sharma, Astra vs. Davis, Lauren
+['Ganador Sharma, Astra', 'Ganador Davis, Lauren']
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BetPlay
+Teichmann, Jil Belen - Watson, Heather
+['Total de juegos - Set 3 M�s de 10.5', 'Total de juegos - Set 3 Menos 10.5', 'Total de juegos M�s de 27.5', 'Total de juegos Menos 27.5', 'Total de puntos - Set 3, Juego 10 M�s de 5.5', 'Total de puntos - Set 3, Juego 10 Menos 5.5', 'Total de puntos - Set 3, Juego 11 M�s de 5.5', 'Total de puntos - Set 3, Juego 11 Menos 5.5']
+RushBet
+Teichmann, Jil Belen - Watson, Heather
+['Total de juegos - Set 3 M�s de 10.5', 'Total de juegos - Set 3 Menos 10.5', 'Total de juegos M�s de 27.5', 'Total de juegos Menos 27.5', 'Total de puntos - Set 3, Juego 10 M�s de 5.5', 'Total de puntos - Set 3, Juego 10 Menos 5.5', 'Total de puntos - Set 3, Juego 11 M�s de 5.5', 'Total de puntos - Set 3, Juego 11 Menos 5.5']
+Codere
+WPlay
+Teichmann, Jil Belen vs. Watson, Heather
+['Ganador Teichmann, Jil Belen', 'Ganador Watson, Heather', 'H�ndicap de juego Teichmann, Jil Belen (-1.5)', 'H�ndicap de juego Watson, Heather (+1.5)', 'Total juegos M�s de 27.5', 'Total juegos Menos de 27.5']
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BetPlay
+Klaasen, R/Marach, O - Kubot, L/Melo, M
+['Total de juegos - Set 2 M�s de 9.5', 'Total de juegos - Set 2 Menos 9.5', 'Total de juegos - Set 2 M�s de 10.5', 'Total de juegos - Set 2 Menos 10.5', 'Total de juegos M�s de 18.5', 'Total de juegos Menos 18.5', 'Total de juegos M�s de 20.5', 'Total de juegos Menos 20.5', 'Total de juegos M�s de 19.5', 'Total de juegos Menos 19.5', 'Total de puntos - Set 2, Juego 6 M�s de 5.5', 'Total de puntos - Set 2, Juego 6 Menos 5.5', 'Total de puntos - Set 2, Juego 7 M�s de 5.5', 'Total de puntos - Set 2, Juego 7 Menos 5.5']
+RushBet
+Klaasen, R/Marach, O - Kubot, L/Melo, M
+['Total de juegos - Set 2 M�s de 9.5', 'Total de juegos - Set 2 Menos 9.5', 'Total de juegos - Set 2 M�s de 10.5', 'Total de juegos - Set 2 Menos 10.5', 'Total de juegos M�s de 18.5', 'Total de juegos Menos 18.5', 'Total de juegos M�s de 20.5', 'Total de juegos Menos 20.5', 'Total de juegos M�s de 19.5', 'Total de juegos Menos 19.5', 'Total de puntos - Set 2, Juego 6 M�s de 5.5', 'Total de puntos - Set 2, Juego 6 Menos 5.5', 'Total de puntos - Set 2, Juego 7 M�s de 5.5', 'Total de puntos - Set 2, Juego 7 Menos 5.5']
+Codere
+WPlay
+Klaasen R / Marach O vs. Kubot L / Melo M
+['Segundo set - total juegos M�s de 10.5', 'Segundo set - total juegos Menos de 10.5', 'Segundo set - ganador Klaasen R / Marach O', 'Segundo set - ganador Kubot L / Melo M', 'Total juegos M�s de 19.5', 'Total juegos Menos de 19.5', 'Ganador Klaasen R / Marach O', 'Ganador Kubot L / Melo M']
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BetPlay
+Halep, S/Olaru, R - Peschke, K/Schuurs, D
+['Total de juegos M�s de 21.5', 'Total de juegos Menos 21.5', 'Total de juegos - Set 2 M�s de 8.5', 'Total de juegos - Set 2 Menos 8.5', 'Total de juegos - Set 2 M�s de 10.5', 'Total de juegos - Set 2 Menos 10.5', 'Total de juegos - Set 2 M�s de 9.5', 'Total de juegos - Set 2 Menos 9.5', 'Total de juegos - Set 2 M�s de 7.5', 'Total de juegos - Set 2 Menos 7.5', 'Total de juegos - Set 2 M�s de 6.5', 'Total de juegos - Set 2 Menos 6.5', 'Total de juegos M�s de 22.5', 'Total de juegos Menos 22.5', 'Total de juegos M�s de 23.5', 'Total de juegos Menos 23.5', 'Total de puntos - Set 1, Juego 12 M�s de 4.5', 'Total de puntos - Set 1, Juego 12 Menos 4.5', 'Total de puntos - Set 1, Juego 11 M�s de 4.5', 'Total de puntos - Set 1, Juego 11 Menos 4.5']
+RushBet
+Halep, S/Olaru, R - Peschke, K/Schuurs, D
+['Total de juegos M�s de 21.5', 'Total de juegos Menos 21.5', 'Total de juegos - Set 2 M�s de 8.5', 'Total de juegos - Set 2 Menos 8.5', 'Total de juegos - Set 2 M�s de 10.5', 'Total de juegos - Set 2 Menos 10.5', 'Total de juegos - Set 2 M�s de 9.5', 'Total de juegos - Set 2 Menos 9.5', 'Total de juegos - Set 2 M�s de 7.5', 'Total de juegos - Set 2 Menos 7.5', 'Total de juegos - Set 2 M�s de 6.5', 'Total de juegos - Set 2 Menos 6.5', 'Total de juegos M�s de 22.5', 'Total de juegos Menos 22.5', 'Total de juegos M�s de 23.5', 'Total de juegos Menos 23.5', 'Total de puntos - Set 1, Juego 12 M�s de 4.5', 'Total de puntos - Set 1, Juego 12 Menos 4.5', 'Total de puntos - Set 1, Juego 11 M�s de 4.5', 'Total de puntos - Set 1, Juego 11 Menos 4.5']
+Codere
+Halep, S/Olaru, R - Peschke, K/Schuurs, D
+['Halep, S/Olaru, R', 'Peschke, K/Schuurs, D', 'Peschke, K/Schuurs, D', 'Halep, S/Olaru, R', 'Halep, S/Olaru, R', 'Peschke, K/Schuurs, D', 'Halep, S/Olaru, R', 'Peschke, K/Schuurs, D', 'M�s 5.5', 'Menos 5.5', 'Halep, S/Olaru, R', 'Peschke, K/Schuurs, D', 'Peschke, K/Schuurs, D +2.5', 'Halep, S/Olaru, R -2.5', 'M�s 22.5', 'Menos 22.5', 'Peschke, K/Schuurs, D +1.5', 'Halep, S/Olaru, R -1.5', 'Menos 12.5', 'M�s 12.5', 'No', 'Si']
+WPlay
+Halep S / Olaru R vs. Peschke K / Schuurs D
+['Primero set - ganador Halep S / Olaru R', 'Primero set - ganador Peschke K / Schuurs D', 'Total juegos M�s de 22.5', 'Total juegos Menos de 22.5', 'Ganador Halep S / Olaru R', 'Ganador Peschke K / Schuurs D']
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BetPlay
+Doumbia, Sadio - Rawat, Sidharth
+['Total de juegos - Set 2 M�s de 8.5', 'Total de juegos - Set 2 Menos 8.5', 'Total de sets M�s de 2.5', 'Total de sets Menos 2.5', 'Total de juegos M�s de 22.5', 'Total de juegos Menos 22.5', 'Total de juegos - Set 1 M�s de 10.5', 'Total de juegos - Set 1 Menos 10.5', 'Total de juegos - Set 1 M�s de 9.5', 'Total de juegos - Set 1 Menos 9.5', 'Total de juegos - Set 2 M�s de 9.5', 'Total de juegos - Set 2 Menos 9.5', 'Total de juegos - Set 2 M�s de 10.5', 'Total de juegos - Set 2 Menos 10.5', 'Total de juegos M�s de 23.5', 'Total de juegos Menos 23.5', 'Total de juegos M�s de 24.5', 'Total de juegos Menos 24.5', 'Total de puntos - Set 1, Juego 7 M�s de 5.5', 'Total de puntos - Set 1, Juego 7 Menos 5.5', 'Total de puntos - Set 1, Juego 8 M�s de 5.5', 'Total de puntos - Set 1, Juego 8 Menos 5.5']
+RushBet
+Doumbia, Sadio - Rawat, Sidharth
+['Total de juegos - Set 2 M�s de 8.5', 'Total de juegos - Set 2 Menos 8.5', 'Total de sets M�s de 2.5', 'Total de sets Menos 2.5', 'Total de juegos M�s de 22.5', 'Total de juegos Menos 22.5', 'Total de juegos - Set 1 M�s de 10.5', 'Total de juegos - Set 1 Menos 10.5', 'Total de juegos - Set 1 M�s de 9.5', 'Total de juegos - Set 1 Menos 9.5', 'Total de juegos - Set 2 M�s de 9.5', 'Total de juegos - Set 2 Menos 9.5', 'Total de juegos - Set 2 M�s de 10.5', 'Total de juegos - Set 2 Menos 10.5', 'Total de juegos M�s de 23.5', 'Total de juegos Menos 23.5', 'Total de juegos M�s de 24.5', 'Total de juegos Menos 24.5', 'Total de puntos - Set 1, Juego 7 M�s de 5.5', 'Total de puntos - Set 1, Juego 7 Menos 5.5', 'Total de puntos - Set 1, Juego 8 M�s de 5.5', 'Total de puntos - Set 1, Juego 8 Menos 5.5']
+Codere
+Sadio Doumbia - Sidharth Rawat
+['Sidharth Rawat', 'Sadio Doumbia', 'M�s 5.5', 'Menos 5.5', 'Sadio Doumbia', 'Sidharth Rawat', 'Sidharth Rawat -2.5', 'Sadio Doumbia +2.5', 'Menos 23.5', 'M�s 23.5', 'Sadio Doumbia +2.5', 'Sidharth Rawat -2.5', 'M�s 9.5', 'Menos 9.5', 'Si', 'No']
+WPlay
+Doumbia, Sadio vs. Rawat, Sidharth
+['Primero set - total juegos M�s de 9.5', 'Primero set - total juegos Menos de 9.5', 'Primero set - ganador Doumbia, Sadio', 'Primero set - ganador Rawat, Sidharth', 'Total juegos M�s de 22.5', 'Total juegos Menos de 22.5', 'H�ndicap de juego Doumbia, Sadio (+2.5)', 'H�ndicap de juego Rawat, Sidharth (-2.5)', 'Ganador Doumbia, Sadio', 'Ganador Rawat, Sidharth']
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BetPlay
+Trongcharoenchaikul, Wishaya - Basic, Mirza
+['Total de juegos M�s de 20.5', 'Total de juegos Menos 20.5', 'Total de juegos - Set 2 M�s de 8.5', 'Total de juegos - Set 2 Menos 8.5', 'Total de juegos M�s de 21.5', 'Total de juegos Menos 21.5', 'Total de sets M�s de 2.5', 'Total de sets Menos 2.5', 'Total de juegos - Set 2 M�s de 9.5', 'Total de juegos - Set 2 Menos 9.5', 'Total de juegos M�s de 19.5', 'Total de juegos Menos 19.5', 'Total de puntos - Set 1, Juego 10 M�s de 5.5', 'Total de puntos - Set 1, Juego 10 Menos 5.5']
+RushBet
+Trongcharoenchaikul, Wishaya - Basic, Mirza
+['Total de juegos M�s de 20.5', 'Total de juegos Menos 20.5', 'Total de juegos - Set 2 M�s de 8.5', 'Total de juegos - Set 2 Menos 8.5', 'Total de juegos M�s de 21.5', 'Total de juegos Menos 21.5', 'Total de sets M�s de 2.5', 'Total de sets Menos 2.5', 'Total de juegos - Set 2 M�s de 9.5', 'Total de juegos - Set 2 Menos 9.5', 'Total de juegos M�s de 19.5', 'Total de juegos Menos 19.5', 'Total de puntos - Set 1, Juego 10 M�s de 5.5', 'Total de puntos - Set 1, Juego 10 Menos 5.5']
+Codere
+Wishaya Trongcharoenchaikul - Mirza Basic
+['Wishaya Trongcharoenchaikul', 'Mirza Basic', 'Wishaya Trongcharoenchaikul', 'Mirza Basic', 'M�s 5.5', 'Menos 5.5', 'Wishaya Trongcharoenchaikul +4.5', 'Mirza Basic -4.5', 'M�s 20.5', 'Menos 20.5', 'Si', 'No']
+WPlay
+Trongcharoenchaikul, Wishaya vs. Basic, Mirza
+['Primero set - total juegos M�s de 10.5', 'Primero set - total juegos Menos de 10.5', 'Segundo set - ganador Trongcharoenchaikul, Wishaya', 'Segundo set - ganador Basic, Mirza', 'Total juegos M�s de 20.5', 'Total juegos Menos de 20.5', 'H�ndicap de juego Trongcharoenchaikul, Wishaya (+4.5)', 'H�ndicap de juego Basic, Mirza (-4.5)', 'Ganador Trongcharoenchaikul, Wishaya', 'Ganador Basic, Mirza']
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BetPlay
+Molcan, Alex - De Greef, Arthur
+['Total de juegos - Set 2 M�s de 8.5', 'Total de juegos - Set 2 Menos 8.5', 'Total de juegos M�s de 21.5', 'Total de juegos Menos 21.5', 'Total de sets M�s de 2.5', 'Total de sets Menos 2.5', 'Total de juegos M�s de 22.5', 'Total de juegos Menos 22.5', 'Total de juegos - Set 1 M�s de 10.5', 'Total de juegos - Set 1 Menos 10.5', 'Total de juegos - Set 1 M�s de 9.5', 'Total de juegos - Set 1 Menos 9.5', 'Total de juegos - Set 2 M�s de 9.5', 'Total de juegos - Set 2 Menos 9.5', 'Total de puntos - Set 1, Juego 6 M�s de 5.5', 'Total de puntos - Set 1, Juego 6 Menos 5.5', 'Total de juegos M�s de 23.5', 'Total de juegos Menos 23.5']
+RushBet
+Molcan, Alex - De Greef, Arthur
+['Total de juegos - Set 2 M�s de 8.5', 'Total de juegos - Set 2 Menos 8.5', 'Total de juegos M�s de 21.5', 'Total de juegos Menos 21.5', 'Total de sets M�s de 2.5', 'Total de sets Menos 2.5', 'Total de juegos M�s de 22.5', 'Total de juegos Menos 22.5', 'Total de juegos - Set 1 M�s de 10.5', 'Total de juegos - Set 1 Menos 10.5', 'Total de juegos - Set 1 M�s de 9.5', 'Total de juegos - Set 1 Menos 9.5', 'Total de juegos - Set 2 M�s de 9.5', 'Total de juegos - Set 2 Menos 9.5', 'Total de puntos - Set 1, Juego 6 M�s de 5.5', 'Total de puntos - Set 1, Juego 6 Menos 5.5', 'Total de juegos M�s de 23.5', 'Total de juegos Menos 23.5']
+Codere
+Alex Molcan - Arthur De Greef
+['Alex Molcan', 'Arthur De Greef', 'Alex Molcan', 'Arthur De Greef', 'M�s 5.5', 'Menos 5.5', 'Alex Molcan', 'Arthur De Greef', 'Alex Molcan -3.5', 'Arthur De Greef +3.5', 'M�s 22.5', 'Menos 22.5', 'Alex Molcan -1.5', 'Arthur De Greef +1.5', 'Menos 10.5', 'M�s 10.5', 'Si', 'No']
+WPlay
+Molcan, Alex vs. de Greef, Arthur
+['Primero set - total juegos M�s de 9.5', 'Primero set - total juegos Menos de 9.5', 'Primero set - ganador Molcan, Alex', 'Primero set - ganador De Greef, Arthur', 'Total juegos M�s de 21.5', 'Total juegos Menos de 21.5', 'H�ndicap de juego Molcan, Alex (-3.5)', 'H�ndicap de juego De Greef, Arthur (+3.5)', 'Ganador Molcan, Alex', 'Ganador De Greef, Arthur']
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BetPlay
+Sweeny, Dane - Adamson, Alec
+['Total de juegos - Set 2 M�s de 9.5', 'Total de juegos - Set 2 Menos 9.5', 'Total de juegos - Set 2 M�s de 10.5', 'Total de juegos - Set 2 Menos 10.5', 'Total de sets M�s de 2.5', 'Total de sets Menos 2.5', 'Total de juegos M�s de 23.5', 'Total de juegos Menos 23.5', 'Total de juegos M�s de 25.5', 'Total de juegos Menos 25.5', 'Total de juegos - Set 3 M�s de 9.5', 'Total de juegos - Set 3 Menos 9.5', 'Total de juegos - Set 3 M�s de 8.5', 'Total de juegos - Set 3 Menos 8.5', 'Total de juegos - Set 3 M�s de 7.5', 'Total de juegos - Set 3 Menos 7.5', 'Total de juegos - Set 3 M�s de 10.5', 'Total de juegos - Set 3 Menos 10.5', 'Total de puntos - Set 2, Juego 8 M�s de 5.5', 'Total de puntos - Set 2, Juego 8 Menos 5.5', 'Total de puntos - Set 2, Juego 9 M�s de 5.5', 'Total de puntos - Set 2, Juego 9 Menos 5.5']
+RushBet
+Sweeny, Dane - Adamson, Alec
+['Total de juegos - Set 2 M�s de 9.5', 'Total de juegos - Set 2 Menos 9.5', 'Total de juegos - Set 2 M�s de 10.5', 'Total de juegos - Set 2 Menos 10.5', 'Total de sets M�s de 2.5', 'Total de sets Menos 2.5', 'Total de juegos M�s de 23.5', 'Total de juegos Menos 23.5', 'Total de juegos M�s de 25.5', 'Total de juegos Menos 25.5', 'Total de juegos - Set 3 M�s de 9.5', 'Total de juegos - Set 3 Menos 9.5', 'Total de juegos - Set 3 M�s de 8.5', 'Total de juegos - Set 3 Menos 8.5', 'Total de juegos - Set 3 M�s de 7.5', 'Total de juegos - Set 3 Menos 7.5', 'Total de juegos - Set 3 M�s de 10.5', 'Total de juegos - Set 3 Menos 10.5', 'Total de puntos - Set 2, Juego 8 M�s de 5.5', 'Total de puntos - Set 2, Juego 8 Menos 5.5', 'Total de puntos - Set 2, Juego 9 M�s de 5.5', 'Total de puntos - Set 2, Juego 9 Menos 5.5']
+Codere
+Dane Sweeny - Alec Adamson
+['Alec Adamson', 'Dane Sweeny', 'Dane Sweeny', 'Alec Adamson', 'Dane Sweeny', 'Alec Adamson', 'Alec Adamson', 'Dane Sweeny', 'Alec Adamson', 'Dane Sweeny', 'M�s 5.5', 'Menos 5.5', 'Dane Sweeny', 'Alec Adamson', 'Menos 23.5', 'M�s 23.5', 'Si', 'No']
+WPlay
+Sweeny, Dane vs. Adamson, Alec
+['Segundo set - total juegos M�s de 10.5', 'Segundo set - total juegos Menos de 10.5', 'Segundo set - ganador Sweeny, Dane', 'Segundo set - ganador Adamson, Alec', 'Total juegos M�s de 24.5', 'Total juegos Menos de 24.5', 'H�ndicap de juego Sweeny, Dane (+2.5)', 'H�ndicap de juego Adamson, Alec (-2.5)', 'Ganador Sweeny, Dane', 'Ganador Adamson, Alec']
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BetPlay
+Johnson, Steve - Kalovelonis, Markos
+['Total de sets M�s de 2.5', 'Total de sets Menos 2.5', 'Total de puntos - Set 1, Juego 7 M�s de 5.5', 'Total de puntos - Set 1, Juego 7 Menos 5.5']
+RushBet
+Johnson, Steve - Kalovelonis, Markos
+['Total de sets M�s de 2.5', 'Total de sets Menos 2.5', 'Total de puntos - Set 1, Juego 7 M�s de 5.5', 'Total de puntos - Set 1, Juego 7 Menos 5.5']
+Codere
+Steve Johnson - Markos Kalovelonis
+['Steve Johnson', 'Markos Kalovelonis', 'Markos Kalovelonis', 'Steve Johnson', 'Steve Johnson', 'Markos Kalovelonis', 'Menos 5.5', 'M�s 5.5', 'Steve Johnson', 'Markos Kalovelonis', 'Markos Kalovelonis +5.5', 'Steve Johnson -5.5', 'Menos 18.5', 'M�s 18.5', 'Steve Johnson -2.5', 'Markos Kalovelonis +2.5', 'M�s 9.5', 'Menos 9.5', 'Si', 'No']
+WPlay
+Johnson, Steve vs. Kalovelonis, Markos
+['Primero set - total juegos M�s de 8.5', 'Primero set - total juegos Menos de 8.5', 'Primero set - ganador Johnson, Steve', 'Primero set - ganador Kalovelonis, Markos', 'Total juegos M�s de 18.5', 'Total juegos Menos de 18.5', 'H�ndicap de juego Johnson, Steve (-5.5)', 'H�ndicap de juego Kalovelonis, Markos (+5.5)', 'Ganador Johnson, Steve', 'Ganador Kalovelonis, Markos']
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-----------------------------------------------------------------
+BetPlay
+RushBet
+Oregon State Beavers - Arizona Wildcats
+['Total de puntos - Incluyendo pr�rroga M�s de 141.5', 'Total de puntos - Incluyendo pr�rroga Menos 141.5', 'Total de puntos - Incluyendo pr�rroga M�s de 137.5', 'Total de puntos - Incluyendo pr�rroga Menos 137.5', 'Total de puntos del equipo local - Incluyendo pr�rroga M�s de 69.5', 'Total de puntos del equipo local - Incluyendo pr�rroga Menos 69.5', 'Total de puntos - 1.� parte M�s de 63.5', 'Total de puntos - 1.� parte Menos 63.5', 'Total de puntos - 1.� parte M�s de 62.5', 'Total de puntos - 1.� parte Menos 62.5', 'Total de puntos - 1.� parte M�s de 60.5', 'Total de puntos - 1.� parte Menos 60.5', 'Total de puntos - 1.� parte M�s de 62.0', 'Total de puntos - 1.� parte Menos 62.0', 'Total de puntos - Incluyendo pr�rroga M�s de 137.0', 'Total de puntos - Incluyendo pr�rroga Menos 137.0', 'Total de puntos - Incluyendo pr�rroga M�s de 132.5', 'Total de puntos - Incluyendo pr�rroga Menos 132.5', 'Total de puntos del equipo visitante - Incluyendo pr�rroga M�s de 68.5', 'Total de puntos del equipo visitante - Incluyendo pr�rroga Menos 68.5']
+Codere
+WPlay
+Oregon State Beavers vs. Arizona Wildcats
+['Total (incl. OT) M�s de 139.5', 'Total (incl. OT) Menos de 139.5', 'H�ndicap (incl. OT) Oregon State Beavers (+1.5)', 'H�ndicap (incl. OT) Arizona Wildcats (-1.5)', 'Ganador (incl. OT) Oregon State Beavers', 'Ganador (incl. OT) Arizona Wildcats', '1ra Mitad - total M�s de 64.5', '1ra Mitad - total Menos de 64.5', '1ra Mitad - h�ndicap Oregon State Beavers (-2.5)', '1ra Mitad - h�ndicap Arizona Wildcats (+2.5)', '1� Mitad - Apuesta sin empate Oregon State Beavers', '1� Mitad - Apuesta sin empate Arizona Wildcats']
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BetPlay
+Enisey Krasnoyarsk - Stelmet Zielona G�ra
+['Total de puntos - Cuarto 3 M�s de 41.0', 'Total de puntos - Cuarto 3 Menos 41.0', 'Total de puntos - Cuarto 3 M�s de 40.5', 'Total de puntos - Cuarto 3 Menos 40.5', 'Total de puntos del equipo visitante - Incluyendo pr�rroga M�s de 80.5', 'Total de puntos del equipo visitante - Incluyendo pr�rroga Menos 80.5', 'Total de puntos - Incluyendo pr�rroga M�s de 161.5', 'Total de puntos - Incluyendo pr�rroga Menos 161.5', 'Total de puntos - Incluyendo pr�rroga M�s de 157.5', 'Total de puntos - Incluyendo pr�rroga Menos 157.5', 'Total de puntos - Incluyendo pr�rroga M�s de 154.5', 'Total de puntos - Incluyendo pr�rroga Menos 154.5', 'Total de puntos - Incluyendo pr�rroga M�s de 158.0', 'Total de puntos - Incluyendo pr�rroga Menos 158.0', 'Total de puntos del equipo local - Incluyendo pr�rroga M�s de 77.5', 'Total de puntos del equipo local - Incluyendo pr�rroga Menos 77.5', 'Total de puntos - Cuarto 3 M�s de 38.5', 'Total de puntos - Cuarto 3 Menos 38.5', 'Total de puntos - Cuarto 3 M�s de 42.5', 'Total de puntos - Cuarto 3 Menos 42.5']
+RushBet
+Enisey Krasnoyarsk - Stelmet Zielona G�ra
+['Total de puntos - Cuarto 3 M�s de 40.0', 'Total de puntos - Cuarto 3 Menos 40.0', 'Total de puntos - Cuarto 3 M�s de 40.5', 'Total de puntos - Cuarto 3 Menos 40.5', 'Total de puntos del equipo visitante - Incluyendo pr�rroga M�s de 80.5', 'Total de puntos del equipo visitante - Incluyendo pr�rroga Menos 80.5', 'Total de puntos - Incluyendo pr�rroga M�s de 160.5', 'Total de puntos - Incluyendo pr�rroga Menos 160.5', 'Total de puntos - Incluyendo pr�rroga M�s de 157.5', 'Total de puntos - Incluyendo pr�rroga Menos 157.5', 'Total de puntos - Incluyendo pr�rroga M�s de 154.5', 'Total de puntos - Incluyendo pr�rroga Menos 154.5', 'Total de puntos - Incluyendo pr�rroga M�s de 158.0', 'Total de puntos - Incluyendo pr�rroga Menos 158.0', 'Total de puntos del equipo local - Incluyendo pr�rroga M�s de 76.5', 'Total de puntos del equipo local - Incluyendo pr�rroga Menos 76.5', 'Total de puntos - Cuarto 3 M�s de 38.5', 'Total de puntos - Cuarto 3 Menos 38.5', 'Total de puntos - Cuarto 3 M�s de 42.5', 'Total de puntos - Cuarto 3 Menos 42.5']
+Codere
+Enisey Krasnoyarsk - Stelmet Enea BC Zielona G�ra
+['Stelmet Enea BC Zielona G�ra', 'Enisey Krasnoyarsk', 'Stelmet Enea BC Zielona G�ra -5.5', 'Enisey Krasnoyarsk +5.5', 'Stelmet Enea BC Zielona G�ra -4.5', 'Enisey Krasnoyarsk +4.5', 'Stelmet Enea BC Zielona G�ra -3.5', 'Enisey Krasnoyarsk +3.5', 'Menos 158.5', 'M�s 158.5', 'M�s 159.5', 'Menos 159.5', 'M�s 157.5', 'Menos 157.5', 'M�s 77.5', 'Menos 77.5', 'M�s 81.5', 'Menos 81.5', 'Par', 'Impar', 'Stelmet Enea BC Zielona G�ra', 'Enisey Krasnoyarsk', 'Enisey Krasnoyarsk -1.5', 'Stelmet Enea BC Zielona G�ra +1.5', 'm�s 41.5', 'menos 41.5']
+WPlay
+Enisey Krasnoyarsk vs. Stelmet Zielona Gora
+['Total (incl. OT) M�s de 159.5', 'Total (incl. OT) Menos de 159.5', 'H�ndicap (incl. OT) Enisey Krasnoyarsk (+4.5)', 'H�ndicap (incl. OT) Stelmet Zielona Gora (-4.5)', 'Ganador (incl. OT) Enisey Krasnoyarsk', 'Ganador (incl. OT) Stelmet Zielona Gora']
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BetPlay
+Mes Kerman - Shora Shahrdari Qazvin
+['Total de puntos - Incluyendo pr�rroga M�s de 140.5', 'Total de puntos - Incluyendo pr�rroga Menos 140.5', 'Total de puntos - Incluyendo pr�rroga M�s de 141.0', 'Total de puntos - Incluyendo pr�rroga Menos 141.0', 'Total de puntos - Cuarto 3 M�s de 44.0', 'Total de puntos - Cuarto 3 Menos 44.0', 'Total de puntos - Cuarto 3 M�s de 44.5', 'Total de puntos - Cuarto 3 Menos 44.5']
+RushBet
+Mes Kerman - Shora Shahrdari Qazvin
+['Total de puntos - Incluyendo pr�rroga M�s de 141.0', 'Total de puntos - Incluyendo pr�rroga Menos 141.0', 'Total de puntos - Cuarto 3 M�s de 44.5', 'Total de puntos - Cuarto 3 Menos 44.5', 'Total de puntos - Incluyendo pr�rroga M�s de 141.5', 'Total de puntos - Incluyendo pr�rroga Menos 141.5', 'Total de puntos - Cuarto 3 M�s de 45.0', 'Total de puntos - Cuarto 3 Menos 45.0']
+Codere
+Mes Kerman - Shahrdari Qazvin
+['Shahrdari Qazvin', 'Mes Kerman', 'Shahrdari Qazvin -4.5', 'Mes Kerman +4.5', 'M�s 140.5', 'Menos 140.5', 'M�s 68.5', 'Menos 68.5', 'M�s 72.5', 'Menos 72.5', 'Par', 'Impar', 'Mes Kerman', 'Shahrdari Qazvin', 'Shahrdari Qazvin -7.5', 'Mes Kerman +7.5', 'menos 45.5', 'm�s 45.5']
+WPlay
+Mes Kerman vs. Shora Shahrdari Qazvin
+['Total (incl. OT) M�s de 140.5', 'Total (incl. OT) Menos de 140.5', 'H�ndicap (incl. OT) Mes Kerman (+3.5)', 'H�ndicap (incl. OT) Shora Shahrdari Qazvin (-3.5)', 'Ganador (incl. OT) Mes Kerman', 'Ganador (incl. OT) Shora Shahrdari Qazvin']
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BetPlay
+Naft Abadan - Mahram Tehran
+['Total de puntos - Incluyendo pr�rroga M�s de 152.0', 'Total de puntos - Incluyendo pr�rroga Menos 152.0', 'Total de puntos - Incluyendo pr�rroga M�s de 152.5', 'Total de puntos - Incluyendo pr�rroga Menos 152.5', 'Total de puntos - Cuarto 3 M�s de 38.0', 'Total de puntos - Cuarto 3 Menos 38.0', 'Total de puntos - Cuarto 3 M�s de 38.5', 'Total de puntos - Cuarto 3 Menos 38.5']
+RushBet
+Naft Abadan - Mahram Tehran
+['Total de puntos - Incluyendo pr�rroga M�s de 152.0', 'Total de puntos - Incluyendo pr�rroga Menos 152.0', 'Total de puntos - Incluyendo pr�rroga M�s de 152.5', 'Total de puntos - Incluyendo pr�rroga Menos 152.5', 'Total de puntos - Cuarto 3 M�s de 38.0', 'Total de puntos - Cuarto 3 Menos 38.0', 'Total de puntos - Cuarto 3 M�s de 38.5', 'Total de puntos - Cuarto 3 Menos 38.5']
+Codere
+Palayesh Naft Abadan - Mahram Tehran
+['Palayesh Naft Abadan', 'Mahram Tehran', 'Palayesh Naft Abadan -1.5', 'Mahram Tehran +1.5', 'Menos 151.5', 'M�s 151.5', 'M�s 76.5', 'Menos 76.5', 'M�s 75.5', 'Menos 75.5', 'Impar', 'Par', 'Palayesh Naft Abadan', 'Mahram Tehran', 'Palayesh Naft Abadan -0.5', 'Mahram Tehran +0.5', 'm�s 36.5', 'menos 36.5']
+WPlay
+Palayesh Naft Abadan vs. Mahram
+['Total (incl. OT) M�s de 151.5', 'Total (incl. OT) Menos de 151.5', 'H�ndicap (incl. OT) Palayesh Naft Abadan (-2.5)', 'H�ndicap (incl. OT) Mahram (+2.5)', 'Ganador (incl. OT) Palayesh Naft Abadan', 'Ganador (incl. OT) Mahram']
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BetPlay
+Shahrdari Gorgan - Zob Ahan
+['Total de puntos - Cuarto 3 M�s de 35.0', 'Total de puntos - Cuarto 3 Menos 35.0', 'Total de puntos - Cuarto 3 M�s de 35.5', 'Total de puntos - Cuarto 3 Menos 35.5', 'Total de puntos - Incluyendo pr�rroga M�s de 140.0', 'Total de puntos - Incluyendo pr�rroga Menos 140.0', 'Total de puntos - Incluyendo pr�rroga M�s de 140.5', 'Total de puntos - Incluyendo pr�rroga Menos 140.5']
+RushBet
+Shahrdari Gorgan - Zob Ahan
+['Total de puntos - Cuarto 3 M�s de 35.0', 'Total de puntos - Cuarto 3 Menos 35.0', 'Total de puntos - Cuarto 3 M�s de 35.5', 'Total de puntos - Cuarto 3 Menos 35.5', 'Total de puntos - Incluyendo pr�rroga M�s de 140.0', 'Total de puntos - Incluyendo pr�rroga Menos 140.0', 'Total de puntos - Incluyendo pr�rroga M�s de 140.5', 'Total de puntos - Incluyendo pr�rroga Menos 140.5']
+Codere
+Shahrdari Gorgan - Zob Ahan
+['Shahrdari Gorgan -20.5', 'Zob Ahan +20.5', 'M�s 140.5', 'Menos 140.5', 'M�s 80.5', 'Menos 80.5', 'M�s 60.5', 'Menos 60.5', 'Par', 'Impar', 'Zob Ahan', 'Shahrdari Gorgan', 'Shahrdari Gorgan -1.5', 'Zob Ahan +1.5', 'menos 36.5', 'm�s 36.5']
+WPlay
+Mes Kerman vs. Shora Shahrdari Qazvin
+['Total (incl. OT) M�s de 140.5', 'Total (incl. OT) Menos de 140.5', 'H�ndicap (incl. OT) Mes Kerman (+3.5)', 'H�ndicap (incl. OT) Shora Shahrdari Qazvin (-3.5)', 'Ganador (incl. OT) Mes Kerman', 'Ganador (incl. OT) Shora Shahrdari Qazvin']
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BetPlay
+RushBet
+Niroye Zamini - Avijeh Sanat Mashhad
+['Total de puntos - Incluyendo pr�rroga M�s de 98.5', 'Total de puntos - Incluyendo pr�rroga Menos 98.5', 'Total de puntos - Incluyendo pr�rroga M�s de 98.0', 'Total de puntos - Incluyendo pr�rroga Menos 98.0', 'Total de puntos - Cuarto 4 M�s de 34.0', 'Total de puntos - Cuarto 4 Menos 34.0', 'Total de puntos - Cuarto 4 M�s de 34.5', 'Total de puntos - Cuarto 4 Menos 34.5']
+Codere
+WPlay
+Niroye Zamini vs. Avijeh Sanat Parsa Mashhad
+['Total (incl. OT) M�s de 98.5', 'Total (incl. OT) Menos de 98.5', 'H�ndicap (incl. OT) Niroye Zamini (+20.5)', 'H�ndicap (incl. OT) Avijeh Sanat Parsa Mashhad (-20.5)']
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BetPlay
+RushBet
+Tourfaghan Azarshar - Exxon Tehran
+['Total de puntos - Incluyendo pr�rroga M�s de 148.5', 'Total de puntos - Incluyendo pr�rroga Menos 148.5', 'Total de puntos - 1.� parte M�s de 70.0', 'Total de puntos - 1.� parte Menos 70.0', 'Total de puntos - 1.� parte M�s de 69.5', 'Total de puntos - 1.� parte Menos 69.5', 'Total de puntos - Cuarto 2 M�s de 33.5', 'Total de puntos - Cuarto 2 Menos 33.5', 'Total de puntos - Cuarto 2 M�s de 34.0', 'Total de puntos - Cuarto 2 Menos 34.0', 'Total de puntos - Cuarto 2 M�s de 35.0', 'Total de puntos - Cuarto 2 Menos 35.0']
+Codere
+WPlay
+Toofargan Azarshahr vs. Exxon Tehran
+['Total (incl. OT) M�s de 147.5', 'Total (incl. OT) Menos de 147.5', 'H�ndicap (incl. OT) Toofargan Azarshahr (-1.5)', 'H�ndicap (incl. OT) Exxon Tehran (+1.5)', 'Ganador (incl. OT) Toofargan Azarshahr', 'Ganador (incl. OT) Exxon Tehran', '1ra Mitad - total M�s de 69.5', '1ra Mitad - total Menos de 69.5', '1ra Mitad - h�ndicap Toofargan Azarshahr (-0.5)', '1ra Mitad - h�ndicap Exxon Tehran (+0.5)', '1� Mitad - Apuesta sin empate Toofargan Azarshahr', '1� Mitad - Apuesta sin empate Exxon Tehran']
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BetPlay
+RushBet
+Codere
+Petrochimi Bandar Imam - Chemidor Tehran
+['Chemidor Tehran', 'Petrochimi Bandar Imam', 'Petrochimi Bandar Imam -3.5', 'Chemidor Tehran +3.5', 'Menos 124.5', 'M�s 124.5', 'M�s 64.5', 'Menos 64.5', 'M�s 61.5', 'Menos 61.5', 'Par', 'Impar']
+WPlay
+Petroshimi Bandar Imam vs. Chemidor Qom
+['Total (incl. OT) M�s de 123.5', 'Total (incl. OT) Menos de 123.5', 'H�ndicap (incl. OT) Petroshimi Bandar Imam (-3.5)', 'H�ndicap (incl. OT) Chemidor Qom (+3.5)', 'Ganador (incl. OT) Petroshimi Bandar Imam', 'Ganador (incl. OT) Chemidor Qom']
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BetPlay
+Mega Bemax - KK Crvena Zvezda Belgrad
+['Total de puntos - Cuarto 2 M�s de 40.0', 'Total de puntos - Cuarto 2 Menos 40.0', 'Total de puntos del equipo local - Incluyendo pr�rroga M�s de 76.5', 'Total de puntos del equipo local - Incluyendo pr�rroga Menos 76.5', 'Total de puntos - Cuarto 2 M�s de 39.5', 'Total de puntos - Cuarto 2 Menos 39.5', 'Total de puntos - 1.� parte M�s de 75.5', 'Total de puntos - 1.� parte Menos 75.5', 'Total de puntos - Incluyendo pr�rroga M�s de 162.0', 'Total de puntos - Incluyendo pr�rroga Menos 162.0', 'Total de puntos del equipo visitante - Incluyendo pr�rroga M�s de 86.5', 'Total de puntos del equipo visitante - Incluyendo pr�rroga Menos 86.5', 'Total de puntos - Incluyendo pr�rroga M�s de 162.5', 'Total de puntos - Incluyendo pr�rroga Menos 162.5', 'Total de puntos - 1.� parte M�s de 79.5', 'Total de puntos - 1.� parte Menos 79.5', 'Total de puntos - Incluyendo pr�rroga M�s de 157.5', 'Total de puntos - Incluyendo pr�rroga Menos 157.5', 'Total de puntos - Incluyendo pr�rroga M�s de 166.5', 'Total de puntos - Incluyendo pr�rroga Menos 166.5', 'Total de puntos - Cuarto 2 M�s de 37.5', 'Total de puntos - Cuarto 2 Menos 37.5', 'Total de puntos - Cuarto 2 M�s de 41.5', 'Total de puntos - Cuarto 2 Menos 41.5', 'Total de puntos - 1.� parte M�s de 78.0', 'Total de puntos - 1.� parte Menos 78.0', 'Total de puntos - 1.� parte M�s de 77.5', 'Total de puntos - 1.� parte Menos 77.5']
+RushBet
+Mega Bemax - KK Crvena Zvezda Belgrad
+['Total de puntos - Cuarto 2 M�s de 40.0', 'Total de puntos - Cuarto 2 Menos 40.0', 'Total de puntos del equipo local - Incluyendo pr�rroga M�s de 76.5', 'Total de puntos del equipo local - Incluyendo pr�rroga Menos 76.5', 'Total de puntos - Cuarto 2 M�s de 39.5', 'Total de puntos - Cuarto 2 Menos 39.5', 'Total de puntos - 1.� parte M�s de 75.5', 'Total de puntos - 1.� parte Menos 75.5', 'Total de puntos del equipo visitante - Incluyendo pr�rroga M�s de 86.5', 'Total de puntos del equipo visitante - Incluyendo pr�rroga Menos 86.5', 'Total de puntos - 1.� parte M�s de 80.5', 'Total de puntos - 1.� parte Menos 80.5', 'Total de puntos - Incluyendo pr�rroga M�s de 162.5', 'Total de puntos - Incluyendo pr�rroga Menos 162.5', 'Total de puntos - Incluyendo pr�rroga M�s de 163.0', 'Total de puntos - Incluyendo pr�rroga Menos 163.0', 'Total de puntos - Incluyendo pr�rroga M�s de 157.5', 'Total de puntos - Incluyendo pr�rroga Menos 157.5', 'Total de puntos - Cuarto 2 M�s de 37.5', 'Total de puntos - Cuarto 2 Menos 37.5', 'Total de puntos - 1.� parte M�s de 78.0', 'Total de puntos - 1.� parte Menos 78.0', 'Total de puntos - 1.� parte M�s de 77.5', 'Total de puntos - 1.� parte Menos 77.5', 'Total de puntos - Incluyendo pr�rroga M�s de 167.5', 'Total de puntos - Incluyendo pr�rroga Menos 167.5', 'Total de puntos - Cuarto 2 M�s de 42.5', 'Total de puntos - Cuarto 2 Menos 42.5']
+Codere
+Mega Bemax - Crvena Zvezda MTS Belgrade
+['Mega Bemax', 'Crvena Zvezda MTS Belgrade', 'Mega Bemax +11.5', 'Crvena Zvezda MTS Belgrade -11.5', 'Mega Bemax +10.5', 'Crvena Zvezda MTS Belgrade -10.5', 'Crvena Zvezda MTS Belgrade -9.5', 'Mega Bemax +9.5', 'M�s 163.5', 'Menos 163.5', 'Menos 162.5', 'M�s 162.5', 'M�s 161.5', 'Menos 161.5', 'Menos 76.5', 'M�s 76.5', 'Menos 86.5', 'M�s 86.5', 'Par', 'Impar', 'Mega Bemax', 'Crvena Zvezda MTS Belgrade', 'Crvena Zvezda MTS Belgrade -4.5', 'Mega Bemax +4.5', 'Menos 78.5', 'M�s 78.5', 'Mega Bemax', 'Crvena Zvezda MTS Belgrade', 'Mega Bemax +2.5', 'Crvena Zvezda MTS Belgrade -2.5', 'Menos 40.5', 'm�s 40.5', 'Mega Bemax', 'Crvena Zvezda MTS Belgrade', 'Mega Bemax +3.5', 'Crvena Zvezda MTS Belgrade -3.5', 'm�s 41.5', 'menos 41.5']
+WPlay
+Mega Bemax vs. Crvena Zvezda
+['Total (incl. OT) M�s de 163.5', 'Total (incl. OT) Menos de 163.5', 'H�ndicap (incl. OT) Mega Bemax (+10.5)', 'H�ndicap (incl. OT) Crvena Zvezda (-10.5)', 'Ganador (incl. OT) Mega Bemax', 'Ganador (incl. OT) Crvena Zvezda']
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BetPlay
+Liceo Comercial San Bernardo U22 - CD Manquehue U22
+['Total de puntos - Cuarto 2 M�s de 31.0', 'Total de puntos - Cuarto 2 Menos 31.0', 'Total de puntos - Cuarto 2 M�s de 31.5', 'Total de puntos - Cuarto 2 Menos 31.5', 'Total de puntos - 1.� parte M�s de 71.5', 'Total de puntos - 1.� parte Menos 71.5', 'Total de puntos - Incluyendo pr�rroga M�s de 133.5', 'Total de puntos - Incluyendo pr�rroga Menos 133.5', 'Total de puntos - Incluyendo pr�rroga M�s de 133.0', 'Total de puntos - Incluyendo pr�rroga Menos 133.0', 'Total de puntos - 1.� parte M�s de 71.0', 'Total de puntos - 1.� parte Menos 71.0']
+RushBet
+Liceo Comercial San Bernardo U22 - CD Manquehue U22
+['Total de puntos - Cuarto 2 M�s de 31.0', 'Total de puntos - Cuarto 2 Menos 31.0', 'Total de puntos - Cuarto 2 M�s de 31.5', 'Total de puntos - Cuarto 2 Menos 31.5', 'Total de puntos - 1.� parte M�s de 71.5', 'Total de puntos - 1.� parte Menos 71.5', 'Total de puntos - Incluyendo pr�rroga M�s de 133.5', 'Total de puntos - Incluyendo pr�rroga Menos 133.5', 'Total de puntos - Incluyendo pr�rroga M�s de 133.0', 'Total de puntos - Incluyendo pr�rroga Menos 133.0', 'Total de puntos - 1.� parte M�s de 71.0', 'Total de puntos - 1.� parte Menos 71.0']
+Codere
+WPlay
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BetPlay
+Kazanochka Kazan (W) - Dynamo Kursk II (F)
+['Total de puntos - Incluyendo pr�rroga M�s de 136.0', 'Total de puntos - Incluyendo pr�rroga Menos 136.0', 'Total de puntos - Incluyendo pr�rroga M�s de 135.5', 'Total de puntos - Incluyendo pr�rroga Menos 135.5', 'Total de puntos - Cuarto 4 M�s de 33.0', 'Total de puntos - Cuarto 4 Menos 33.0', 'Total de puntos - Cuarto 4 M�s de 32.5', 'Total de puntos - Cuarto 4 Menos 32.5']
+RushBet
+Kazanochka Kazan (W) - Dynamo Kursk II (F)
+['Total de puntos - Incluyendo pr�rroga M�s de 136.0', 'Total de puntos - Incluyendo pr�rroga Menos 136.0', 'Total de puntos - Incluyendo pr�rroga M�s de 135.5', 'Total de puntos - Incluyendo pr�rroga Menos 135.5', 'Total de puntos - Cuarto 4 M�s de 33.0', 'Total de puntos - Cuarto 4 Menos 33.0', 'Total de puntos - Cuarto 4 M�s de 32.5', 'Total de puntos - Cuarto 4 Menos 32.5']
+Codere
+WPlay
+Kazanozka Kazan vs. Wbc Dynamo Farm Kursk
+['Total (incl. OT) M�s de 136.5', 'Total (incl. OT) Menos de 136.5', 'H�ndicap (incl. OT) Kazanozka Kazan (+19.5)', 'H�ndicap (incl. OT) Wbc Dynamo Farm Kursk (-19.5)']
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BetPlay
+BC Rostov-Don (F) - Stavropolchanka-SKFU (F)
+['Total de puntos - Cuarto 2 M�s de 34.5', 'Total de puntos - Cuarto 2 Menos 34.5', 'Total de puntos - 1.� parte M�s de 64.5', 'Total de puntos - 1.� parte Menos 64.5', 'Total de puntos - Cuarto 2 M�s de 34.0', 'Total de puntos - Cuarto 2 Menos 34.0', 'Total de puntos - Incluyendo pr�rroga M�s de 135.0', 'Total de puntos - Incluyendo pr�rroga Menos 135.0', 'Total de puntos - 1.� parte M�s de 64.0', 'Total de puntos - 1.� parte Menos 64.0', 'Total de puntos - Incluyendo pr�rroga M�s de 134.5', 'Total de puntos - Incluyendo pr�rroga Menos 134.5']
+RushBet
+BC Rostov-Don (F) - Stavropolchanka-SKFU (F)
+['Total de puntos - Cuarto 2 M�s de 34.5', 'Total de puntos - Cuarto 2 Menos 34.5', 'Total de puntos - 1.� parte M�s de 64.5', 'Total de puntos - 1.� parte Menos 64.5', 'Total de puntos - Cuarto 2 M�s de 34.0', 'Total de puntos - Cuarto 2 Menos 34.0', 'Total de puntos - Incluyendo pr�rroga M�s de 135.0', 'Total de puntos - Incluyendo pr�rroga Menos 135.0', 'Total de puntos - 1.� parte M�s de 64.0', 'Total de puntos - 1.� parte Menos 64.0', 'Total de puntos - Incluyendo pr�rroga M�s de 134.5', 'Total de puntos - Incluyendo pr�rroga Menos 134.5']
+Codere
+WPlay
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+BetPlay
+Metallurg Zhlobin - Yunost Minsk
+['Total de goles marcados por el equipo visitante - Tiempo Regular M�s de 2.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular Menos 2.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida M�s de 3.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida Menos 3.5', 'Total de goles - Tiempo reglamentario M�s de 4.5', 'Total de goles - Tiempo reglamentario Menos 4.5', 'Total de goles - Tiempo reglamentario M�s de 3.5', 'Total de goles - Tiempo reglamentario Menos 3.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 3.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 3.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 4.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 4.5', 'Total de goles - 40:00-49:59 M�s de 0.5', 'Total de goles - 40:00-49:59 Menos 0.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular M�s de 3.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular Menos 3.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida M�s de 2.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida Menos 2.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 4.0', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 4.0', 'Total de goles - Tiempo reglamentario M�s de 4.0', 'Total de goles - Tiempo reglamentario Menos 4.0', 'Total de goles - Tiempo reglamentario M�s de 2.5', 'Total de goles - Tiempo reglamentario Menos 2.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 2.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 2.5', 'Total de goles marcados por el equipo local - Tiempo Regular M�s de 0.5', 'Total de goles marcados por el equipo local - Tiempo Regular Menos 0.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida M�s de 0.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida Menos 0.5']
+RushBet
+Metallurg Zhlobin - Yunost Minsk
+['Total de goles marcados por el equipo visitante - Tiempo Regular M�s de 2.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular Menos 2.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida M�s de 3.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida Menos 3.5', 'Total de goles - Tiempo reglamentario M�s de 4.5', 'Total de goles - Tiempo reglamentario Menos 4.5', 'Total de goles - Tiempo reglamentario M�s de 3.5', 'Total de goles - Tiempo reglamentario Menos 3.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 3.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 3.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 4.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 4.5', 'Total de goles - 40:00-49:59 M�s de 0.5', 'Total de goles - 40:00-49:59 Menos 0.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular M�s de 3.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular Menos 3.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida M�s de 2.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida Menos 2.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 4.0', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 4.0', 'Total de goles - Tiempo reglamentario M�s de 4.0', 'Total de goles - Tiempo reglamentario Menos 4.0', 'Total de goles - Tiempo reglamentario M�s de 2.5', 'Total de goles - Tiempo reglamentario Menos 2.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 2.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 2.5', 'Total de goles marcados por el equipo local - Tiempo Regular M�s de 0.5', 'Total de goles marcados por el equipo local - Tiempo Regular Menos 0.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida M�s de 0.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida Menos 0.5']
+Codere
+WPlay
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BetPlay
+MHC Khimik Voskresensk - HC Saryarka
+['Total de goles - Periodo 3 M�s de 1.5', 'Total de goles - Periodo 3 Menos 1.5', 'Total de goles - Periodo 2 M�s de 1.5', 'Total de goles - Periodo 2 Menos 1.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida M�s de 1.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida Menos 1.5', 'Total de goles - Tiempo reglamentario M�s de 4.5', 'Total de goles - Tiempo reglamentario Menos 4.5', 'Total de goles marcados por el equipo local - Tiempo Regular M�s de 1.5', 'Total de goles marcados por el equipo local - Tiempo Regular Menos 1.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 4.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 4.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular M�s de 3.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular Menos 3.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida M�s de 3.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida Menos 3.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 5.0', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 5.0', 'Total de goles - Tiempo reglamentario M�s de 5.0', 'Total de goles - Tiempo reglamentario Menos 5.0']
+RushBet
+MHC Khimik Voskresensk - HC Saryarka
+['Total de goles - Periodo 3 M�s de 1.5', 'Total de goles - Periodo 3 Menos 1.5', 'Total de goles - Periodo 2 M�s de 1.5', 'Total de goles - Periodo 2 Menos 1.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida M�s de 1.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida Menos 1.5', 'Total de goles - Tiempo reglamentario M�s de 4.5', 'Total de goles - Tiempo reglamentario Menos 4.5', 'Total de goles marcados por el equipo local - Tiempo Regular M�s de 1.5', 'Total de goles marcados por el equipo local - Tiempo Regular Menos 1.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 4.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 4.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular M�s de 3.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular Menos 3.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida M�s de 3.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida Menos 3.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 5.0', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 5.0', 'Total de goles - Tiempo reglamentario M�s de 5.0', 'Total de goles - Tiempo reglamentario Menos 5.0']
+Codere
+KHIMIK VOSKRESENSK - HC SARYARKA KARAGANDA
+['HC SARYARKA KARAGANDA', 'KHIMIK VOSKRESENSK', 'M�s 4.5', 'Menos 4.5', 'HC SARYARKA KARAGANDA', 'KHIMIK VOSKRESENSK', 'M�s 1.5', 'Menos 1.5']
+WPlay
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BetPlay
+Neftyanik Almetyevsk - Toros Neftekamsk
+['Total de goles marcados por el equipo visitante - Tiempo Regular M�s de 1.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular Menos 1.5', 'Total de goles marcados por el equipo local - Tiempo Regular M�s de 1.5', 'Total de goles marcados por el equipo local - Tiempo Regular Menos 1.5', 'Total de goles - Tiempo reglamentario M�s de 3.5', 'Total de goles - Tiempo reglamentario Menos 3.5', 'Total de goles - Periodo 3 M�s de 1.5', 'Total de goles - Periodo 3 Menos 1.5', 'Total de goles - Periodo 2 M�s de 1.5', 'Total de goles - Periodo 2 Menos 1.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida M�s de 1.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida Menos 1.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida M�s de 2.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida Menos 2.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 5.0', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 5.0', 'Total de goles - Tiempo reglamentario M�s de 4.5', 'Total de goles - Tiempo reglamentario Menos 4.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 4.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 4.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 3.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 3.5', 'Total de goles marcados por el equipo local - Tiempo Regular M�s de 2.5', 'Total de goles marcados por el equipo local - Tiempo Regular Menos 2.5', 'Total de goles - Tiempo reglamentario M�s de 5.5', 'Total de goles - Tiempo reglamentario Menos 5.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 5.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 5.5', 'Total de goles - Periodo 2 M�s de 2.5', 'Total de goles - Periodo 2 Menos 2.5', 'Total de goles - Periodo 2 M�s de 0.5', 'Total de goles - Periodo 2 Menos 0.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 6.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 6.5', 'Total de goles - Periodo 3 M�s de 2.5', 'Total de goles - Periodo 3 Menos 2.5', 'Total de goles - Periodo 3 M�s de 0.5', 'Total de goles - Periodo 3 Menos 0.5', 'Total de goles - 20:00-29:59 M�s de 0.5', 'Total de goles - 20:00-29:59 Menos 0.5', 'Total de goles - 40:00-49:59 M�s de 0.5', 'Total de goles - 40:00-49:59 Menos 0.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular M�s de 2.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular Menos 2.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida M�s de 3.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida Menos 3.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida M�s de 2.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida Menos 2.5', 'Total de goles marcados por el equipo visitante - Periodo 3 M�s de 0.5', 'Total de goles marcados por el equipo visitante - Periodo 3 Menos 0.5', 'Total de goles marcados por el equipo visitante - Periodo 2 Menos 0.5', 'Total de goles marcados por el equipo visitante - Periodo 2 M�s de 0.5', 'Total de goles marcados por el equipo local - Tiempo Regular M�s de 3.5', 'Total de goles marcados por el equipo local - Tiempo Regular Menos 3.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida M�s de 1.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida Menos 1.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida M�s de 3.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida Menos 3.5', 'Total de goles marcados por el equipo local - Periodo 2 M�s de 0.5', 'Total de goles marcados por el equipo local - Periodo 2 Menos 0.5', 'Total de goles marcados por el equipo local - Periodo 3 M�s de 0.5', 'Total de goles marcados por el equipo local - Periodo 3 Menos 0.5', 'Total de goles - Tiempo reglamentario M�s de 5.0', 'Total de goles - Tiempo reglamentario Menos 5.0', 'Total de goles - Tiempo reglamentario M�s de 6.5', 'Total de goles - Tiempo reglamentario Menos 6.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular M�s de 3.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular Menos 3.5']
+RushBet
+Neftyanik Almetyevsk - Toros Neftekamsk
+['Total de goles marcados por el equipo visitante - Tiempo Regular M�s de 1.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular Menos 1.5', 'Total de goles marcados por el equipo local - Tiempo Regular M�s de 1.5', 'Total de goles marcados por el equipo local - Tiempo Regular Menos 1.5', 'Total de goles - Tiempo reglamentario M�s de 3.5', 'Total de goles - Tiempo reglamentario Menos 3.5', 'Total de goles - Periodo 3 M�s de 1.5', 'Total de goles - Periodo 3 Menos 1.5', 'Total de goles - Periodo 2 M�s de 1.5', 'Total de goles - Periodo 2 Menos 1.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida M�s de 1.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida Menos 1.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida M�s de 2.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida Menos 2.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 5.0', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 5.0', 'Total de goles - Tiempo reglamentario M�s de 4.5', 'Total de goles - Tiempo reglamentario Menos 4.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 4.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 4.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 3.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 3.5', 'Total de goles marcados por el equipo local - Tiempo Regular M�s de 2.5', 'Total de goles marcados por el equipo local - Tiempo Regular Menos 2.5', 'Total de goles - Tiempo reglamentario M�s de 5.5', 'Total de goles - Tiempo reglamentario Menos 5.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 5.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 5.5', 'Total de goles - Periodo 2 M�s de 2.5', 'Total de goles - Periodo 2 Menos 2.5', 'Total de goles - Periodo 2 M�s de 0.5', 'Total de goles - Periodo 2 Menos 0.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 6.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 6.5', 'Total de goles - Periodo 3 M�s de 2.5', 'Total de goles - Periodo 3 Menos 2.5', 'Total de goles - Periodo 3 M�s de 0.5', 'Total de goles - Periodo 3 Menos 0.5', 'Total de goles - 20:00-29:59 M�s de 0.5', 'Total de goles - 20:00-29:59 Menos 0.5', 'Total de goles - 40:00-49:59 M�s de 0.5', 'Total de goles - 40:00-49:59 Menos 0.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular M�s de 2.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular Menos 2.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida M�s de 3.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida Menos 3.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida M�s de 2.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida Menos 2.5', 'Total de goles marcados por el equipo visitante - Periodo 3 M�s de 0.5', 'Total de goles marcados por el equipo visitante - Periodo 3 Menos 0.5', 'Total de goles marcados por el equipo visitante - Periodo 2 Menos 0.5', 'Total de goles marcados por el equipo visitante - Periodo 2 M�s de 0.5', 'Total de goles marcados por el equipo local - Tiempo Regular M�s de 3.5', 'Total de goles marcados por el equipo local - Tiempo Regular Menos 3.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida M�s de 1.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida Menos 1.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida M�s de 3.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida Menos 3.5', 'Total de goles marcados por el equipo local - Periodo 2 M�s de 0.5', 'Total de goles marcados por el equipo local - Periodo 2 Menos 0.5', 'Total de goles marcados por el equipo local - Periodo 3 M�s de 0.5', 'Total de goles marcados por el equipo local - Periodo 3 Menos 0.5', 'Total de goles - Tiempo reglamentario M�s de 5.0', 'Total de goles - Tiempo reglamentario Menos 5.0', 'Total de goles - Tiempo reglamentario M�s de 6.5', 'Total de goles - Tiempo reglamentario Menos 6.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular M�s de 3.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular Menos 3.5']
+Codere
+NEFTJANIK ALMETJEVSK - TOROS NEFTEKAMSK
+['TOROS NEFTEKAMSK', 'NEFTJANIK ALMETJEVSK', 'M�s 4.5', 'Menos 4.5', 'TOROS NEFTEKAMSK', 'NEFTJANIK ALMETJEVSK', 'M�s 1.5', 'Menos 1.5']
+WPlay
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BetPlay
+Dizel Penza - Lada Togliatti
+['Total de goles - Tiempo reglamentario M�s de 4.0', 'Total de goles - Tiempo reglamentario Menos 4.0', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida M�s de 2.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida Menos 2.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 4.0', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 4.0', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 4.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 4.5', 'Total de goles - Periodo 2 M�s de 1.5', 'Total de goles - Periodo 2 Menos 1.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular M�s de 2.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular Menos 2.5', 'Total de goles - Tiempo reglamentario M�s de 5.5', 'Total de goles - Tiempo reglamentario Menos 5.5', 'Total de goles - Tiempo reglamentario M�s de 4.5', 'Total de goles - Tiempo reglamentario Menos 4.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida M�s de 2.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida Menos 2.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 5.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 5.5', 'Total de goles marcados por el equipo local - Tiempo Regular M�s de 2.5', 'Total de goles marcados por el equipo local - Tiempo Regular Menos 2.5', 'Total de goles - Periodo 3 M�s de 1.5', 'Total de goles - Periodo 3 Menos 1.5', 'Total de goles - Tiempo reglamentario M�s de 2.5', 'Total de goles - Tiempo reglamentario Menos 2.5', 'Total de goles - Tiempo reglamentario M�s de 3.5', 'Total de goles - Tiempo reglamentario Menos 3.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 6.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 6.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 3.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 3.5', 'Total de goles - Periodo 1 M�s de 0.5', 'Total de goles - Periodo 1 Menos 0.5', 'Total de goles - Periodo 2 M�s de 0.5', 'Total de goles - Periodo 2 Menos 0.5', 'Total de goles - Periodo 2 M�s de 2.5', 'Total de goles - Periodo 2 Menos 2.5', 'Total de goles - Periodo 3 M�s de 0.5', 'Total de goles - Periodo 3 Menos 0.5', 'Total de goles - Periodo 3 M�s de 2.5', 'Total de goles - Periodo 3 Menos 2.5', 'Total de goles - 20:00-29:59 M�s de 0.5', 'Total de goles - 20:00-29:59 Menos 0.5', 'Total de goles - 40:00-49:59 M�s de 0.5', 'Total de goles - 40:00-49:59 Menos 0.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular M�s de 1.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular Menos 1.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular M�s de 3.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular Menos 3.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida M�s de 3.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida Menos 3.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida M�s de 1.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida Menos 1.5', 'Total de goles marcados por el equipo visitante - Periodo 1 M�s de 0.5', 'Total de goles marcados por el equipo visitante - Periodo 1 Menos 0.5', 'Total de goles marcados por el equipo visitante - Periodo 2 M�s de 0.5', 'Total de goles marcados por el equipo visitante - Periodo 2 Menos 0.5', 'Total de goles marcados por el equipo visitante - Periodo 3 M�s de 0.5', 'Total de goles marcados por el equipo visitante - Periodo 3 Menos 0.5', 'Total de goles marcados por el equipo local - Tiempo Regular M�s de 3.5', 'Total de goles marcados por el equipo local - Tiempo Regular Menos 3.5', 'Total de goles marcados por el equipo local - Tiempo Regular M�s de 1.5', 'Total de goles marcados por el equipo local - Tiempo Regular Menos 1.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida M�s de 1.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida Menos 1.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida M�s de 3.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida Menos 3.5', 'Total de goles marcados por el equipo local - Periodo 1 Menos 0.5', 'Total de goles marcados por el equipo local - Periodo 1 M�s de 0.5', 'Total de goles marcados por el equipo local - Periodo 2 M�s de 0.5', 'Total de goles marcados por el equipo local - Periodo 2 Menos 0.5', 'Total de goles marcados por el equipo local - Periodo 3 M�s de 0.5', 'Total de goles marcados por el equipo local - Periodo 3 Menos 0.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 2.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 2.5', 'Total de goles marcados por el equipo local - Tiempo Regular M�s de 0.5', 'Total de goles marcados por el equipo local - Tiempo Regular Menos 0.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular M�s de 0.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular Menos 0.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida M�s de 0.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida Menos 0.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida M�s de 0.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida Menos 0.5']
+RushBet
+Dizel Penza - Lada Togliatti
+['Total de goles - Tiempo reglamentario M�s de 4.0', 'Total de goles - Tiempo reglamentario Menos 4.0', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida M�s de 2.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida Menos 2.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 4.0', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 4.0', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 4.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 4.5', 'Total de goles - Periodo 2 M�s de 1.5', 'Total de goles - Periodo 2 Menos 1.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular M�s de 2.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular Menos 2.5', 'Total de goles - Tiempo reglamentario M�s de 5.5', 'Total de goles - Tiempo reglamentario Menos 5.5', 'Total de goles - Tiempo reglamentario M�s de 4.5', 'Total de goles - Tiempo reglamentario Menos 4.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida M�s de 2.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida Menos 2.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 5.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 5.5', 'Total de goles marcados por el equipo local - Tiempo Regular M�s de 2.5', 'Total de goles marcados por el equipo local - Tiempo Regular Menos 2.5', 'Total de goles - Periodo 3 M�s de 1.5', 'Total de goles - Periodo 3 Menos 1.5', 'Total de goles - Tiempo reglamentario M�s de 2.5', 'Total de goles - Tiempo reglamentario Menos 2.5', 'Total de goles - Tiempo reglamentario M�s de 3.5', 'Total de goles - Tiempo reglamentario Menos 3.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 6.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 6.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 3.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 3.5', 'Total de goles - Periodo 1 M�s de 0.5', 'Total de goles - Periodo 1 Menos 0.5', 'Total de goles - Periodo 2 M�s de 0.5', 'Total de goles - Periodo 2 Menos 0.5', 'Total de goles - Periodo 2 M�s de 2.5', 'Total de goles - Periodo 2 Menos 2.5', 'Total de goles - Periodo 3 M�s de 0.5', 'Total de goles - Periodo 3 Menos 0.5', 'Total de goles - Periodo 3 M�s de 2.5', 'Total de goles - Periodo 3 Menos 2.5', 'Total de goles - 20:00-29:59 M�s de 0.5', 'Total de goles - 20:00-29:59 Menos 0.5', 'Total de goles - 40:00-49:59 M�s de 0.5', 'Total de goles - 40:00-49:59 Menos 0.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular M�s de 1.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular Menos 1.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular M�s de 3.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular Menos 3.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida M�s de 3.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida Menos 3.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida M�s de 1.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida Menos 1.5', 'Total de goles marcados por el equipo visitante - Periodo 1 M�s de 0.5', 'Total de goles marcados por el equipo visitante - Periodo 1 Menos 0.5', 'Total de goles marcados por el equipo visitante - Periodo 2 M�s de 0.5', 'Total de goles marcados por el equipo visitante - Periodo 2 Menos 0.5', 'Total de goles marcados por el equipo visitante - Periodo 3 M�s de 0.5', 'Total de goles marcados por el equipo visitante - Periodo 3 Menos 0.5', 'Total de goles marcados por el equipo local - Tiempo Regular M�s de 3.5', 'Total de goles marcados por el equipo local - Tiempo Regular Menos 3.5', 'Total de goles marcados por el equipo local - Tiempo Regular M�s de 1.5', 'Total de goles marcados por el equipo local - Tiempo Regular Menos 1.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida M�s de 1.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida Menos 1.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida M�s de 3.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida Menos 3.5', 'Total de goles marcados por el equipo local - Periodo 1 Menos 0.5', 'Total de goles marcados por el equipo local - Periodo 1 M�s de 0.5', 'Total de goles marcados por el equipo local - Periodo 2 M�s de 0.5', 'Total de goles marcados por el equipo local - Periodo 2 Menos 0.5', 'Total de goles marcados por el equipo local - Periodo 3 M�s de 0.5', 'Total de goles marcados por el equipo local - Periodo 3 Menos 0.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 2.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 2.5', 'Total de goles marcados por el equipo local - Tiempo Regular M�s de 0.5', 'Total de goles marcados por el equipo local - Tiempo Regular Menos 0.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular M�s de 0.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular Menos 0.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida M�s de 0.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida Menos 0.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida M�s de 0.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida Menos 0.5']
+Codere
+DIZEL PENZA - HC LADA TOGLIATTI
+['HC LADA TOGLIATTI', 'DIZEL PENZA', 'Menos 3.5', 'M�s 3.5', 'DIZEL PENZA', 'HC LADA TOGLIATTI', 'M�s 0.5', 'Menos 0.5']
+WPlay
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BetPlay
+Dynamo Balashikha - HC Ryazan
+['Total de goles marcados por el equipo visitante - Tiempo Regular M�s de 1.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular Menos 1.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida M�s de 2.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida Menos 2.5', 'Total de goles - Tiempo reglamentario M�s de 3.5', 'Total de goles - Tiempo reglamentario Menos 3.5', 'Total de goles - Periodo 3 M�s de 1.5', 'Total de goles - Periodo 3 Menos 1.5', 'Total de goles - Tiempo reglamentario M�s de 3.0', 'Total de goles - Tiempo reglamentario Menos 3.0', 'Total de goles marcados por el equipo local - Tiempo Regular M�s de 2.5', 'Total de goles marcados por el equipo local - Tiempo Regular Menos 2.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida M�s de 1.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida Menos 1.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 4.0', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 4.0', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 3.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 3.5', 'Total de goles - Periodo 2 M�s de 1.5', 'Total de goles - Periodo 2 Menos 1.5', 'Total de goles - Tiempo reglamentario M�s de 4.5', 'Total de goles - Tiempo reglamentario Menos 4.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 4.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 4.5', 'Total de goles - Periodo 1 M�s de 0.5', 'Total de goles - Periodo 1 Menos 0.5', 'Total de goles - Tiempo reglamentario M�s de 2.5', 'Total de goles - Tiempo reglamentario Menos 2.5', 'Total de goles - Tiempo reglamentario M�s de 5.5', 'Total de goles - Tiempo reglamentario Menos 5.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 5.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 5.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 2.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 2.5', 'Total de goles - Periodo 2 M�s de 0.5', 'Total de goles - Periodo 2 Menos 0.5', 'Total de goles - Periodo 3 M�s de 2.5', 'Total de goles - Periodo 3 Menos 2.5', 'Total de goles - Periodo 2 M�s de 2.5', 'Total de goles - Periodo 2 Menos 2.5', 'Total de goles - Periodo 3 M�s de 0.5', 'Total de goles - Periodo 3 Menos 0.5', 'Total de goles - 20:00-29:59 M�s de 0.5', 'Total de goles - 20:00-29:59 Menos 0.5', 'Total de goles - 40:00-49:59 M�s de 0.5', 'Total de goles - 40:00-49:59 Menos 0.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular M�s de 2.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular Menos 2.5', 'Total de goles marcados por el equipo visitante - Periodo 3 M�s de 0.5', 'Total de goles marcados por el equipo visitante - Periodo 3 Menos 0.5', 'Total de goles marcados por el equipo local - Tiempo Regular M�s de 3.5', 'Total de goles marcados por el equipo local - Tiempo Regular Menos 3.5', 'Total de goles marcados por el equipo visitante - Periodo 1 M�s de 0.5', 'Total de goles marcados por el equipo visitante - Periodo 1 Menos 0.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular M�s de 0.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular Menos 0.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida M�s de 1.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida Menos 1.5', 'Total de goles marcados por el equipo local - Tiempo Regular M�s de 1.5', 'Total de goles marcados por el equipo local - Tiempo Regular Menos 1.5', 'Total de goles marcados por el equipo visitante - Periodo 2 Menos 0.5', 'Total de goles marcados por el equipo visitante - Periodo 2 M�s de 0.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida M�s de 2.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida Menos 2.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida M�s de 0.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida Menos 0.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida M�s de 3.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida Menos 3.5', 'Total de goles marcados por el equipo local - Periodo 1 M�s de 0.5', 'Total de goles marcados por el equipo local - Periodo 1 Menos 0.5', 'Total de goles marcados por el equipo local - Periodo 2 M�s de 0.5', 'Total de goles marcados por el equipo local - Periodo 2 Menos 0.5', 'Total de goles marcados por el equipo local - Periodo 3 M�s de 0.5', 'Total de goles marcados por el equipo local - Periodo 3 Menos 0.5', 'Total de goles - Tiempo reglamentario M�s de 1.5', 'Total de goles - Tiempo reglamentario Menos 1.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 1.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 1.5', 'Total de goles marcados por el equipo local - Tiempo Regular M�s de 0.5', 'Total de goles marcados por el equipo local - Tiempo Regular Menos 0.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida M�s de 0.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida Menos 0.5']
+RushBet
+Dynamo Balashikha - HC Ryazan
+['Total de goles marcados por el equipo visitante - Tiempo Regular M�s de 1.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular Menos 1.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida M�s de 2.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida Menos 2.5', 'Total de goles - Tiempo reglamentario M�s de 3.5', 'Total de goles - Tiempo reglamentario Menos 3.5', 'Total de goles - Periodo 3 M�s de 1.5', 'Total de goles - Periodo 3 Menos 1.5', 'Total de goles - Tiempo reglamentario M�s de 3.0', 'Total de goles - Tiempo reglamentario Menos 3.0', 'Total de goles marcados por el equipo local - Tiempo Regular M�s de 2.5', 'Total de goles marcados por el equipo local - Tiempo Regular Menos 2.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida M�s de 1.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida Menos 1.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 4.0', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 4.0', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 3.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 3.5', 'Total de goles - Periodo 2 M�s de 1.5', 'Total de goles - Periodo 2 Menos 1.5', 'Total de goles - Tiempo reglamentario M�s de 4.5', 'Total de goles - Tiempo reglamentario Menos 4.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 4.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 4.5', 'Total de goles - Periodo 1 M�s de 0.5', 'Total de goles - Periodo 1 Menos 0.5', 'Total de goles - Tiempo reglamentario M�s de 2.5', 'Total de goles - Tiempo reglamentario Menos 2.5', 'Total de goles - Tiempo reglamentario M�s de 5.5', 'Total de goles - Tiempo reglamentario Menos 5.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 5.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 5.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 2.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 2.5', 'Total de goles - Periodo 2 M�s de 0.5', 'Total de goles - Periodo 2 Menos 0.5', 'Total de goles - Periodo 3 M�s de 2.5', 'Total de goles - Periodo 3 Menos 2.5', 'Total de goles - Periodo 2 M�s de 2.5', 'Total de goles - Periodo 2 Menos 2.5', 'Total de goles - Periodo 3 M�s de 0.5', 'Total de goles - Periodo 3 Menos 0.5', 'Total de goles - 20:00-29:59 M�s de 0.5', 'Total de goles - 20:00-29:59 Menos 0.5', 'Total de goles - 40:00-49:59 M�s de 0.5', 'Total de goles - 40:00-49:59 Menos 0.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular M�s de 2.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular Menos 2.5', 'Total de goles marcados por el equipo visitante - Periodo 3 M�s de 0.5', 'Total de goles marcados por el equipo visitante - Periodo 3 Menos 0.5', 'Total de goles marcados por el equipo local - Tiempo Regular M�s de 3.5', 'Total de goles marcados por el equipo local - Tiempo Regular Menos 3.5', 'Total de goles marcados por el equipo visitante - Periodo 1 M�s de 0.5', 'Total de goles marcados por el equipo visitante - Periodo 1 Menos 0.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular M�s de 0.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular Menos 0.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida M�s de 1.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida Menos 1.5', 'Total de goles marcados por el equipo local - Tiempo Regular M�s de 1.5', 'Total de goles marcados por el equipo local - Tiempo Regular Menos 1.5', 'Total de goles marcados por el equipo visitante - Periodo 2 Menos 0.5', 'Total de goles marcados por el equipo visitante - Periodo 2 M�s de 0.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida M�s de 2.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida Menos 2.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida M�s de 0.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida Menos 0.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida M�s de 3.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida Menos 3.5', 'Total de goles marcados por el equipo local - Periodo 1 M�s de 0.5', 'Total de goles marcados por el equipo local - Periodo 1 Menos 0.5', 'Total de goles marcados por el equipo local - Periodo 2 M�s de 0.5', 'Total de goles marcados por el equipo local - Periodo 2 Menos 0.5', 'Total de goles marcados por el equipo local - Periodo 3 M�s de 0.5', 'Total de goles marcados por el equipo local - Periodo 3 Menos 0.5', 'Total de goles - Tiempo reglamentario M�s de 1.5', 'Total de goles - Tiempo reglamentario Menos 1.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 1.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 1.5', 'Total de goles marcados por el equipo local - Tiempo Regular M�s de 0.5', 'Total de goles marcados por el equipo local - Tiempo Regular Menos 0.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida M�s de 0.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida Menos 0.5']
+Codere
+HK DYNAMO TVER - HK RYAZAN
+['HK RYAZAN', 'HK DYNAMO TVER', 'M�s 3.5', 'Menos 3.5', 'HK RYAZAN', 'HK DYNAMO TVER', 'Menos 0.5', 'M�s 0.5']
+WPlay
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BetPlay
+Zvezda Chekhov - Nomad Astana
+['Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida M�s de 3.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida Menos 3.5', 'Total de goles - Tiempo reglamentario M�s de 4.5', 'Total de goles - Tiempo reglamentario Menos 4.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 5.0', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 5.0', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 4.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 4.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida M�s de 1.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida Menos 1.5', 'Total de goles - Tiempo reglamentario M�s de 5.5', 'Total de goles - Tiempo reglamentario Menos 5.5', 'Total de goles - Periodo 2 M�s de 1.5', 'Total de goles - Periodo 2 Menos 1.5', 'Total de goles - Tiempo reglamentario M�s de 5.0', 'Total de goles - Tiempo reglamentario Menos 5.0', 'Total de goles marcados por el equipo local - Tiempo Regular M�s de 3.5', 'Total de goles marcados por el equipo local - Tiempo Regular Menos 3.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular M�s de 1.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular Menos 1.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 5.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 5.5', 'Total de goles - Periodo 3 M�s de 1.5', 'Total de goles - Periodo 3 Menos 1.5', 'Total de goles - Periodo 1 M�s de 1.5', 'Total de goles - Periodo 1 Menos 1.5', 'Total de goles - Tiempo reglamentario M�s de 6.5', 'Total de goles - Tiempo reglamentario Menos 6.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 6.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 6.5', 'Total de goles - Tiempo reglamentario M�s de 3.5', 'Total de goles - Tiempo reglamentario Menos 3.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 3.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 3.5', 'Total de goles - Periodo 2 M�s de 2.5', 'Total de goles - Periodo 2 Menos 2.5', 'Total de goles - Periodo 3 M�s de 0.5', 'Total de goles - Periodo 3 Menos 0.5', 'Total de goles - Periodo 2 M�s de 0.5', 'Total de goles - Periodo 2 Menos 0.5', 'Total de goles - Periodo 3 M�s de 2.5', 'Total de goles - Periodo 3 Menos 2.5', 'Total de goles - 20:00-29:59 M�s de 0.5', 'Total de goles - 20:00-29:59 Menos 0.5', 'Total de goles - 40:00-49:59 M�s de 0.5', 'Total de goles - 40:00-49:59 Menos 0.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular M�s de 2.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular Menos 2.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida M�s de 2.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida Menos 2.5', 'Total de goles marcados por el equipo visitante - Periodo 3 M�s de 0.5', 'Total de goles marcados por el equipo visitante - Periodo 3 Menos 0.5', 'Total de goles marcados por el equipo visitante - Periodo 2 M�s de 0.5', 'Total de goles marcados por el equipo visitante - Periodo 2 Menos 0.5', 'Total de goles marcados por el equipo local - Tiempo Regular M�s de 2.5', 'Total de goles marcados por el equipo local - Tiempo Regular Menos 2.5', 'Total de goles marcados por el equipo local - Tiempo Regular M�s de 1.5', 'Total de goles marcados por el equipo local - Tiempo Regular Menos 1.5', 'Total de goles marcados por el equipo local - Tiempo Regular M�s de 4.5', 'Total de goles marcados por el equipo local - Tiempo Regular Menos 4.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida M�s de 1.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida Menos 1.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida M�s de 2.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida Menos 2.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida M�s de 4.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida Menos 4.5', 'Total de goles marcados por el equipo local - Periodo 1 Menos 0.5', 'Total de goles marcados por el equipo local - Periodo 1 M�s de 0.5', 'Total de goles marcados por el equipo local - Periodo 3 M�s de 0.5', 'Total de goles marcados por el equipo local - Periodo 3 Menos 0.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular M�s de 3.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular Menos 3.5', 'Total de goles marcados por el equipo visitante - Periodo 1 M�s de 1.5', 'Total de goles marcados por el equipo visitante - Periodo 1 Menos 1.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida M�s de 3.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida Menos 3.5', 'Total de goles marcados por el equipo local - Periodo 2 M�s de 1.5', 'Total de goles marcados por el equipo local - Periodo 2 Menos 1.5']
+RushBet
+Zvezda Chekhov - Nomad Astana
+['Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida M�s de 3.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida Menos 3.5', 'Total de goles - Tiempo reglamentario M�s de 4.5', 'Total de goles - Tiempo reglamentario Menos 4.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 5.0', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 5.0', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 4.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 4.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida M�s de 1.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida Menos 1.5', 'Total de goles - Tiempo reglamentario M�s de 5.5', 'Total de goles - Tiempo reglamentario Menos 5.5', 'Total de goles - Periodo 2 M�s de 1.5', 'Total de goles - Periodo 2 Menos 1.5', 'Total de goles - Tiempo reglamentario M�s de 5.0', 'Total de goles - Tiempo reglamentario Menos 5.0', 'Total de goles marcados por el equipo local - Tiempo Regular M�s de 3.5', 'Total de goles marcados por el equipo local - Tiempo Regular Menos 3.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular M�s de 1.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular Menos 1.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 5.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 5.5', 'Total de goles - Periodo 3 M�s de 1.5', 'Total de goles - Periodo 3 Menos 1.5', 'Total de goles - Periodo 1 M�s de 1.5', 'Total de goles - Periodo 1 Menos 1.5', 'Total de goles - Tiempo reglamentario M�s de 6.5', 'Total de goles - Tiempo reglamentario Menos 6.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 6.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 6.5', 'Total de goles - Tiempo reglamentario M�s de 3.5', 'Total de goles - Tiempo reglamentario Menos 3.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 3.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 3.5', 'Total de goles - Periodo 2 M�s de 2.5', 'Total de goles - Periodo 2 Menos 2.5', 'Total de goles - Periodo 3 M�s de 0.5', 'Total de goles - Periodo 3 Menos 0.5', 'Total de goles - Periodo 2 M�s de 0.5', 'Total de goles - Periodo 2 Menos 0.5', 'Total de goles - Periodo 3 M�s de 2.5', 'Total de goles - Periodo 3 Menos 2.5', 'Total de goles - 20:00-29:59 M�s de 0.5', 'Total de goles - 20:00-29:59 Menos 0.5', 'Total de goles - 40:00-49:59 M�s de 0.5', 'Total de goles - 40:00-49:59 Menos 0.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular M�s de 2.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular Menos 2.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida M�s de 2.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida Menos 2.5', 'Total de goles marcados por el equipo visitante - Periodo 3 M�s de 0.5', 'Total de goles marcados por el equipo visitante - Periodo 3 Menos 0.5', 'Total de goles marcados por el equipo visitante - Periodo 2 M�s de 0.5', 'Total de goles marcados por el equipo visitante - Periodo 2 Menos 0.5', 'Total de goles marcados por el equipo local - Tiempo Regular M�s de 2.5', 'Total de goles marcados por el equipo local - Tiempo Regular Menos 2.5', 'Total de goles marcados por el equipo local - Tiempo Regular M�s de 1.5', 'Total de goles marcados por el equipo local - Tiempo Regular Menos 1.5', 'Total de goles marcados por el equipo local - Tiempo Regular M�s de 4.5', 'Total de goles marcados por el equipo local - Tiempo Regular Menos 4.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida M�s de 1.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida Menos 1.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida M�s de 2.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida Menos 2.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida M�s de 4.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida Menos 4.5', 'Total de goles marcados por el equipo local - Periodo 1 Menos 0.5', 'Total de goles marcados por el equipo local - Periodo 1 M�s de 0.5', 'Total de goles marcados por el equipo local - Periodo 3 M�s de 0.5', 'Total de goles marcados por el equipo local - Periodo 3 Menos 0.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular M�s de 3.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular Menos 3.5', 'Total de goles marcados por el equipo visitante - Periodo 1 M�s de 1.5', 'Total de goles marcados por el equipo visitante - Periodo 1 Menos 1.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida M�s de 3.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida Menos 3.5', 'Total de goles marcados por el equipo local - Periodo 2 M�s de 1.5', 'Total de goles marcados por el equipo local - Periodo 2 Menos 1.5']
+Codere
+WPlay
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BetPlay
+RushBet
+M�xico Sub-20 - New Zealand U20
+['Total de goles marcados por el equipo local - Tiempo Regular M�s de 4.5', 'Total de goles marcados por el equipo local - Tiempo Regular Menos 4.5', 'Total de goles - Tiempo reglamentario M�s de 4.5', 'Total de goles - Tiempo reglamentario Menos 4.5', 'Total de goles - Tiempo reglamentario M�s de 5.0', 'Total de goles - Tiempo reglamentario Menos 5.0', 'Total de goles marcados por el equipo visitante - Tiempo Regular M�s de 0.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular Menos 0.5']
+Codere
+MEXICO S20 - NUEVA ZELANDA S20
+['M�s 4.5', 'Menos 4.5']
+WPlay
+M�xico vs. Nueva Zelanda
+['Total (incl. OT y penaltis) M�s de 4.5', 'Total (incl. OT y penaltis) Menos de 4.5', 'H�ndicap (incl. OT y penaltis) M�xico (-3.5)', 'H�ndicap (incl. OT y penaltis) Nueva Zelanda (+3.5)']
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BetPlay
+RushBet
+HC Rostov - ORG
+['Total de goles - Periodo 3 M�s de 1.5', 'Total de goles - Periodo 3 Menos 1.5', 'Total de goles - Periodo 2 M�s de 1.5', 'Total de goles - Periodo 2 Menos 1.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular M�s de 1.5', 'Total de goles marcados por el equipo visitante - Tiempo Regular Menos 1.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida M�s de 1.5', 'Total de goles anotados por el equipo visitante - Pr�rroga y tanda de penaltis incluida Menos 1.5', 'Total de goles - Tiempo reglamentario M�s de 8.5', 'Total de goles - Tiempo reglamentario Menos 8.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 8.5', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 8.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida M�s de 6.5', 'Total de goles anotados por el equipo local - Pr�rroga y tanda de penaltis incluida Menos 6.5', 'Total de goles - Tiempo reglamentario M�s de 9.0', 'Total de goles - Tiempo reglamentario Menos 9.0', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida M�s de 9.0', 'N�mero total de goles - Pr�rroga y tanda de penaltis incluida Menos 9.0', 'Total de goles marcados por el equipo local - Tiempo Regular M�s de 7.5', 'Total de goles marcados por el equipo local - Tiempo Regular Menos 7.5']
+Codere
+HC ROSTOV - ORG
+['Menos 8.5', 'M�s 8.5', 'HC ROSTOV', 'ORG', 'M�s 1.5', 'Menos 1.5']
+WPlay
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BetPlay
+RushBet
+Codere
+HK MOGILEV - PINSKIE JASTREBY
+['HK MOGILEV', 'PINSKIE JASTREBY', 'Menos 5.5', 'M�s 5.5', 'Menos 1.5', 'M�s 1.5']
+WPlay
+HK Mogilev vs. Pinskie Jastreby
+['Total (incl. OT y penaltis) M�s de 5.5', 'Total (incl. OT y penaltis) Menos de 5.5', 'Ganador (incl. OT y penaltis) HK Mogilev', 'Ganador (incl. OT y penaltis) Pinskie Jastreby']
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+BetPlay
+Al-Rayyan - Al-Sadd (QAT)
+['Total de goles M�s de 59.5', 'Total de goles Menos 59.5', 'Total de goles marcados por el equipo local M�s de 32.5', 'Total de goles marcados por el equipo local Menos 32.5', 'Total de goles M�s de 60.5', 'Total de goles Menos 60.5', 'Total de goles M�s de 61.5', 'Total de goles Menos 61.5', 'Total de goles marcados por el equipo visitante M�s de 27.5', 'Total de goles marcados por el equipo visitante Menos 27.5']
+RushBet
+Al-Rayyan - Al-Sadd (QAT)
+['Total de goles M�s de 59.5', 'Total de goles Menos 59.5', 'Total de goles marcados por el equipo local M�s de 32.5', 'Total de goles marcados por el equipo local Menos 32.5', 'Total de goles M�s de 60.5', 'Total de goles Menos 60.5', 'Total de goles M�s de 61.5', 'Total de goles Menos 61.5', 'Total de goles marcados por el equipo visitante M�s de 27.5', 'Total de goles marcados por el equipo visitante Menos 27.5']
+Codere
+WPlay
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BetPlay
+RushBet
+Codere
+AL RAYYAN - AL SADD (QAT)
+['AL SADD (QAT) +5.5', 'AL RAYYAN -5.5', 'M�s 60.5', 'Menos 60.5', 'Impar', 'Par']
+WPlay
+Al Rayyan vs. Al Sadd
+['Total M�s de 60.5', 'Total Menos de 60.5']
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BetPlay
+Qatar SC - Al Khor
+['Total de goles M�s de 57.5', 'Total de goles Menos 57.5']
+RushBet
+Qatar SC - Al Khor
+['Total de goles M�s de 57.5', 'Total de goles Menos 57.5']
+Codere
+WPlay
+Qatar SC vs. Al Khor
+['Total M�s de 57.5', 'Total Menos de 57.5']
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-----------------------------------------------------------------
+BetPlay
+Ofogh Qom - Pas Gorgan
+['Total de puntos - Set 5 M�s de 27.5', 'Total de puntos - Set 5 Menos 27.5', 'Total de puntos - Set 5 M�s de 28.5', 'Total de puntos - Set 5 Menos 28.5']
+RushBet
+Ofogh Qom - Pas Gorgan
+[]
+Codere
+WPlay
+BetPlay
+Aali - Bani Jamra
+['Total de sets M�s de 4.5', 'Total de sets Menos 4.5', 'Total de puntos - Set 3 M�s de 44.5', 'Total de puntos - Set 3 Menos 44.5', 'Total de puntos - Set 3 M�s de 45.5', 'Total de puntos - Set 3 Menos 45.5', 'Total de puntos M�s de 187.5', 'Total de puntos Menos 187.5', 'Total de puntos - Set 4 M�s de 44.5', 'Total de puntos - Set 4 Menos 44.5', 'Total de puntos - Set 4 M�s de 45.5', 'Total de puntos - Set 4 Menos 45.5', 'Total de puntos - Set 4 M�s de 43.5', 'Total de puntos - Set 4 Menos 43.5', 'Total de puntos - Set 3 M�s de 46.5', 'Total de puntos - Set 3 Menos 46.5']
+RushBet
+Aali - Bani Jamra
+['Total de sets M�s de 4.5', 'Total de sets Menos 4.5', 'Total de puntos M�s de 186.5', 'Total de puntos Menos 186.5', 'Total de puntos - Set 3 M�s de 44.5', 'Total de puntos - Set 3 Menos 44.5', 'Total de puntos - Set 3 M�s de 45.5', 'Total de puntos - Set 3 Menos 45.5', 'Total de puntos - Set 4 M�s de 44.5', 'Total de puntos - Set 4 Menos 44.5', 'Total de puntos - Set 4 M�s de 45.5', 'Total de puntos - Set 4 Menos 45.5', 'Total de puntos - Set 4 M�s de 43.5', 'Total de puntos - Set 4 Menos 43.5', 'Total de puntos - Set 3 M�s de 46.5', 'Total de puntos - Set 3 Menos 46.5']
+Codere
+WPlay
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BetPlay
+Al Tayaran - Sporting
+['Total de puntos - Set 2 M�s de 46.5', 'Total de puntos - Set 2 Menos 46.5', 'Total de puntos - Set 2 M�s de 45.5', 'Total de puntos - Set 2 Menos 45.5', 'Total de puntos - Set 2 M�s de 44.5', 'Total de puntos - Set 2 Menos 44.5', 'Total de puntos - Set 3 M�s de 45.5', 'Total de puntos - Set 3 Menos 45.5', 'Total de puntos - Set 3 M�s de 46.5', 'Total de puntos - Set 3 Menos 46.5', 'Total de puntos - Set 3 M�s de 44.5', 'Total de puntos - Set 3 Menos 44.5']
+RushBet
+Al Tayaran - Sporting
+['Total de puntos - Set 2 M�s de 46.5', 'Total de puntos - Set 2 Menos 46.5', 'Total de puntos - Set 2 M�s de 45.5', 'Total de puntos - Set 2 Menos 45.5', 'Total de puntos - Set 2 M�s de 44.5', 'Total de puntos - Set 2 Menos 44.5', 'Total de puntos - Set 3 M�s de 45.5', 'Total de puntos - Set 3 Menos 45.5', 'Total de puntos - Set 3 M�s de 46.5', 'Total de puntos - Set 3 Menos 46.5', 'Total de puntos - Set 3 M�s de 44.5', 'Total de puntos - Set 3 Menos 44.5']
+Codere
+WPlay
+El Tayaran vs. Sporting
+['Segundo set - total puntos M�s de 45.5', 'Segundo set - total puntos Menos de 45.5', 'Segundo set - h�ndicap por puntos El Tayaran (-2.5)', 'Segundo set - h�ndicap por puntos Sporting (+2.5)', 'Total puntos M�s de 184.5', 'Total puntos Menos de 184.5', 'H�ndicap por puntos El Tayaran (+5.5)', 'H�ndicap por puntos Sporting (-5.5)', 'Segundo set - ganador El Tayaran', 'Segundo set - ganador Sporting', 'Ganador El Tayaran', 'Ganador Sporting']
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+BetPlay
+Khulna Tigers - Rajshahi Royals
+['Total de carreras - Equipo local M�s de 168.5', 'Total de carreras - Equipo local Menos 168.5', 'Runs totales - Equipo local,  Over 15 M�s de 8.5', 'Runs totales - Equipo local,  Over 15 Menos 8.5', 'Runs totales - Equipo local, Over 14,  Delivery 6 M�s de 0.5', 'Runs totales - Equipo local, Over 14,  Delivery 6 Menos 0.5']
+RushBet
+Khulna Tigers - Rajshahi Royals
+['Total de carreras - Equipo local M�s de 168.5', 'Total de carreras - Equipo local Menos 168.5', 'Runs totales - Equipo local,  Over 15 M�s de 8.5', 'Runs totales - Equipo local,  Over 15 Menos 8.5', 'Runs totales - Equipo local, Over 14,  Delivery 6 M�s de 0.5', 'Runs totales - Equipo local, Over 14,  Delivery 6 Menos 0.5']
+Codere
+WPlay
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+BetPlay
+Robertson, Neil - Maguire, Stephen
+['Total de Partidas M�s de 9.5', 'Total de Partidas Menos 9.5', 'Total de Partidas M�s de 8.5', 'Total de Partidas Menos 8.5', 'Total Century breaks M�s de 2.5', 'Total Century breaks Menos 2.5', 'Total Centuries - Robertson, Neil M�s de 1.5', 'Total Centuries - Robertson, Neil Menos 1.5', 'Total de centuries - Maguire, Stephen M�s de 0.5', 'Total de centuries - Maguire, Stephen Menos 0.5', 'Total de breaks de m�s de 50 M�s de 6.5', 'Total de breaks de m�s de 50 Menos 6.5', 'Total Half-Century breaks - Robertson, Neil M�s de 5.5', 'Total Half-Century breaks - Robertson, Neil Menos 5.5', 'Total de Partidas M�s de 7.5', 'Total de Partidas Menos 7.5', 'Total de puntos - Partida 4 M�s de 99.5', 'Total de puntos - Partida 4 Menos 99.5', 'Total Half-Century Breaks - Maguire, Stephen M�s de 1.5', 'Total Half-Century Breaks - Maguire, Stephen Menos 1.5', 'Total Centuries - Robertson, Neil M�s de 2.5', 'Total Centuries - Robertson, Neil Menos 2.5']
+RushBet
+Robertson, Neil - Maguire, Stephen
+['Total de Partidas M�s de 9.5', 'Total de Partidas Menos 9.5', 'Total de Partidas M�s de 8.5', 'Total de Partidas Menos 8.5', 'Total Century breaks M�s de 2.5', 'Total Century breaks Menos 2.5', 'Total Centuries - Robertson, Neil M�s de 1.5', 'Total Centuries - Robertson, Neil Menos 1.5', 'Total de centuries - Maguire, Stephen M�s de 0.5', 'Total de centuries - Maguire, Stephen Menos 0.5', 'Total de breaks de m�s de 50 M�s de 6.5', 'Total de breaks de m�s de 50 Menos 6.5', 'Total Half-Century breaks - Robertson, Neil M�s de 5.5', 'Total Half-Century breaks - Robertson, Neil Menos 5.5', 'Total de Partidas M�s de 7.5', 'Total de Partidas Menos 7.5', 'Total de puntos - Partida 4 M�s de 99.5', 'Total de puntos - Partida 4 Menos 99.5', 'Total Half-Century Breaks - Maguire, Stephen M�s de 1.5', 'Total Half-Century Breaks - Maguire, Stephen Menos 1.5', 'Total Centuries - Robertson, Neil M�s de 2.5', 'Total Centuries - Robertson, Neil Menos 2.5']
+Codere
+Neil Robertson - Stephen Maguire
+['Neil Robertson', 'Stephen Maguire', 'Neil Robertson -3.5', 'Stephen Maguire +3.5', 'Stephen Maguire', 'Neil Robertson']
+WPlay
+Robertson, Neil vs. Maguire, Stephen
+['Ganador Robertson, Neil', 'Ganador Maguire, Stephen', 'Frame h�ndicap Robertson, Neil (-3.5)', 'Frame h�ndicap Maguire, Stephen (+3.5)', 'Total frames M�s de 8.5', 'Total frames Menos de 8.5']
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+BetPlay
+Robertson, Neil - Maguire, Stephen
+['Total de puntos - Partida 9 M�s de 99.5', 'Total de puntos - Partida 9 Menos 99.5']
+RushBet
+Robertson, Neil - Maguire, Stephen
+['Total de puntos - Partida 9 M�s de 99.5', 'Total de puntos - Partida 9 Menos 99.5']
+Codere
+Neil Robertson - Stephen Maguire
+['Neil Robertson', 'Stephen Maguire', 'Stephen Maguire', 'Neil Robertson']
+WPlay
+Robertson, Neil vs. Maguire, Stephen
+['Ganador Robertson, Neil', 'Ganador Maguire, Stephen']
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-----------------------------------------------------------------
+-----------------------------------------------------------------

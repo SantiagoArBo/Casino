@@ -1,95 +1,5 @@
 from lecturas import partido
-def separarDeportes(partidosPorPagina):
-    vectorBase = ["fútbol",\
-                  "tenis",\
-                  "baloncesto",\
-                  "fútbol americano",\
-                  "hockey sobre hielo",\
-                  "béisbol",\
-                  "balonmano",\
-                  "voleibol",\
-                  "esquí alpino",\
-                  "fútbol australiano",\
-                  "bádminton",\
-                  "biatlón",\
-                  "boxeo",\
-                  "ciclismo",\
-                  "críquet",\
-                  "dardos",\
-                  "esports",\
-                  "fútbol sala",\
-                  "fútbol gaélico",\
-                  "hurling gaélico",\
-                  "golf",\
-                  "mma",\
-                  "carreras de autos",\
-                  "rugby",\
-                  "liga de rugby",\
-                  "snooker",\
-                  "waterpolo",\
-                  "ajedrez",\
-                  "billar",\
-                  "deportes de invierno"]
-    vectorBase2 = ["fútbol",\
-                  "tenis",\
-                  "baloncesto",\
-                  "fútbol americano",\
-                  "hockey hielo",\
-                  "béisbol",\
-                  "balonmano",\
-                  "voleibol",\
-                  "esquí alpino",\
-                  "fútbol australiano",\
-                  "bádminton",\
-                  "biatlón",\
-                  "boxeo",\
-                  "ciclocross",\
-                  "críquet",\
-                  "dardos",\
-                  "e-sports",\
-                  "fútbol sala",\
-                  "fútbol gaélico",\
-                  "hurling gaélico",\
-                  "golf",\
-                  "ufc/mma",\
-                  "fórmula 1 y motos",\
-                  "rugby union",\
-                  "rugby league",\
-                  "snooker",\
-                  "waterpolo",\
-                  "ajedrez",\
-                  "billar",\
-                  "deportes de invierno"]
-    vectorBase3 = ["fútbol",\
-                  "tenis",\
-                  "baloncesto",\
-                  "fútbol americano",\
-                  "hockey hielo",\
-                  "béisbol",\
-                  "balonmano",\
-                  "voleibol",\
-                  "esquí alpino",\
-                  "fútbol australiano",\
-                  "bádminton",\
-                  "biatlón",\
-                  "boxeo",\
-                  "ciclismo",\
-                  "críquet",\
-                  "dardos",\
-                  "e-sports",\
-                  "fútbol sala",\
-                  "fútbol gaélico",\
-                  "hurling gaélico",\
-                  "golf",\
-                  "artes marciales (ufc/mma)",\
-                  "carreras de autos",\
-                  "rugby",\
-                  "liga de rugby",\
-                  "snooker",\
-                  "waterpolo",\
-                  "ajedrez",\
-                  "billar",\
-                  "deportes de invierno"]
+def separarDeportes(partidosPorPagina,vectorBase,vectorBase2,vectorBase3):
     m = len(vectorBase)
     partidosPorDeporte = [[[] for j in range(4)] for i in range(m)]
     n = len(partidosPorPagina)
@@ -117,3 +27,210 @@ def separarDeportes(partidosPorPagina):
                 print("Falta el deporte "+a)
         i = i+1
     return partidosPorDeporte
+vectorBase = ["fútbol",\
+              "tenis",\
+              "baloncesto",\
+              "fútbol americano",\
+              "hockey sobre hielo",\
+              "béisbol",\
+              "balonmano",\
+              "voleibol",\
+              "esquí alpino",\
+              "fútbol australiano",\
+              "bádminton",\
+              "biatlón",\
+              "boxeo",\
+              "ciclismo",\
+              "críquet",\
+              "dardos",\
+              "esports",\
+              "fútbol sala",\
+              "fútbol gaélico",\
+              "hurling gaélico",\
+              "golf",\
+              "mma",\
+              "carreras de autos",\
+              "rugby",\
+              "liga de rugby",\
+              "waterpolo",\
+              "ajedrez",\
+              "billar",\
+              "deportes de invierno"]
+vectorBase2 = ["fútbol",\
+              "tenis",\
+              "baloncesto",\
+              "fútbol americano",\
+              "hockey hielo",\
+              "béisbol",\
+              "balonmano",\
+              "voleibol",\
+              "esquí alpino",\
+              "fútbol australiano",\
+              "bádminton",\
+              "biatlón",\
+              "boxeo",\
+              "ciclocross",\
+              "críquet",\
+              "dardos",\
+              "e-sports",\
+              "fútbol sala",\
+              "fútbol gaélico",\
+              "hurling gaélico",\
+              "golf",\
+              "ufc/mma",\
+              "fórmula 1 y motos",\
+              "rugby union",\
+              "rugby league",\
+              "waterpolo",\
+              "ajedrez",\
+              "billar",\
+              "deportes de invierno"]
+vectorBase3 = ["fútbol",\
+              "tenis",\
+              "baloncesto",\
+              "fútbol americano",\
+              "hockey hielo",\
+              "béisbol",\
+              "balonmano",\
+              "voleibol",\
+              "esquí alpino",\
+              "fútbol australiano",\
+              "bádminton",\
+              "biatlón",\
+              "boxeo",\
+              "ciclismo",\
+              "críquet",\
+              "dardos",\
+              "e-sports",\
+              "fútbol sala",\
+              "fútbol gaélico",\
+              "hurling gaélico",\
+              "golf",\
+              "artes marciales (ufc/mma)",\
+              "carreras de autos",\
+              "rugby",\
+              "liga de rugby",\
+              "waterpolo",\
+              "ajedrez",\
+              "snooker",\
+              "deportes de invierno"]
+vectorApuestasBetPlay = [[],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      []]
+vectorApuestasRushBet = [[],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      []]
+vectorApuestasCodere = [[],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      []]
+vectorApuestasWplay = [[],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      [],\
+                      []]
