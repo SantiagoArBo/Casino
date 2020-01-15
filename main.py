@@ -30,23 +30,23 @@ def main():
     b = 0
     contador1 = 0
     contador2 = 0
-    # while b<a:
-    #     contador1 = contador1 + len(res[b])
-    #     contador2 = contador2 + len(nuevos_res[b])
-    #     for i in res[b]:
-    #         j = 0
-    #         while j<4:
-    #             if i[j] is not -1:
-    #                 try:
-    #                     print(partidosPorDeporte[b][j][i[j]].partido)
-    #                 except:
-    #                     pass
-    #             j=j+1
-    #         print("-------------------------------------------------------------------------------")
-    #     b = b+1
-    # print(contador1)
-    # print(contador2)
-    # print(v)
-    # print(e-s)
+    while b<a:
+        contador1 = contador1 + len(res[b])
+        contador2 = contador2 + len(nuevos_res[b])
+        for i in res[b]:
+            j = 0
+            while j<4:
+                if i[j] is not -1:
+                    try:
+                        print(partidosPorDeporte[b][j][i[j]].partido)
+                    except:
+                        pass
+                j=j+1
+            print("-------------------------------------------------------------------------------")
+        b = b+1
+    print(contador1)
+    print(contador2)
+    print(v)
+    print(e-s)
 if __name__ == '__main__':
     main()

@@ -15,19 +15,19 @@ def eliminarSolos(partidos):
     return nuevos_partidos
 def evaluar(numeros,partidos):
     respuesta = []
-    v = ["BetPlay","RushBet","Codere","WPlay"]
-    for i in numeros:
-        j=0
-        while j<4:
-            print(v[j])
-            if i[j] is not -1:
-                try:
-                    print(partidos[j][i[j]].partido)
-                    print(partidos[j][i[j]].tipo_apuesta)
-                except:
-                    pass
-            j=j+1
-        print("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
+    # v = ["BetPlay","RushBet","Codere","WPlay"]
+    # for i in numeros:
+    #     j=0
+    #     while j<4:
+    #         print(v[j])
+    #         if i[j] is not -1:
+    #             try:
+    #                 print(partidos[j][i[j]].partido)
+    #                 print(partidos[j][i[j]].tipo_apuesta)
+    #             except:
+    #                 pass
+    #         j=j+1
+    #     print("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
     return respuesta
 def Apuestas(numeros,partidos):
     nuevos_numeros = eliminarSolos(numeros)
