@@ -1,0 +1,42 @@
+﻿(Betplay y Rushbet)
+Total de goles M�s de X.X
+Total de goles Menos X.X
+Total de goles marcados por el equipo local M�s de X.X
+Total de goles marcados por el equipo local Menos de X.X
+Total de goles marcados por el equipo visitante M�s de X.X
+Total de goles marcados por el equipo visitante Menos X.X
+Total de goles - XX: XX - XX: XX M�s de (Y 0) X.X
+Total de goles - XX: XX - XX: XX Menos (Y 0) X.X
+Total de goles del Equipo local - X.� parte M�s de X.X
+Total de goles del Equipo local - X.� parte Menos X.X
+Total de goles del equipo visitante - X.� parte M�s de X.X
+Total de goles del equipo visitante - X.� parte Menos X.X
+Total de goles - X.� parte M�s de X.X
+Total de goles - X.� parte Menos X.X
+Total de c�rners M�s de X.X
+Total de c�rners Menos X.X
+Total de c�rners - X.� parte M�s de X.X
+Total de c�rners - X.� parte Menos X.X
+Total de c�rners - XX:XX-XX:XX M�s de X.X
+Total de c�rners - XX:XX-XX:XX Menos X.X
+(Codere)
+M�s X.X (antes)
+Menos X.X (antes)
+S�
+No
+"nombre equipo"
+"nombre equipo" -X.X
+Ambos Equipos
+Par (antes)
+Impar (antes)
+Par (despues)
+Impar (despues)
+M�s X.X (despues)
+Menos X.X (despues)
+(Wplay)
+Ambos equipos marcan S�
+Ambos equipos marcan No
+Total M�s de X.X
+Total Menos de X.X
+H�ndicap "nombre equipo" (-X.X)
+Apuesta sin empate "nombre equipo"

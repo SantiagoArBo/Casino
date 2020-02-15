@@ -21,10 +21,10 @@ def main():
     a = len(partidosPorDeporte)
     i=0
     while i<a:
-        print(vectorBase[i])
+        # print(vectorBase[i])
         temp = Apuestas(res[i],partidosPorDeporte[i])
         nuevos_res.append(temp)
-        print("-----------------------------------------------------------------")
+        #print("-----------------------------------------------------------------")
         i=i+1
     a = len(res)
     b = 0

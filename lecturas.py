@@ -41,28 +41,31 @@ def lecturaWPlay():
     dep = list(range(1,21))
     info = []
     for j in dep:
-        urlWPlay = 'https://sb1capi-altenar.biahosted.com/Sportsbook/GetLiveEvents?timezoneOffset=300&langId=4&skinName=wplay&configId=1&culture=es&countryCode=CO&deviceType=Desktop&sportids='+str(j)+'&categoryids=0&champids=0&group=Championship&outrightsDisplay=none&couponType=0&filterSingleNodes=2'
-        r = requests.get(urlWPlay)
-        data = r.json()
-        if len(data["Result"]["Items"])>=1:
-            for i in data["Result"]["Items"][0]["Items"]:
-                for w in i["Events"]:
-                    try:
-                        deporte = w["SportName"]
-                        nombre = w["Name"]
-                        apuesta = []
-                        valor = []
-                        for k in w["Items"]:
-                            n = len(k["Items"])
-                            if n==2:
-                                apuesta.append(k["Name"]+" "+ k["Items"][0]["Name"])
-                                apuesta.append(k["Name"]+" "+ k["Items"][1]["Name"])
-                                valor.append(k["Items"][0]["Price"])
-                                valor.append(k["Items"][1]["Price"])
-                        match = partido(deporte, nombre, apuesta, valor)
-                        info.append(match)
-                    except:
-                        print("error en algo en WPlay")
+        try:
+            urlWPlay = 'https://sb1capi-altenar.biahosted.com/Sportsbook/GetLiveEvents?timezoneOffset=300&langId=4&skinName=wplay&configId=1&culture=es&countryCode=CO&deviceType=Desktop&sportids='+str(j)+'&categoryids=0&champids=0&group=Championship&outrightsDisplay=none&couponType=0&filterSingleNodes=2'
+            r = requests.get(urlWPlay)
+            data = r.json()
+            if len(data["Result"]["Items"])>=1:
+                for i in data["Result"]["Items"][0]["Items"]:
+                    for w in i["Events"]:
+                        try:
+                            deporte = w["SportName"]
+                            nombre = w["Name"]
+                            apuesta = []
+                            valor = []
+                            for k in w["Items"]:
+                                n = len(k["Items"])
+                                if n==2:
+                                    apuesta.append(k["Name"]+" "+ k["Items"][0]["Name"])
+                                    apuesta.append(k["Name"]+" "+ k["Items"][1]["Name"])
+                                    valor.append(k["Items"][0]["Price"])
+                                    valor.append(k["Items"][1]["Price"])
+                            match = partido(deporte, nombre, apuesta, valor)
+                            info.append(match)
+                        except:
+                            print("error en algo en WPlay")
+        except:
+            pass
     return info
 def lecturaCodere():
     info = []
