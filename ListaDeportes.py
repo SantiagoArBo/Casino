@@ -114,7 +114,7 @@ vectorBase3 = ["fútbol",\
               "ajedrez",\
               "snooker",\
               "deportes de invierno"]
-vectorApuestasBetPlay = [[],\
+vectorApuestasBetPlay = [["?","?","Total de goles Más de ","Total de goles Menos ","?","",],\
                       [],\
                       [],\
                       [],\
@@ -144,7 +144,7 @@ vectorApuestasBetPlay = [[],\
                       [],\
                       [],\
                       []]
-vectorApuestasRushBet = [[],\
+vectorApuestasCodere = [["Sí","No","Más ","Menos ","","?",],\
                       [],\
                       [],\
                       [],\
@@ -174,37 +174,7 @@ vectorApuestasRushBet = [[],\
                       [],\
                       [],\
                       []]
-vectorApuestasCodere = [[],\
-                      [],\
-                      [],\
-                      [],\
-                      [],\
-                      [],\
-                      [],\
-                      [],\
-                      [],\
-                      [],\
-                      [],\
-                      [],\
-                      [],\
-                      [],\
-                      [],\
-                      [],\
-                      [],\
-                      [],\
-                      [],\
-                      [],\
-                      [],\
-                      [],\
-                      [],\
-                      [],\
-                      [],\
-                      [],\
-                      [],\
-                      [],\
-                      [],\
-                      []]
-vectorApuestasWplay = [[],\
+vectorApuestasWplay = [["Ambos equipos marcan Sí","Ambos equipos marcan No","Total Más de ","Total Menos de ","Apuesta sin empate","?"],\
                       [],\
                       [],\
                       [],\

@@ -20,11 +20,11 @@ Total de c�rners - X.� parte Menos X.X
 Total de c�rners - XX:XX-XX:XX M�s de X.X
 Total de c�rners - XX:XX-XX:XX Menos X.X
 (Codere)
-M�s X.X (antes)
+M�s X.X (antes) (total de goles)
 Menos X.X (antes)
-S�
+S� (ambos marcan)
 No
-"nombre equipo"
+"nombre equipo" (gana)
 "nombre equipo" -X.X
 Ambos Equipos
 Par (antes)

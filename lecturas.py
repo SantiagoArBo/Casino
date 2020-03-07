@@ -10,7 +10,7 @@ class partido:
         respuesta = [self.tipo_apuesta[num], self.valor[num]]
         return respuesta
     def darNumApuestas(self):
-        respuesta = len(valor)
+        respuesta = len(self.valor)
         return respuesta
 def lecturaBetPlay():
     info = []
